@@ -113,7 +113,9 @@ generate_fact_table.sql
 triggers.sql
 ```
 ### Finished Data Warehouse Schema:
-[![dwh_ecom1](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/images%20for%20github/datawarehouse_ecom.jpg)
+![dwh_ecom1](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/images%20for%20github/datawarehouse_ecom.jpg)
+
+in mysql : 
 ![dwh_ecom](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/images%20for%20github/dwh_ecom.jpg)
 
 **********************************************************************************************************************************
