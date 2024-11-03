@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="128 41 990 480" width="862px" height="439px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="477" y1="183" x2="467" y2="183" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="269" y1="89" x2="259" y2="89" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="467" y1="183" x2="269" y2="89" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="469.5" y1="183" x2="473.03553390593" y2="186.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="469.5" y1="183" x2="473.03553390593" y2="179.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="264" y1="89" x2="267.53553390593" y2="92.535533905933" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="264" y1="89" x2="267.53553390593" y2="85.464466094067" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="635" y1="203" x2="645" y2="203" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="774" y1="86" x2="784" y2="86" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="645" y1="203" x2="774" y2="86" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="642.5" y1="203" x2="638.96446609407" y2="206.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="642.5" y1="203" x2="638.96446609407" y2="199.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="779" y1="86" x2="775.46446609407" y2="89.535533905933" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="779" y1="86" x2="775.46446609407" y2="82.464466094067" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="635" y1="223" x2="645" y2="223" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="807" y1="399" x2="817" y2="399" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="645" y1="223" x2="807" y2="399" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="642.5" y1="223" x2="638.96446609407" y2="226.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="642.5" y1="223" x2="638.96446609407" y2="219.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="812" y1="399" x2="808.46446609407" y2="402.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="812" y1="399" x2="808.46446609407" y2="395.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="477" y1="323" x2="467" y2="323" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="255" y1="375" x2="245" y2="375" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="467" y1="323" x2="255" y2="375" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="469.5" y1="323" x2="473.03553390593" y2="326.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="469.5" y1="323" x2="473.03553390593" y2="319.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="250" y1="375" x2="253.53553390593" y2="378.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="250" y1="375" x2="253.53553390593" y2="371.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <rect width="116" height="20" x="143" y="59" style="fill:#007;stroke:black;"/>
+   <text width="116" height="20" x="148" y="73" style="fill:#fff;" font-family="Arial" font-size="16px"> dwh_customers</text>
+   <rect width="116" height="20" x="143" y="79" style="fill:#aea;stroke:black;"/>
+   <text width="116" height="20" x="148" y="93" style="fill:black;" font-family="Arial" font-size="16px">customer_id</text>
+   <rect width="116" height="20" x="143" y="99" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="148" y="113" style="fill:black;" font-family="Arial" font-size="16px">first_name</text>
+   <rect width="116" height="20" x="143" y="119" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="148" y="133" style="fill:black;" font-family="Arial" font-size="16px">last_name</text>
+   <rect width="116" height="20" x="143" y="139" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="148" y="153" style="fill:black;" font-family="Arial" font-size="16px">full_name</text>
+   <rect width="116" height="20" x="143" y="159" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="148" y="173" style="fill:black;" font-family="Arial" font-size="16px">country_code</text>
+   <rect width="99" height="20" x="146" y="345" style="fill:#007;stroke:black;"/>
+   <text width="99" height="20" x="151" y="359" style="fill:#fff;" font-family="Arial" font-size="16px"> dwh_date</text>
+   <rect width="99" height="20" x="146" y="365" style="fill:#aea;stroke:black;"/>
+   <text width="99" height="20" x="151" y="379" style="fill:black;" font-family="Arial" font-size="16px">Date_key</text>
+   <rect width="99" height="20" x="146" y="385" style="fill:none;stroke:black;"/>
+   <text width="99" height="20" x="151" y="399" style="fill:black;" font-family="Arial" font-size="16px">Dates</text>
+   <rect width="99" height="20" x="146" y="405" style="fill:none;stroke:black;"/>
+   <text width="99" height="20" x="151" y="419" style="fill:black;" font-family="Arial" font-size="16px">Day_name</text>
+   <rect width="99" height="20" x="146" y="425" style="fill:none;stroke:black;"/>
+   <text width="99" height="20" x="151" y="439" style="fill:black;" font-family="Arial" font-size="16px">Month_name</text>
+   <rect width="99" height="20" x="146" y="445" style="fill:none;stroke:black;"/>
+   <text width="99" height="20" x="151" y="459" style="fill:black;" font-family="Arial" font-size="16px">Year_name</text>
+   <rect width="118" height="20" x="784" y="56" style="fill:#007;stroke:black;"/>
+   <text width="118" height="20" x="789" y="70" style="fill:#fff;" font-family="Arial" font-size="16px"> dwh_employees</text>
+   <rect width="118" height="20" x="784" y="76" style="fill:#aea;stroke:black;"/>
+   <text width="118" height="20" x="789" y="90" style="fill:black;" font-family="Arial" font-size="16px">employee_id</text>
+   <rect width="118" height="20" x="784" y="96" style="fill:none;stroke:black;"/>
+   <text width="118" height="20" x="789" y="110" style="fill:black;" font-family="Arial" font-size="16px">first_name</text>
+   <rect width="118" height="20" x="784" y="116" style="fill:none;stroke:black;"/>
+   <text width="118" height="20" x="789" y="130" style="fill:black;" font-family="Arial" font-size="16px">last_name</text>
+   <rect width="118" height="20" x="784" y="136" style="fill:none;stroke:black;"/>
+   <text width="118" height="20" x="789" y="150" style="fill:black;" font-family="Arial" font-size="16px">full_name</text>
+   <rect width="118" height="20" x="784" y="156" style="fill:none;stroke:black;"/>
+   <text width="118" height="20" x="789" y="170" style="fill:black;" font-family="Arial" font-size="16px">department</text>
+   <rect width="158" height="20" x="477" y="153" style="fill:#007;stroke:black;"/>
+   <text width="158" height="20" x="482" y="167" style="fill:#fff;" font-family="Arial" font-size="16px"> dwh_fact</text>
+   <rect width="158" height="20" x="477" y="173" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="187" style="fill:black;" font-family="Arial" font-size="16px">customer_id</text>
+   <rect width="158" height="20" x="477" y="193" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="207" style="fill:black;" font-family="Arial" font-size="16px">employee_id</text>
+   <rect width="158" height="20" x="477" y="213" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="227" style="fill:black;" font-family="Arial" font-size="16px">product_id</text>
+   <rect width="158" height="20" x="477" y="233" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="247" style="fill:black;" font-family="Arial" font-size="16px">Price_USD</text>
+   <rect width="158" height="20" x="477" y="253" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="267" style="fill:black;" font-family="Arial" font-size="16px">Caffeine_Content_mg</text>
+   <rect width="158" height="20" x="477" y="273" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="287" style="fill:black;" font-family="Arial" font-size="16px">Sugar_Content_g</text>
+   <rect width="158" height="20" x="477" y="293" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="307" style="fill:black;" font-family="Arial" font-size="16px">Country</text>
+   <rect width="158" height="20" x="477" y="313" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="327" style="fill:black;" font-family="Arial" font-size="16px">Date_key</text>
+   <rect width="158" height="20" x="477" y="333" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="347" style="fill:black;" font-family="Arial" font-size="16px">date</text>
+   <rect width="158" height="20" x="477" y="353" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="482" y="367" style="fill:black;" font-family="Arial" font-size="16px">credit_provider</text>
+   <rect width="158" height="20" x="817" y="269" style="fill:#007;stroke:black;"/>
+   <text width="158" height="20" x="822" y="283" style="fill:#fff;" font-family="Arial" font-size="16px"> dwh_products</text>
+   <rect width="158" height="20" x="817" y="289" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="822" y="303" style="fill:black;" font-family="Arial" font-size="16px">Product_Name</text>
+   <rect width="158" height="20" x="817" y="309" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="822" y="323" style="fill:black;" font-family="Arial" font-size="16px">Caffeine_Content_mg</text>
+   <rect width="158" height="20" x="817" y="329" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="822" y="343" style="fill:black;" font-family="Arial" font-size="16px">Price_USD</text>
+   <rect width="158" height="20" x="817" y="349" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="822" y="363" style="fill:black;" font-family="Arial" font-size="16px">Country</text>
+   <rect width="158" height="20" x="817" y="369" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="822" y="383" style="fill:black;" font-family="Arial" font-size="16px">Sugar_Content_g</text>
+   <rect width="158" height="20" x="817" y="389" style="fill:#aea;stroke:black;"/>
+   <text width="158" height="20" x="822" y="403" style="fill:black;" font-family="Arial" font-size="16px">product_id</text>
+</svg>

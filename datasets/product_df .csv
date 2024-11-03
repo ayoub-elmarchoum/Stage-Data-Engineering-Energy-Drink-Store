@@ -1,0 +1,4001 @@
+Product_Name,Caffeine_Content_mg,Price_USD,Country,Sugar_Content_g,product_id
+Energy Drink J 90,62.8,7.57,Japan,36.6,1213
+Energy Drink N 74,263.6,1.77,South Korea,29.7,1822
+Energy Drink C 84,164.2,6.23,UK,15.2,1287
+Energy Drink A 38,186.6,4.82,Canada,21.5,231
+Energy Drink Q 57,143.7,7.74,Germany,7.7,571
+Energy Drink W 17,226.8,3.3,USA,6.1,3036
+Energy Drink T 72,280.7,6.08,Canada,41.3,1486
+Energy Drink X 94,151.8,9.75,France,45.6,3306
+Energy Drink V 84,201.0,3.75,Germany,45.3,1521
+Energy Drink W 72,229.5,3.21,USA,20.4,2738
+Energy Drink X 81,95.7,8.98,USA,9.3,1345
+Energy Drink F 57,289.4,4.15,UK,17.9,1926
+Energy Drink T 98,65.0,5.85,USA,1.9,3688
+Energy Drink B 15,239.0,4.0,Canada,34.1,713
+Energy Drink C 53,164.5,8.19,UK,32.6,2923
+Energy Drink I 65,153.5,6.12,France,5.8,2785
+Energy Drink B 86,238.8,3.51,Japan,38.7,3380
+Energy Drink T 77,175.5,8.59,France,29.5,1495
+Energy Drink B 34,114.0,6.43,South Korea,19.2,1022
+Energy Drink T 3,182.5,5.08,France,22.5,768
+Energy Drink P 16,155.9,4.65,Germany,41.8,3487
+Energy Drink U 80,66.6,7.4,Japan,26.6,138
+Energy Drink Y 78,73.5,6.96,Canada,46.4,1744
+Energy Drink R 63,137.6,6.31,Japan,18.4,3718
+Energy Drink L 19,238.5,9.84,France,25.9,1063
+Energy Drink Y 91,95.0,3.82,UK,48.0,407
+Energy Drink O 38,242.9,6.83,South Korea,6.8,3705
+Energy Drink C 54,199.7,8.67,UK,36.5,313
+Energy Drink E 63,158.3,7.59,Japan,45.2,3878
+Energy Drink U 9,238.3,1.0,France,13.1,2232
+Energy Drink O 96,244.4,6.18,Japan,12.5,490
+Energy Drink Q 61,115.0,1.42,Germany,19.5,3792
+Energy Drink H 69,138.1,6.62,Japan,37.1,1224
+Energy Drink C 43,251.1,9.8,UK,34.3,2383
+Energy Drink M 58,218.0,8.35,UK,2.7,1932
+Energy Drink Z 65,70.6,1.86,UK,21.6,3492
+Energy Drink K 65,176.2,7.63,Germany,26.8,1183
+Energy Drink Q 35,51.7,7.54,UK,27.4,1228
+Energy Drink M 9,196.7,3.56,Germany,17.8,3354
+Energy Drink G 91,245.0,6.37,Japan,37.4,1251
+Energy Drink X 57,221.9,9.13,UK,35.9,3406
+Energy Drink D 90,266.3,2.21,Canada,6.4,3052
+Energy Drink B 86,177.8,7.04,Japan,30.5,1728
+Energy Drink C 54,163.4,7.15,USA,10.0,980
+Energy Drink T 71,112.8,2.5,Germany,39.6,3225
+Energy Drink E 11,263.8,9.16,UK,29.9,3617
+Energy Drink B 50,245.8,7.86,USA,16.6,2384
+Energy Drink W 15,267.4,9.42,UK,19.6,1804
+Energy Drink X 91,174.0,6.06,Canada,18.6,3356
+Energy Drink I 52,271.9,2.21,UK,43.3,2494
+Energy Drink X 81,133.5,2.52,South Korea,43.2,705
+Energy Drink A 73,258.8,5.88,Japan,27.4,2456
+Energy Drink A 65,95.5,9.31,Germany,36.3,2646
+Energy Drink M 8,83.0,2.42,Germany,7.9,82
+Energy Drink U 19,202.8,8.53,Canada,5.4,1501
+Energy Drink L 7,72.7,6.99,Japan,9.6,299
+Energy Drink M 24,152.3,4.63,Germany,29.9,2028
+Energy Drink N 67,231.6,6.66,USA,0.2,182
+Energy Drink H 78,100.6,5.75,Japan,16.7,2345
+Energy Drink B 92,281.2,2.67,South Korea,45.2,2221
+Energy Drink C 91,271.0,4.44,France,2.4,3856
+Energy Drink H 64,83.8,5.54,Canada,28.7,2803
+Energy Drink J 67,71.9,7.24,UK,35.5,2523
+Energy Drink R 31,257.9,9.45,South Korea,2.9,917
+Energy Drink R 37,281.6,8.13,UK,2.5,3344
+Energy Drink H 79,218.1,5.93,Japan,6.6,2049
+Energy Drink Y 9,296.9,8.51,South Korea,20.5,3239
+Energy Drink H 57,270.0,7.08,South Korea,33.3,1203
+Energy Drink P 69,291.4,1.1,South Korea,3.8,349
+Energy Drink D 55,202.6,5.49,France,14.4,2595
+Energy Drink J 53,113.9,4.43,Japan,8.1,2928
+Energy Drink G 20,132.4,9.87,France,2.4,691
+Energy Drink P 90,228.2,6.05,France,23.5,1444
+Energy Drink P 7,288.7,9.86,UK,5.7,2960
+Energy Drink Y 43,100.4,4.63,UK,34.6,2450
+Energy Drink Y 21,241.4,5.85,UK,26.5,3273
+Energy Drink E 53,273.6,7.35,USA,27.7,3357
+Energy Drink R 11,236.9,7.6,France,16.0,2425
+Energy Drink I 70,223.2,9.36,France,14.1,739
+Energy Drink W 87,160.0,7.96,France,49.4,2953
+Energy Drink M 9,145.9,7.4,Japan,11.7,1409
+Energy Drink I 19,158.5,7.56,South Korea,39.2,1693
+Energy Drink Z 18,200.6,5.37,France,5.8,608
+Energy Drink V 63,172.8,3.19,South Korea,13.9,1584
+Energy Drink M 50,52.2,2.81,Canada,10.7,3681
+Energy Drink I 38,215.0,7.91,Germany,26.1,574
+Energy Drink B 23,128.8,6.67,Canada,34.9,3113
+Energy Drink E 9,184.0,6.95,Germany,17.8,1230
+Energy Drink X 92,101.3,9.77,Canada,3.1,3047
+Energy Drink L 65,88.7,4.55,Germany,21.5,335
+Energy Drink M 50,219.9,8.71,USA,13.2,645
+Energy Drink Z 40,167.3,3.79,Canada,6.8,3716
+Energy Drink T 36,189.7,5.26,South Korea,30.5,708
+Energy Drink D 22,244.0,6.24,Germany,41.6,3303
+Energy Drink G 72,241.8,7.07,UK,21.5,916
+Energy Drink P 9,74.2,5.6,Germany,26.9,2652
+Energy Drink V 99,65.7,2.49,UK,1.8,2718
+Energy Drink S 92,54.1,8.82,UK,14.3,1219
+Energy Drink T 58,272.9,6.41,South Korea,43.4,111
+Energy Drink A 54,255.9,7.31,Japan,24.2,21
+Energy Drink N 79,91.6,6.04,South Korea,16.6,1606
+Energy Drink C 75,252.4,1.76,USA,3.2,353
+Energy Drink E 45,76.8,2.49,UK,32.4,1394
+Energy Drink V 76,59.9,7.78,Japan,45.7,2779
+Energy Drink M 16,187.2,1.76,Japan,28.8,3776
+Energy Drink K 99,297.3,5.5,UK,43.8,1528
+Energy Drink L 14,239.1,9.67,South Korea,44.1,3829
+Energy Drink T 41,264.9,1.43,France,18.0,763
+Energy Drink K 7,178.5,8.1,USA,1.2,3576
+Energy Drink D 59,272.8,4.11,France,17.1,2714
+Energy Drink I 34,287.9,6.84,UK,45.2,891
+Energy Drink G 79,74.0,1.17,USA,44.2,3001
+Energy Drink K 61,247.1,9.4,France,45.1,3808
+Energy Drink N 35,170.5,5.48,Germany,49.9,7
+Energy Drink V 65,88.8,4.04,Japan,23.7,2970
+Energy Drink J 69,212.8,8.18,France,39.6,3998
+Energy Drink Z 7,149.4,3.23,USA,15.6,1053
+Energy Drink Z 64,81.9,6.5,UK,32.4,901
+Energy Drink O 20,68.0,4.6,UK,20.2,45
+Energy Drink V 6,103.3,6.93,USA,42.5,2533
+Energy Drink K 50,109.3,1.98,Japan,26.7,3055
+Energy Drink L 90,229.0,8.41,Germany,49.2,887
+Energy Drink W 69,255.5,4.91,South Korea,45.5,3105
+Energy Drink L 24,86.3,9.29,USA,8.9,797
+Energy Drink R 8,211.4,4.19,Japan,45.3,3496
+Energy Drink E 85,197.7,5.42,Japan,7.7,3216
+Energy Drink S 28,268.7,7.64,USA,12.9,2895
+Energy Drink W 6,150.0,5.07,Germany,26.4,2261
+Energy Drink Q 98,52.4,4.3,Canada,24.0,2584
+Energy Drink Z 98,298.0,5.18,France,37.4,504
+Energy Drink A 97,255.6,6.87,France,13.1,791
+Energy Drink A 99,183.8,8.21,Germany,49.4,3338
+Energy Drink C 3,223.1,7.14,USA,17.9,3121
+Energy Drink Z 3,157.9,5.82,France,43.6,1186
+Energy Drink A 31,172.4,5.24,France,5.0,1206
+Energy Drink G 61,293.0,7.95,Canada,20.1,2861
+Energy Drink P 48,68.0,1.53,Japan,6.4,1013
+Energy Drink Y 85,54.7,2.72,Germany,8.0,1720
+Energy Drink C 50,294.3,9.36,Japan,13.3,3288
+Energy Drink C 58,152.5,8.85,France,22.9,3727
+Energy Drink Q 56,229.7,2.78,France,18.4,457
+Energy Drink R 90,283.2,7.75,Japan,16.1,1614
+Energy Drink K 49,282.4,3.61,Germany,34.8,2350
+Energy Drink V 39,153.5,6.29,UK,16.1,3074
+Energy Drink D 40,261.4,9.27,UK,28.6,3233
+Energy Drink V 6,194.9,8.55,UK,8.4,715
+Energy Drink K 83,113.6,5.58,France,27.1,1826
+Energy Drink O 60,141.7,1.93,Japan,48.9,3376
+Energy Drink Y 97,240.5,7.72,Canada,14.8,1432
+Energy Drink I 61,148.6,6.79,France,41.7,896
+Energy Drink B 56,237.9,5.72,USA,31.0,2424
+Energy Drink J 79,134.2,4.83,Canada,49.8,347
+Energy Drink X 6,187.3,2.47,USA,8.0,1084
+Energy Drink D 50,281.8,8.86,UK,2.6,2394
+Energy Drink Z 25,272.4,6.26,UK,13.3,2269
+Energy Drink S 85,283.5,2.64,Japan,4.3,1273
+Energy Drink C 84,114.7,7.62,France,15.7,3712
+Energy Drink U 88,195.0,7.89,USA,43.3,3771
+Energy Drink A 31,160.5,1.63,UK,4.3,3972
+Energy Drink V 26,165.0,1.56,France,12.2,2271
+Energy Drink O 9,115.4,1.08,South Korea,45.1,3262
+Energy Drink M 13,134.3,8.49,Germany,0.7,1790
+Energy Drink R 90,237.0,2.06,South Korea,14.1,454
+Energy Drink T 26,170.8,1.47,France,23.3,2834
+Energy Drink Z 85,183.0,5.86,Canada,25.1,3820
+Energy Drink K 2,233.5,6.62,Canada,10.0,196
+Energy Drink Q 34,179.2,2.19,Germany,10.4,502
+Energy Drink B 66,181.3,9.63,Germany,8.1,1298
+Energy Drink C 54,139.9,8.83,UK,15.4,2663
+Energy Drink D 23,136.1,9.1,Japan,30.6,2275
+Energy Drink O 43,140.5,2.28,USA,41.5,3761
+Energy Drink Z 67,78.8,5.1,Canada,30.0,1108
+Energy Drink L 59,117.5,5.18,UK,39.0,654
+Energy Drink A 45,267.3,2.73,Germany,30.3,627
+Energy Drink X 9,105.4,2.11,Canada,45.7,2292
+Energy Drink V 8,84.4,2.1,France,9.1,596
+Energy Drink K 91,174.4,4.02,France,47.4,3900
+Energy Drink A 43,139.8,3.53,Japan,2.9,3383
+Energy Drink C 11,148.0,3.82,Germany,40.9,3426
+Energy Drink A 69,72.2,7.97,Canada,20.2,801
+Energy Drink I 97,215.3,5.97,Germany,25.3,3012
+Energy Drink Y 13,88.5,2.89,France,20.6,3300
+Energy Drink A 57,244.3,3.87,France,17.7,2917
+Energy Drink Y 1,96.8,8.3,UK,42.0,944
+Energy Drink B 26,179.8,1.24,Japan,31.9,3823
+Energy Drink B 66,119.8,1.02,Japan,22.1,495
+Energy Drink E 96,115.5,1.17,USA,1.5,1881
+Energy Drink M 16,241.2,3.59,France,29.8,2907
+Energy Drink M 30,136.8,3.27,South Korea,40.7,3223
+Energy Drink Y 79,157.3,1.38,UK,29.2,3653
+Energy Drink F 36,160.4,5.27,Canada,46.8,1586
+Energy Drink D 58,298.2,7.92,France,8.5,2278
+Energy Drink O 50,171.8,1.4,UK,8.0,3955
+Energy Drink G 74,208.9,8.38,UK,23.4,405
+Energy Drink Z 39,194.0,2.78,USA,40.8,2964
+Energy Drink G 76,51.7,5.08,Canada,31.0,2139
+Energy Drink G 30,255.4,7.26,Japan,45.1,1765
+Energy Drink S 16,139.0,1.52,USA,36.4,3904
+Energy Drink X 30,160.6,9.32,USA,42.3,236
+Energy Drink C 15,201.9,3.63,UK,6.7,1090
+Energy Drink R 34,52.5,2.78,France,39.6,3594
+Energy Drink N 49,224.7,5.72,Japan,3.4,979
+Energy Drink C 27,281.0,8.49,Germany,19.3,620
+Energy Drink C 63,183.3,4.49,UK,37.1,333
+Energy Drink D 39,116.5,4.77,Germany,12.2,2852
+Energy Drink X 18,195.5,4.93,Japan,18.1,240
+Energy Drink M 3,101.5,2.14,UK,11.9,821
+Energy Drink S 26,79.1,9.82,Germany,47.2,3814
+Energy Drink M 21,89.6,3.28,France,3.6,3527
+Energy Drink M 75,180.7,1.85,South Korea,21.6,2504
+Energy Drink L 37,155.8,5.08,Japan,8.3,2660
+Energy Drink E 98,212.0,7.05,UK,38.8,1988
+Energy Drink Q 65,140.9,9.74,USA,31.5,343
+Energy Drink I 67,224.4,4.81,USA,18.9,1630
+Energy Drink Y 4,279.7,7.5,South Korea,14.1,118
+Energy Drink B 38,297.9,9.48,South Korea,1.5,3541
+Energy Drink F 33,87.7,6.9,Germany,15.9,3290
+Energy Drink I 75,56.2,2.92,Japan,33.6,1488
+Energy Drink X 35,228.5,6.46,USA,41.4,2983
+Energy Drink K 98,86.3,1.19,Germany,12.4,1546
+Energy Drink F 100,195.1,6.52,UK,23.3,1637
+Energy Drink N 8,237.8,5.52,South Korea,18.6,3462
+Energy Drink E 67,50.1,2.69,Canada,44.8,3559
+Energy Drink R 41,290.6,5.84,UK,8.6,327
+Energy Drink A 8,81.1,5.28,Japan,46.4,3506
+Energy Drink Y 78,288.9,9.43,Japan,24.8,230
+Energy Drink K 20,175.5,4.34,Japan,44.7,1611
+Energy Drink W 64,51.4,5.71,Germany,49.4,268
+Energy Drink B 18,182.3,5.05,South Korea,0.1,2911
+Energy Drink B 76,59.2,6.3,France,45.5,2398
+Energy Drink Q 26,217.9,5.46,South Korea,24.1,569
+Energy Drink E 25,131.6,2.06,Canada,34.7,1367
+Energy Drink W 76,139.6,1.13,Canada,40.3,3615
+Energy Drink S 91,217.1,1.82,USA,35.6,2460
+Energy Drink V 12,142.9,3.91,USA,27.2,3583
+Energy Drink M 26,116.3,1.68,Japan,22.8,2783
+Energy Drink R 33,183.1,9.9,UK,19.4,1698
+Energy Drink N 87,170.2,3.05,Canada,43.3,95
+Energy Drink E 10,251.2,8.62,Japan,22.3,1523
+Energy Drink H 69,211.3,5.59,Canada,38.0,2826
+Energy Drink G 19,125.2,7.17,Japan,23.0,3684
+Energy Drink F 95,82.3,7.0,Canada,15.2,2792
+Energy Drink Z 46,233.0,8.02,France,10.9,2361
+Energy Drink K 77,179.3,6.49,UK,19.0,600
+Energy Drink B 56,259.9,8.64,Japan,40.6,3295
+Energy Drink N 60,265.8,5.08,Canada,28.4,2519
+Energy Drink X 9,288.7,5.85,South Korea,33.5,3919
+Energy Drink E 78,179.7,2.41,South Korea,26.9,1167
+Energy Drink V 72,81.4,6.96,Germany,22.7,1478
+Energy Drink U 53,275.8,1.6,France,48.6,1639
+Energy Drink G 10,259.8,1.77,UK,26.6,2118
+Energy Drink K 62,154.4,1.18,France,22.6,1843
+Energy Drink G 100,126.7,9.25,USA,17.6,878
+Energy Drink S 25,59.3,4.76,Japan,36.8,3855
+Energy Drink N 53,157.0,5.14,South Korea,5.5,2130
+Energy Drink N 27,276.2,4.95,Germany,44.5,2566
+Energy Drink J 91,252.2,1.96,Japan,41.2,2849
+Energy Drink P 100,224.9,9.9,France,24.7,1375
+Energy Drink L 58,72.7,5.62,USA,15.5,3438
+Energy Drink K 72,224.8,2.33,France,26.9,1170
+Energy Drink A 91,262.5,9.16,Canada,38.6,2931
+Energy Drink U 58,67.3,2.35,South Korea,30.8,3099
+Energy Drink H 24,225.0,1.34,Germany,6.0,3747
+Energy Drink Q 41,255.8,1.02,South Korea,17.3,2609
+Energy Drink F 63,192.6,3.27,USA,6.8,3601
+Energy Drink Z 18,212.5,9.42,Germany,35.6,2579
+Energy Drink S 89,80.3,2.54,Germany,31.6,217
+Energy Drink R 92,81.7,1.73,Canada,29.4,3264
+Energy Drink T 60,134.7,9.98,Germany,35.7,1146
+Energy Drink J 95,265.8,5.99,South Korea,10.0,3630
+Energy Drink E 92,288.8,8.16,Canada,14.7,3991
+Energy Drink Q 4,186.3,9.22,South Korea,11.0,3973
+Energy Drink Q 27,210.5,3.91,South Korea,29.7,3018
+Energy Drink H 71,90.5,5.52,Canada,46.5,3311
+Energy Drink B 78,216.5,5.78,South Korea,12.4,3622
+Energy Drink D 52,258.4,5.49,Japan,37.7,2752
+Energy Drink U 2,210.3,1.83,USA,0.1,3066
+Energy Drink F 60,270.0,2.96,UK,33.7,641
+Energy Drink E 6,142.0,8.22,Japan,5.2,2262
+Energy Drink I 89,122.1,8.26,France,11.2,1608
+Energy Drink L 70,125.0,1.43,Germany,7.1,1391
+Energy Drink P 86,220.1,4.76,France,47.8,3627
+Energy Drink H 25,104.9,4.96,Japan,39.3,2296
+Energy Drink X 62,70.6,1.41,Germany,29.4,3504
+Energy Drink T 26,236.8,6.94,South Korea,1.3,2097
+Energy Drink W 25,278.9,6.24,France,11.9,1575
+Energy Drink B 58,207.9,3.35,UK,40.0,505
+Energy Drink S 54,220.2,8.42,Japan,11.8,3060
+Energy Drink X 34,291.7,9.86,Canada,18.0,3486
+Energy Drink G 34,63.2,4.63,UK,33.4,3678
+Energy Drink J 27,210.5,4.99,USA,12.5,482
+Energy Drink N 81,164.8,8.36,Germany,0.5,3461
+Energy Drink H 58,134.4,4.96,Germany,38.9,553
+Energy Drink X 54,108.5,2.91,UK,45.4,2108
+Energy Drink T 67,120.5,9.78,Canada,22.8,1446
+Energy Drink A 6,223.3,7.81,USA,23.1,2847
+Energy Drink I 70,227.4,8.88,Canada,5.6,1889
+Energy Drink K 25,186.7,1.27,France,20.6,309
+Energy Drink T 14,177.9,3.1,Germany,26.6,3728
+Energy Drink Q 80,68.7,2.59,South Korea,46.9,432
+Energy Drink T 4,101.8,9.76,Canada,44.5,827
+Energy Drink E 76,213.2,4.22,UK,30.3,1834
+Energy Drink T 15,121.7,3.43,Japan,32.8,44
+Energy Drink V 72,116.2,3.8,Japan,12.7,735
+Energy Drink F 90,213.8,3.51,France,35.1,2457
+Energy Drink Q 93,247.2,5.59,USA,37.7,3065
+Energy Drink F 58,141.2,8.63,UK,3.2,3091
+Energy Drink D 56,197.6,7.86,South Korea,0.9,3379
+Energy Drink A 33,217.6,6.36,UK,43.6,1914
+Energy Drink H 85,127.1,3.1,Japan,20.0,74
+Energy Drink B 51,189.1,3.28,Canada,42.0,50
+Energy Drink W 39,119.0,5.13,UK,24.3,3609
+Energy Drink O 64,179.8,4.12,USA,49.7,3134
+Energy Drink A 18,156.7,8.38,Germany,27.4,1865
+Energy Drink D 51,269.0,9.6,USA,15.3,2715
+Energy Drink A 45,50.7,8.42,USA,10.8,994
+Energy Drink K 83,62.1,7.67,Canada,38.3,621
+Energy Drink N 16,105.0,9.97,South Korea,17.8,3030
+Energy Drink B 60,167.9,3.3,Japan,38.4,1491
+Energy Drink W 54,254.8,7.31,Germany,10.6,1241
+Energy Drink F 4,213.9,3.12,USA,20.3,1833
+Energy Drink L 46,159.5,2.28,Canada,47.3,3131
+Energy Drink T 17,193.5,4.12,Germany,33.4,97
+Energy Drink A 92,167.8,5.37,Canada,22.1,2429
+Energy Drink P 2,154.9,4.79,Germany,3.5,973
+Energy Drink S 24,181.4,8.83,South Korea,47.2,587
+Energy Drink K 43,199.6,9.67,USA,37.7,1726
+Energy Drink Z 90,186.0,8.36,Canada,8.7,1328
+Energy Drink H 3,121.7,6.02,Canada,39.7,1181
+Energy Drink Q 29,266.3,7.55,Germany,31.1,1327
+Energy Drink I 60,107.9,7.99,Japan,18.0,1318
+Energy Drink L 39,93.5,6.96,Canada,8.9,310
+Energy Drink V 55,235.0,6.93,Germany,25.2,2287
+Energy Drink E 96,228.7,5.77,France,36.4,1023
+Energy Drink B 9,265.8,9.34,UK,5.3,51
+Energy Drink S 60,256.3,7.22,UK,49.3,997
+Energy Drink F 72,62.7,3.92,France,45.2,725
+Energy Drink A 63,220.7,7.91,USA,11.9,3125
+Energy Drink S 68,281.1,5.05,France,23.8,3340
+Energy Drink N 2,293.3,6.76,Germany,5.0,2422
+Energy Drink W 100,250.6,7.12,Canada,25.8,3602
+Energy Drink D 77,119.3,7.45,South Korea,26.8,3929
+Energy Drink T 41,212.6,5.14,Germany,25.5,1305
+Energy Drink M 94,133.5,6.21,Japan,9.3,322
+Energy Drink V 83,296.6,1.32,Japan,15.8,3336
+Energy Drink X 50,189.9,1.49,UK,5.0,1239
+Energy Drink A 35,102.1,1.77,South Korea,4.3,2165
+Energy Drink O 33,290.6,5.12,Canada,38.8,2452
+Energy Drink O 32,154.7,9.48,France,3.7,1708
+Energy Drink I 6,198.0,5.15,Canada,9.3,3377
+Energy Drink U 47,130.8,3.53,UK,21.0,355
+Energy Drink O 18,198.0,5.25,Germany,30.5,1690
+Energy Drink D 31,154.0,1.93,USA,14.1,1303
+Energy Drink D 91,143.9,6.83,Germany,16.5,1195
+Energy Drink D 75,84.1,7.39,UK,48.3,2610
+Energy Drink K 5,53.9,7.38,South Korea,42.8,2869
+Energy Drink E 88,136.2,2.7,South Korea,28.2,2279
+Energy Drink L 76,86.2,2.61,South Korea,33.5,1184
+Energy Drink P 59,231.5,2.41,South Korea,36.5,2483
+Energy Drink U 17,255.5,1.08,France,46.8,1933
+Energy Drink A 33,138.1,7.45,France,30.1,203
+Energy Drink F 33,185.8,3.12,UK,14.1,3237
+Energy Drink V 59,134.4,5.1,Germany,38.2,1928
+Energy Drink A 13,255.2,5.17,South Korea,18.6,771
+Energy Drink E 32,96.1,2.45,Germany,18.2,3978
+Energy Drink K 30,171.3,9.1,Germany,12.5,1577
+Energy Drink Y 39,240.2,9.96,France,28.1,424
+Energy Drink E 58,163.5,6.86,USA,13.4,617
+Energy Drink E 90,169.4,5.44,USA,13.5,40
+Energy Drink H 26,236.9,9.9,France,26.9,264
+Energy Drink P 35,234.1,9.19,Germany,40.8,2536
+Energy Drink H 83,116.7,2.21,USA,34.3,1874
+Energy Drink B 51,172.2,2.02,UK,36.4,3802
+Energy Drink O 12,251.4,3.4,South Korea,4.4,2516
+Energy Drink B 58,273.2,1.43,Germany,5.2,1152
+Energy Drink X 77,212.6,5.84,France,7.5,726
+Energy Drink W 81,226.7,7.1,Japan,20.6,905
+Energy Drink F 80,238.8,9.57,Germany,31.7,272
+Energy Drink B 83,194.2,1.94,USA,13.8,3071
+Energy Drink S 63,99.8,3.23,Canada,48.0,3402
+Energy Drink V 36,259.4,9.92,Canada,17.3,2882
+Energy Drink E 29,211.9,2.67,UK,44.8,865
+Energy Drink S 32,245.9,6.08,Germany,13.3,2001
+Energy Drink D 76,214.1,4.17,Japan,5.9,1290
+Energy Drink J 38,129.4,2.81,Germany,47.6,908
+Energy Drink N 82,172.2,2.89,USA,0.1,3971
+Energy Drink S 38,74.6,8.56,South Korea,30.8,3736
+Energy Drink D 83,203.6,4.6,Germany,30.3,3616
+Energy Drink S 44,173.0,2.38,Japan,17.3,3218
+Energy Drink A 15,172.6,9.94,Germany,20.4,935
+Energy Drink K 22,189.2,3.57,Japan,5.3,3278
+Energy Drink C 39,299.5,7.13,UK,22.8,2637
+Energy Drink E 79,77.9,1.38,South Korea,29.0,3313
+Energy Drink D 54,99.7,8.37,France,9.9,3331
+Energy Drink B 46,148.7,5.56,Germany,12.9,3078
+Energy Drink F 49,155.7,5.3,South Korea,36.0,1727
+Energy Drink H 93,152.7,8.55,Canada,18.1,1534
+Energy Drink L 82,216.4,3.91,France,4.0,1098
+Energy Drink O 55,152.1,7.22,UK,3.4,2711
+Energy Drink G 72,137.9,3.7,Japan,40.6,1776
+Energy Drink H 71,144.4,1.41,France,37.5,3671
+Energy Drink T 31,224.7,9.3,USA,27.9,431
+Energy Drink F 35,232.7,5.34,Japan,12.5,3607
+Energy Drink J 24,245.5,3.45,Germany,5.1,199
+Energy Drink W 29,242.4,3.25,USA,18.2,3414
+Energy Drink K 81,135.2,3.44,USA,17.3,61
+Energy Drink L 64,157.3,3.06,Japan,16.1,2583
+Energy Drink Z 24,204.4,1.62,Germany,38.6,1869
+Energy Drink P 7,248.9,1.77,Canada,44.1,2939
+Energy Drink S 16,62.5,6.94,Germany,0.2,417
+Energy Drink C 19,180.8,3.43,South Korea,16.4,3009
+Energy Drink J 62,235.4,9.62,Germany,23.3,320
+Energy Drink W 83,185.8,2.46,France,24.3,148
+Energy Drink X 67,193.9,8.0,Canada,6.9,1742
+Energy Drink H 84,206.9,6.22,Germany,26.9,1417
+Energy Drink I 36,163.3,1.1,Germany,12.2,2439
+Energy Drink F 2,69.9,1.47,Canada,30.1,2324
+Energy Drink T 14,235.5,3.53,South Korea,48.7,619
+Energy Drink P 29,229.3,8.44,Japan,31.3,1211
+Energy Drink M 37,165.4,5.77,France,29.7,1901
+Energy Drink C 13,159.4,1.03,Germany,13.4,3093
+Energy Drink M 90,266.9,5.07,Canada,29.6,3222
+Energy Drink R 81,140.5,3.98,USA,43.3,205
+Energy Drink O 83,68.6,5.88,UK,46.1,1094
+Energy Drink Y 72,231.5,3.8,Canada,31.9,3330
+Energy Drink M 7,108.9,2.38,Canada,11.5,853
+Energy Drink V 8,56.6,2.58,Japan,24.2,2391
+Energy Drink D 27,158.5,3.11,UK,8.4,3213
+Energy Drink V 8,292.0,3.38,Canada,14.7,1388
+Energy Drink P 38,295.5,6.89,Japan,23.8,2922
+Energy Drink B 15,209.8,3.08,Germany,17.5,3864
+Energy Drink Z 21,70.3,9.68,USA,3.8,370
+Energy Drink J 91,227.5,9.99,USA,44.5,547
+Energy Drink B 84,167.2,1.14,USA,1.3,3463
+Energy Drink K 99,188.3,9.76,France,47.9,2487
+Energy Drink U 52,161.9,3.49,South Korea,5.2,2094
+Energy Drink U 2,188.4,4.26,France,15.2,1001
+Energy Drink V 30,121.3,9.73,USA,19.9,898
+Energy Drink F 22,193.1,1.8,Germany,41.0,3118
+Energy Drink R 90,140.8,2.95,Germany,10.9,759
+Energy Drink G 96,182.3,5.29,UK,3.8,1403
+Energy Drink W 21,224.8,2.32,UK,13.0,2196
+Energy Drink R 53,179.1,6.64,South Korea,23.5,2003
+Energy Drink T 70,216.2,8.57,USA,5.4,836
+Energy Drink D 26,58.0,3.88,Germany,12.1,1777
+Energy Drink S 5,269.2,1.22,Germany,24.3,1960
+Energy Drink H 62,102.4,4.88,South Korea,35.0,639
+Energy Drink F 12,245.6,4.83,France,8.4,2087
+Energy Drink U 57,187.0,1.13,UK,24.8,985
+Energy Drink Q 82,149.7,9.61,South Korea,1.4,2831
+Energy Drink V 6,260.4,5.22,USA,36.9,2282
+Energy Drink P 54,97.2,3.72,USA,4.0,1074
+Energy Drink Z 97,190.9,4.25,UK,48.2,2362
+Energy Drink I 94,297.9,1.01,USA,31.4,1558
+Energy Drink P 47,188.5,3.17,USA,12.7,2924
+Energy Drink X 66,237.7,6.53,Canada,35.5,1114
+Energy Drink L 76,233.4,8.28,South Korea,8.1,3623
+Energy Drink G 28,206.9,8.98,Japan,17.6,1454
+Energy Drink Y 84,147.1,2.11,USA,4.4,3363
+Energy Drink W 34,177.1,7.81,Japan,17.9,742
+Energy Drink I 55,204.6,7.44,France,39.0,2706
+Energy Drink U 8,54.9,4.01,USA,42.0,747
+Energy Drink C 75,196.9,4.32,South Korea,47.6,2351
+Energy Drink O 91,144.0,6.15,USA,33.3,1529
+Energy Drink Y 65,184.9,4.65,Canada,7.0,2930
+Energy Drink Z 68,277.7,4.03,UK,24.7,635
+Energy Drink I 95,287.1,3.93,Canada,48.2,3390
+Energy Drink C 63,115.7,8.02,Germany,6.0,1077
+Energy Drink E 89,269.1,6.53,USA,28.8,3361
+Energy Drink A 64,277.9,6.52,France,8.9,847
+Energy Drink D 35,114.2,5.79,Canada,38.4,2578
+Energy Drink M 18,297.7,8.98,Germany,28.4,3302
+Energy Drink J 45,156.3,5.32,South Korea,5.7,46
+Energy Drink S 98,72.0,2.61,Canada,3.1,2157
+Energy Drink C 27,83.0,3.38,USA,13.2,3046
+Energy Drink Q 94,142.5,8.56,Canada,24.8,3651
+Energy Drink T 34,180.5,5.22,Germany,48.1,2564
+Energy Drink T 87,214.2,9.23,South Korea,4.1,455
+Energy Drink A 79,185.4,8.41,Japan,33.6,305
+Energy Drink E 68,273.7,2.69,Canada,8.0,857
+Energy Drink N 12,68.7,5.18,South Korea,44.1,1757
+Energy Drink X 20,256.6,2.31,France,39.5,1711
+Energy Drink L 33,118.5,6.21,Canada,1.3,943
+Energy Drink Y 17,84.2,1.09,South Korea,10.9,3731
+Energy Drink M 54,253.2,6.72,Canada,40.2,3169
+Energy Drink K 31,232.7,6.49,South Korea,14.2,2320
+Energy Drink A 12,209.4,7.65,USA,35.2,3372
+Energy Drink S 35,111.9,3.88,Canada,16.6,2365
+Energy Drink Y 67,292.0,5.27,Canada,12.5,918
+Energy Drink O 41,194.6,2.37,USA,0.7,474
+Energy Drink Z 30,167.1,9.47,Germany,34.1,1548
+Energy Drink G 14,184.9,8.85,UK,24.0,2168
+Energy Drink B 43,285.2,2.06,South Korea,13.6,1073
+Energy Drink G 23,90.0,7.98,Canada,12.2,1828
+Energy Drink O 75,83.5,3.82,South Korea,4.0,3740
+Energy Drink L 4,142.5,4.88,Canada,6.1,3004
+Energy Drink W 68,88.7,8.69,Germany,17.0,435
+Energy Drink O 64,187.8,7.18,South Korea,9.5,2000
+Energy Drink S 31,77.0,2.11,UK,6.9,1002
+Energy Drink S 34,181.6,1.28,Canada,26.6,1176
+Energy Drink H 51,156.8,4.18,Canada,41.7,772
+Energy Drink H 3,79.9,8.49,Canada,43.4,561
+Energy Drink M 29,261.5,6.46,Germany,39.4,2322
+Energy Drink D 34,179.9,2.93,USA,43.2,1279
+Energy Drink A 94,246.4,3.62,Canada,29.5,3794
+Energy Drink X 96,255.9,3.56,Japan,0.6,298
+Energy Drink U 28,153.4,7.4,Germany,22.4,1853
+Energy Drink I 51,72.9,8.26,Germany,36.0,2762
+Energy Drink S 99,212.8,3.6,Germany,29.9,3867
+Energy Drink K 23,279.8,7.2,Canada,22.1,28
+Energy Drink H 60,241.5,7.74,Japan,4.4,2653
+Energy Drink V 47,172.3,5.97,Canada,40.8,2051
+Energy Drink B 81,85.5,1.21,Germany,28.5,581
+Energy Drink I 27,113.3,8.27,Japan,20.7,1557
+Energy Drink V 88,56.8,7.09,South Korea,31.4,68
+Energy Drink A 28,271.2,6.89,Japan,23.7,1950
+Energy Drink V 7,248.3,3.78,France,1.6,1895
+Energy Drink T 60,288.3,3.16,Germany,10.6,3183
+Energy Drink F 99,142.3,2.49,Canada,24.4,1568
+Energy Drink S 48,287.3,8.67,Canada,42.5,1360
+Energy Drink W 100,63.2,9.79,Canada,22.6,890
+Energy Drink M 51,248.9,7.72,Germany,1.7,1069
+Energy Drink X 7,262.5,8.26,France,19.5,279
+Energy Drink R 72,291.0,5.99,Japan,13.1,151
+Energy Drink U 48,82.1,5.98,UK,19.1,1553
+Energy Drink Q 39,144.8,6.64,USA,39.3,833
+Energy Drink N 31,172.6,2.87,South Korea,33.7,573
+Energy Drink Y 99,268.0,9.87,Japan,28.5,3098
+Energy Drink S 35,113.0,7.83,France,15.7,1377
+Energy Drink K 93,84.6,4.54,Germany,25.9,1021
+Energy Drink O 29,149.7,9.32,Germany,35.3,1137
+Energy Drink F 31,242.4,9.33,Germany,9.9,2589
+Energy Drink L 5,297.4,1.18,Germany,10.9,948
+Energy Drink X 25,96.6,3.63,USA,14.0,3152
+Energy Drink S 92,230.0,6.95,UK,36.2,126
+Energy Drink F 21,64.8,9.2,South Korea,46.7,1395
+Energy Drink V 25,253.7,3.1,Japan,7.9,235
+Energy Drink P 12,249.1,9.49,Japan,5.8,856
+Energy Drink C 85,273.7,5.02,Germany,48.7,3756
+Energy Drink P 53,291.6,1.36,Japan,42.4,1948
+Energy Drink D 14,249.9,4.94,USA,10.7,1931
+Energy Drink P 78,111.5,9.76,Germany,10.9,302
+Energy Drink V 58,54.7,4.11,Japan,1.6,3760
+Energy Drink B 37,75.7,1.21,USA,34.7,2423
+Energy Drink O 22,202.6,6.76,France,14.8,3016
+Energy Drink C 68,166.3,5.17,Japan,8.7,1236
+Energy Drink P 91,250.3,3.78,UK,17.3,858
+Energy Drink L 30,211.9,8.57,France,6.1,2721
+Energy Drink P 36,88.1,9.11,Japan,26.6,1078
+Energy Drink Z 30,260.5,5.21,Canada,37.8,2019
+Energy Drink T 76,151.5,1.6,South Korea,10.9,453
+Energy Drink I 48,81.2,1.73,Canada,47.2,1299
+Energy Drink O 70,206.2,4.24,USA,16.1,3544
+Energy Drink C 94,187.2,4.67,France,36.7,2529
+Energy Drink O 33,255.5,4.05,Japan,6.6,751
+Energy Drink X 80,172.3,5.15,UK,49.8,2086
+Energy Drink U 83,250.6,7.01,France,10.4,719
+Energy Drink D 15,157.4,7.62,South Korea,19.4,2828
+Energy Drink R 16,91.5,4.84,Japan,13.8,670
+Energy Drink L 15,138.6,2.67,Canada,31.2,1036
+Energy Drink I 49,296.2,7.17,South Korea,10.7,2354
+Energy Drink R 82,208.5,2.64,Canada,41.1,2942
+Energy Drink Q 99,224.4,3.1,Germany,49.8,2374
+Energy Drink Y 24,271.0,7.4,Germany,6.1,3384
+Energy Drink G 70,202.8,6.46,USA,27.5,3177
+Energy Drink V 94,288.0,4.45,Japan,35.7,3161
+Energy Drink U 16,148.3,5.26,Canada,23.1,3807
+Energy Drink A 36,65.0,6.93,Canada,47.5,2267
+Energy Drink E 70,163.6,8.58,France,17.7,473
+Energy Drink E 24,187.0,7.38,South Korea,8.7,10
+Energy Drink L 63,76.1,4.4,France,45.4,323
+Energy Drink F 95,191.1,6.6,UK,40.7,222
+Energy Drink F 12,251.4,8.16,USA,6.4,532
+Energy Drink B 65,185.0,1.42,South Korea,49.1,987
+Energy Drink B 49,179.7,6.65,South Korea,47.0,1404
+Energy Drink J 29,178.2,6.35,Japan,36.1,1666
+Energy Drink O 91,126.3,8.84,Japan,8.3,736
+Energy Drink W 59,163.9,2.13,UK,5.7,1796
+Energy Drink N 87,263.2,6.15,South Korea,40.1,1838
+Energy Drink O 58,258.0,8.14,UK,45.2,2921
+Energy Drink L 2,281.6,4.56,France,9.7,3396
+Energy Drink M 75,182.8,5.88,South Korea,21.5,1455
+Energy Drink I 4,126.2,3.34,Canada,45.8,3412
+Energy Drink J 98,189.8,9.97,Germany,29.1,2099
+Energy Drink U 16,83.7,3.03,Japan,32.4,3283
+Energy Drink X 58,84.0,6.4,Canada,4.3,1162
+Energy Drink B 58,227.1,7.34,USA,42.4,2464
+Energy Drink I 34,86.2,7.87,France,14.7,3573
+Energy Drink X 51,275.0,7.02,UK,10.3,541
+Energy Drink K 24,98.4,1.2,Germany,28.6,2515
+Energy Drink H 49,153.2,2.57,UK,37.1,2039
+Energy Drink D 77,204.2,7.94,South Korea,1.6,3320
+Energy Drink G 64,165.3,6.68,UK,24.8,267
+Energy Drink G 83,261.9,5.78,UK,12.1,3433
+Energy Drink B 34,70.4,1.48,France,29.9,3178
+Energy Drink F 71,243.1,4.91,Germany,27.1,3332
+Energy Drink D 9,265.4,5.78,UK,44.6,1248
+Energy Drink K 40,99.1,4.18,UK,42.4,1807
+Energy Drink X 26,190.7,4.24,France,17.6,1106
+Energy Drink Q 6,146.7,1.13,USA,27.9,1699
+Energy Drink P 68,117.1,6.06,Germany,39.0,3062
+Energy Drink Q 30,120.4,2.81,UK,29.3,1570
+Energy Drink K 14,136.0,9.18,South Korea,44.3,3575
+Energy Drink G 65,218.8,2.38,Germany,42.8,2510
+Energy Drink V 66,164.0,4.55,Japan,13.5,3899
+Energy Drink J 64,277.9,1.67,Germany,26.3,1154
+Energy Drink A 71,256.1,2.82,USA,41.9,158
+Energy Drink C 70,294.7,2.44,Germany,5.9,3427
+Energy Drink T 19,109.8,2.01,Germany,15.8,1172
+Energy Drink J 20,120.4,1.34,Japan,35.8,2453
+Energy Drink M 88,208.5,6.21,USA,25.7,807
+Energy Drink L 93,130.3,1.48,Japan,43.2,1156
+Energy Drink O 29,116.1,4.85,Japan,45.2,1705
+Energy Drink C 7,75.9,9.95,France,24.8,2802
+Energy Drink K 55,169.3,9.27,USA,2.3,3777
+Energy Drink L 17,288.7,5.1,Japan,18.1,910
+Energy Drink K 25,237.3,6.06,UK,48.7,489
+Energy Drink J 47,231.4,8.29,Germany,36.8,1057
+Energy Drink Q 15,150.8,2.66,Japan,49.2,1559
+Energy Drink Z 15,145.3,5.22,UK,18.9,942
+Energy Drink K 47,184.7,6.69,Japan,37.3,2035
+Energy Drink O 63,139.0,6.64,Germany,34.4,2820
+Energy Drink A 5,222.4,8.12,UK,32.8,1589
+Energy Drink S 99,133.4,8.9,Germany,49.9,947
+Energy Drink P 90,71.9,3.79,UK,23.3,90
+Energy Drink P 40,254.0,2.9,Canada,36.2,3733
+Energy Drink A 39,101.3,1.44,Germany,45.5,648
+Energy Drink C 42,209.4,4.03,UK,15.5,749
+Energy Drink E 68,292.3,5.06,UK,27.8,3411
+Energy Drink J 43,292.9,1.84,UK,8.1,511
+Energy Drink B 40,120.8,6.22,South Korea,48.1,830
+Energy Drink I 83,281.5,5.52,Canada,29.4,1479
+Energy Drink N 97,158.6,2.85,UK,41.5,2686
+Energy Drink U 61,139.6,9.14,France,3.4,3659
+Energy Drink D 14,78.0,9.48,USA,33.5,1344
+Energy Drink N 55,266.1,1.45,France,31.1,629
+Energy Drink W 43,266.4,1.44,Japan,19.2,1715
+Energy Drink B 70,239.5,9.27,Japan,48.7,2027
+Energy Drink N 3,99.4,2.68,USA,27.0,3023
+Energy Drink V 94,274.4,7.44,Japan,37.4,3474
+Energy Drink T 76,172.7,3.71,USA,19.1,2404
+Energy Drink M 79,108.9,3.29,UK,31.2,3863
+Energy Drink W 91,51.7,8.22,Germany,7.2,1102
+Energy Drink V 90,272.6,5.68,Germany,8.3,3542
+Energy Drink I 5,58.4,8.35,Japan,31.9,177
+Energy Drink K 74,54.5,7.13,USA,18.3,3409
+Energy Drink D 28,90.4,3.21,Germany,18.2,537
+Energy Drink K 20,162.2,6.85,Japan,3.9,488
+Energy Drink K 16,71.7,4.17,Canada,4.7,2679
+Energy Drink I 32,118.6,1.82,UK,35.2,69
+Energy Drink Q 27,63.1,9.69,Germany,26.1,1091
+Energy Drink D 71,227.9,2.41,France,2.1,2174
+Energy Drink W 63,177.4,4.92,USA,42.0,1442
+Energy Drink C 90,135.2,7.79,USA,17.0,2301
+Energy Drink O 26,218.6,8.25,Canada,18.4,3759
+Energy Drink K 36,103.6,8.84,Germany,25.8,1662
+Energy Drink F 71,55.2,3.62,France,18.6,622
+Energy Drink G 1,294.7,1.31,Canada,3.6,2989
+Energy Drink Q 78,215.0,7.45,France,13.1,1582
+Energy Drink U 9,235.8,7.85,Japan,16.2,3077
+Energy Drink C 66,216.7,4.16,USA,15.7,624
+Energy Drink X 84,292.4,7.84,USA,8.7,970
+Energy Drink C 75,134.1,3.37,USA,13.1,244
+Energy Drink L 95,188.7,7.12,Canada,27.2,59
+Energy Drink E 96,271.2,2.95,UK,28.2,1602
+Energy Drink O 3,286.5,7.22,Japan,11.2,1957
+Energy Drink D 71,211.2,4.83,USA,32.6,527
+Energy Drink K 26,127.5,8.91,South Korea,28.0,2016
+Energy Drink T 30,285.0,9.63,Japan,31.3,1445
+Energy Drink D 89,260.2,2.13,USA,22.1,1954
+Energy Drink D 23,263.7,8.51,USA,0.7,986
+Energy Drink B 59,132.9,5.55,South Korea,46.9,1257
+Energy Drink M 81,209.7,9.83,France,4.9,3772
+Energy Drink M 20,274.0,2.58,USA,37.4,2632
+Energy Drink Y 37,152.2,4.0,Japan,35.6,1263
+Energy Drink P 93,51.1,5.19,Germany,40.5,2473
+Energy Drink Z 60,241.7,7.69,Germany,48.2,1260
+Energy Drink V 54,240.2,8.08,South Korea,31.6,1003
+Energy Drink N 79,69.0,9.92,USA,36.8,2154
+Energy Drink J 73,69.7,2.76,UK,17.2,1987
+Energy Drink U 54,138.2,2.81,Canada,2.5,288
+Energy Drink V 63,58.8,5.6,Japan,15.9,1692
+Energy Drink M 54,127.6,7.65,Canada,25.8,2062
+Energy Drink R 90,84.9,7.65,UK,12.7,3689
+Energy Drink G 40,297.7,1.44,South Korea,9.3,2467
+Energy Drink L 7,132.0,8.36,Japan,42.5,784
+Energy Drink R 36,152.4,9.97,Germany,41.0,388
+Energy Drink L 86,201.9,5.46,South Korea,26.0,2597
+Energy Drink R 31,275.2,6.18,France,36.6,2798
+Energy Drink D 75,289.8,8.03,France,43.6,1571
+Energy Drink M 6,169.7,8.11,USA,28.1,1535
+Energy Drink N 63,174.8,4.78,Japan,29.3,3762
+Energy Drink V 26,241.0,8.21,Canada,28.7,509
+Energy Drink L 3,246.1,3.48,UK,34.1,2985
+Energy Drink E 92,76.5,3.11,Japan,46.3,3479
+Energy Drink B 11,285.7,7.85,Germany,4.7,166
+Energy Drink I 28,101.0,8.35,South Korea,9.4,2194
+Energy Drink R 15,268.4,6.16,South Korea,46.1,2548
+Energy Drink T 7,137.9,4.68,Canada,29.5,289
+Energy Drink P 27,60.1,4.01,Japan,48.3,1452
+Energy Drink Q 42,187.6,9.59,UK,21.8,1056
+Energy Drink W 43,139.7,9.43,Germany,48.5,444
+Energy Drink F 41,153.4,7.27,France,29.5,3245
+Energy Drink C 13,289.2,6.29,Japan,7.6,1147
+Energy Drink X 63,98.1,8.84,UK,18.5,2250
+Energy Drink D 35,266.8,1.43,USA,20.9,792
+Energy Drink C 19,161.3,4.53,UK,29.2,3826
+Energy Drink O 33,177.0,3.22,Japan,32.7,3124
+Energy Drink X 32,179.8,3.89,Japan,46.0,425
+Energy Drink P 75,259.8,4.24,South Korea,15.0,3034
+Energy Drink G 29,199.0,6.26,Germany,15.6,2207
+Energy Drink Y 76,192.4,9.61,France,23.0,3160
+Energy Drink O 37,111.1,2.72,South Korea,39.0,307
+Energy Drink V 35,195.6,5.09,Japan,20.4,3154
+Energy Drink T 25,230.6,1.91,Canada,2.2,3221
+Energy Drink A 70,246.7,7.99,South Korea,8.9,2997
+Energy Drink A 60,254.6,2.18,Japan,49.4,14
+Energy Drink S 67,196.9,2.81,France,47.2,247
+Energy Drink X 5,129.6,3.22,France,24.7,3886
+Energy Drink V 45,246.3,1.38,South Korea,14.1,1466
+Energy Drink I 81,107.0,5.77,Canada,16.6,1635
+Energy Drink O 35,258.1,2.61,Japan,21.2,2021
+Energy Drink H 26,183.2,7.59,Japan,3.7,1641
+Energy Drink D 87,214.9,9.81,Germany,3.9,852
+Energy Drink R 94,70.5,9.33,Canada,12.7,475
+Energy Drink N 82,283.3,4.09,France,46.5,3133
+Energy Drink N 14,262.3,1.2,South Korea,47.7,666
+Energy Drink Z 5,51.1,5.41,Germany,12.0,243
+Energy Drink P 85,181.7,8.95,France,43.9,2006
+Energy Drink E 8,291.7,5.64,USA,19.5,748
+Energy Drink J 99,66.0,4.53,Canada,11.0,1378
+Energy Drink X 16,286.0,1.01,France,46.1,293
+Energy Drink G 35,203.8,3.82,Japan,26.3,3848
+Energy Drink X 31,73.0,4.77,South Korea,22.8,3281
+Energy Drink H 14,221.3,2.69,Canada,29.4,2672
+Energy Drink J 61,95.2,5.93,Japan,27.9,2851
+Energy Drink Q 77,251.0,5.46,South Korea,21.7,2303
+Energy Drink P 86,162.7,4.49,Canada,5.5,2200
+Energy Drink S 27,157.7,6.16,UK,40.3,1579
+Energy Drink H 94,51.7,6.46,France,40.7,3080
+Energy Drink T 54,88.2,1.24,Canada,35.8,1998
+Energy Drink B 51,262.8,6.29,France,31.1,2364
+Energy Drink U 28,161.6,9.28,Japan,44.2,2191
+Energy Drink J 68,152.6,3.31,France,19.0,1845
+Energy Drink T 3,224.2,7.95,Japan,31.6,1005
+Energy Drink O 72,263.9,5.61,Canada,17.2,1201
+Energy Drink V 87,224.4,6.93,France,14.5,1066
+Energy Drink V 27,134.9,6.89,Canada,13.6,2886
+Energy Drink X 27,283.2,6.25,Canada,38.9,3324
+Energy Drink M 42,284.0,6.04,UK,27.1,3852
+Energy Drink C 82,167.1,6.93,UK,16.0,3015
+Energy Drink A 100,213.1,1.06,USA,29.6,26
+Energy Drink H 71,223.0,6.3,Japan,24.4,3070
+Energy Drink S 12,90.6,4.15,USA,26.0,11
+Energy Drink O 29,138.5,9.27,Canada,27.5,345
+Energy Drink S 98,79.3,9.31,UK,20.6,1110
+Energy Drink I 40,193.3,9.04,South Korea,28.4,3599
+Energy Drink N 44,222.6,1.83,Japan,9.8,842
+Energy Drink G 32,69.2,4.64,Germany,32.1,3425
+Energy Drink K 61,269.1,1.74,South Korea,5.3,3923
+Energy Drink E 14,76.9,1.35,USA,39.4,2948
+Energy Drink D 15,91.1,6.88,USA,24.5,3275
+Energy Drink F 78,250.3,7.81,Japan,35.1,1028
+Energy Drink W 62,74.0,4.98,Canada,35.7,3208
+Energy Drink O 7,61.3,5.72,USA,41.3,1768
+Energy Drink H 45,223.4,4.63,France,37.5,1522
+Energy Drink B 48,152.7,7.19,Germany,5.6,2172
+Energy Drink B 97,264.2,9.85,Canada,43.2,2341
+Energy Drink V 44,163.6,9.32,France,21.4,3966
+Energy Drink K 6,151.4,9.35,France,22.4,1536
+Energy Drink U 84,285.0,6.82,France,48.3,3007
+Energy Drink R 26,239.6,6.37,Germany,24.5,2308
+Energy Drink L 58,96.8,6.52,UK,46.4,2888
+Energy Drink B 46,62.8,9.77,Canada,42.9,1235
+Energy Drink L 20,79.7,7.17,UK,49.2,3526
+Energy Drink N 99,254.1,8.45,France,16.7,2348
+Energy Drink V 21,111.8,8.49,UK,35.8,2909
+Energy Drink O 18,124.0,2.11,South Korea,13.4,1072
+Energy Drink B 89,120.6,6.72,Japan,14.5,1415
+Energy Drink V 71,96.3,2.65,USA,6.2,3027
+Energy Drink Y 89,203.1,5.65,Japan,3.7,57
+Energy Drink M 59,261.6,6.98,France,37.2,3155
+Energy Drink Y 21,203.7,4.03,USA,13.9,1943
+Energy Drink Y 80,229.1,8.15,USA,48.3,1173
+Energy Drink L 45,50.8,3.86,Japan,9.0,2022
+Energy Drink K 27,54.3,2.47,Japan,14.0,913
+Energy Drink H 61,220.0,5.9,France,47.7,1320
+Energy Drink K 8,160.4,4.62,USA,12.9,1841
+Energy Drink B 21,56.6,7.68,France,38.8,738
+Energy Drink M 7,154.2,4.54,Canada,48.4,63
+Energy Drink D 71,140.2,2.89,Japan,47.6,2951
+Energy Drink R 45,203.8,3.52,South Korea,5.6,3382
+Energy Drink J 95,157.5,1.41,South Korea,25.4,643
+Energy Drink X 22,157.1,4.06,South Korea,39.7,1231
+Energy Drink W 2,207.9,8.8,South Korea,5.1,2366
+Energy Drink I 25,198.4,6.39,Canada,48.1,1704
+Energy Drink D 99,146.3,1.65,USA,47.5,2710
+Energy Drink F 13,236.5,3.87,France,26.3,12
+Energy Drink J 86,195.1,3.99,UK,39.3,1205
+Energy Drink I 92,71.3,4.18,France,6.3,2152
+Energy Drink A 51,231.8,3.69,France,10.1,3101
+Energy Drink J 66,286.4,4.8,USA,27.8,1087
+Energy Drink Q 94,274.8,3.63,South Korea,22.9,1459
+Energy Drink N 60,194.8,3.85,South Korea,19.9,1038
+Energy Drink V 41,73.9,7.63,South Korea,34.1,3187
+Energy Drink E 3,186.4,1.64,France,49.6,1769
+Energy Drink R 24,201.0,7.7,Japan,11.1,2963
+Energy Drink U 62,110.9,6.14,South Korea,37.4,2378
+Energy Drink I 50,243.3,3.51,South Korea,25.9,1922
+Energy Drink C 81,195.4,9.44,Germany,0.1,2228
+Energy Drink X 36,115.3,3.04,Germany,43.2,1847
+Energy Drink P 57,198.4,9.36,France,42.2,3946
+Energy Drink P 96,122.3,2.36,Japan,21.2,3643
+Energy Drink G 22,80.2,7.14,UK,29.0,89
+Energy Drink E 88,162.6,8.31,USA,9.6,3434
+Energy Drink V 80,112.2,3.57,USA,22.2,1989
+Energy Drink A 71,79.9,4.37,UK,45.4,1100
+Energy Drink E 34,172.3,6.15,Canada,6.5,2310
+Energy Drink C 88,278.2,2.54,USA,41.5,3162
+Energy Drink B 55,126.2,7.94,UK,13.7,1337
+Energy Drink C 52,53.9,1.17,Canada,39.5,513
+Energy Drink M 11,175.8,2.19,UK,14.7,960
+Energy Drink P 86,94.5,5.48,Canada,30.9,443
+Energy Drink P 49,211.6,7.03,UK,15.1,2982
+Energy Drink R 42,236.5,7.3,South Korea,36.1,1665
+Energy Drink C 31,159.4,8.18,Germany,40.9,1256
+Energy Drink C 46,240.9,6.51,South Korea,5.0,1033
+Energy Drink X 20,147.1,5.04,Germany,1.8,2067
+Energy Drink W 19,66.9,4.6,USA,4.1,1859
+Energy Drink N 52,166.6,1.14,UK,21.1,15
+Energy Drink R 74,274.4,1.43,South Korea,25.6,3308
+Energy Drink A 39,293.1,7.18,Germany,39.3,625
+Energy Drink A 83,261.4,8.29,France,2.8,3558
+Energy Drink P 91,84.8,8.86,USA,40.7,1636
+Energy Drink A 56,170.6,8.88,USA,0.8,2182
+Energy Drink J 13,170.9,4.97,UK,25.6,187
+Energy Drink W 69,197.2,3.45,Germany,5.9,3936
+Energy Drink P 2,208.7,1.41,South Korea,11.5,176
+Energy Drink D 77,273.0,4.02,UK,40.4,1840
+Energy Drink O 65,242.6,8.09,USA,6.9,251
+Energy Drink Z 31,65.3,3.41,Germany,16.6,1713
+Energy Drink B 18,238.1,1.81,Japan,6.0,433
+Energy Drink U 79,189.9,7.76,France,46.7,3635
+Energy Drink Q 30,89.0,2.85,Japan,49.3,3667
+Energy Drink Z 100,223.8,8.17,UK,14.5,128
+Energy Drink L 16,178.7,9.94,Japan,5.6,1169
+Energy Drink D 75,234.8,9.5,South Korea,26.3,1130
+Energy Drink R 64,280.0,2.95,South Korea,42.7,3753
+Energy Drink V 67,62.9,7.38,USA,33.8,2571
+Energy Drink E 1,249.2,2.37,Germany,1.3,2811
+Energy Drink U 47,79.5,5.94,Japan,47.5,2002
+Energy Drink X 46,297.5,9.05,UK,21.3,1448
+Energy Drink K 23,173.7,5.96,South Korea,38.0,1857
+Energy Drink X 93,257.7,3.43,Canada,34.3,915
+Energy Drink X 68,287.8,9.9,Canada,29.8,2193
+Energy Drink D 14,62.5,6.59,Canada,14.4,3268
+Energy Drink M 8,138.1,9.7,USA,23.9,525
+Energy Drink P 69,146.3,6.71,USA,20.4,207
+Energy Drink D 88,286.0,9.63,Japan,18.8,2121
+Energy Drink F 83,221.6,2.29,UK,5.7,946
+Energy Drink K 14,194.6,5.62,USA,40.9,3958
+Energy Drink U 69,119.9,6.59,Canada,20.7,3188
+Energy Drink M 92,217.3,3.75,UK,5.3,550
+Energy Drink X 49,286.3,9.95,USA,39.9,570
+Energy Drink R 32,138.4,3.0,UK,10.8,3790
+Energy Drink K 8,227.8,9.98,Japan,14.8,2010
+Energy Drink U 88,101.9,7.63,UK,45.7,3123
+Energy Drink Z 3,128.8,6.58,France,41.1,1541
+Energy Drink O 69,85.5,6.78,France,23.4,2809
+Energy Drink E 45,136.3,1.66,Japan,45.5,3549
+Energy Drink V 6,181.3,4.63,France,18.6,1515
+Energy Drink F 42,151.1,7.24,UK,29.7,610
+Energy Drink J 13,185.2,7.23,France,7.8,606
+Energy Drink I 19,203.7,3.18,USA,12.8,423
+Energy Drink F 51,169.2,6.17,Japan,22.9,503
+Energy Drink R 64,149.0,7.83,Japan,25.4,3490
+Energy Drink Y 42,78.5,1.54,South Korea,31.2,2550
+Energy Drink U 42,290.2,4.98,Germany,32.8,2442
+Energy Drink Y 17,161.0,6.3,Japan,13.8,3787
+Energy Drink L 91,201.9,1.92,Japan,30.4,2753
+Energy Drink U 85,217.4,1.99,France,33.4,3328
+Energy Drink Q 46,177.5,8.2,Japan,2.5,3061
+Energy Drink L 64,193.1,3.64,Germany,11.3,396
+Energy Drink Q 22,191.2,9.03,Germany,42.9,1185
+Energy Drink R 20,78.9,3.71,France,41.4,1629
+Energy Drink R 7,158.3,3.3,USA,43.2,1876
+Energy Drink L 7,152.6,7.03,South Korea,45.5,1986
+Energy Drink H 44,159.8,4.39,South Korea,38.8,848
+Energy Drink M 62,159.7,9.17,Japan,49.6,2726
+Energy Drink E 39,242.3,6.37,Germany,25.8,2607
+Energy Drink T 58,158.9,8.81,Japan,39.7,993
+Energy Drink C 29,86.0,8.83,South Korea,5.8,1684
+Energy Drink J 88,279.2,6.72,South Korea,17.6,3033
+Energy Drink A 50,65.7,4.49,Germany,17.3,3935
+Energy Drink K 28,257.4,6.72,Canada,5.4,562
+Energy Drink I 20,111.5,5.74,Germany,25.3,3199
+Energy Drink Z 86,250.3,9.66,UK,6.7,3410
+Energy Drink X 59,271.2,2.34,UK,29.3,3954
+Energy Drink P 63,73.8,6.67,France,7.8,2112
+Energy Drink X 60,212.4,7.68,France,8.0,3193
+Energy Drink J 53,271.4,3.61,France,23.6,702
+Energy Drink M 16,277.5,6.61,Germany,39.3,907
+Energy Drink V 96,211.2,1.63,UK,45.4,1462
+Energy Drink H 85,56.9,4.07,UK,21.8,1144
+Energy Drink W 19,179.1,2.16,UK,41.7,1487
+Energy Drink W 79,106.9,10.0,Canada,23.7,2527
+Energy Drink Z 47,64.9,4.78,USA,45.5,1123
+Energy Drink H 31,53.7,6.79,South Korea,6.7,3135
+Energy Drink A 71,172.2,6.49,Canada,37.5,2166
+Energy Drink B 80,195.7,9.45,Canada,21.5,2286
+Energy Drink L 72,124.1,7.78,South Korea,17.3,1427
+Energy Drink K 41,207.6,2.43,Canada,36.0,1089
+Energy Drink W 95,248.8,9.7,South Korea,40.7,2081
+Energy Drink X 18,92.5,4.3,USA,34.8,3842
+Energy Drink Z 22,251.0,7.92,USA,24.5,1620
+Energy Drink C 9,230.0,7.0,South Korea,46.6,1751
+Energy Drink R 29,195.2,7.25,UK,5.0,2573
+Energy Drink M 96,251.1,3.45,UK,14.1,2071
+Energy Drink A 19,296.7,4.76,Japan,15.1,3981
+Energy Drink H 96,123.9,6.45,South Korea,11.8,2678
+Energy Drink F 17,160.8,3.14,France,1.6,1032
+Energy Drink T 51,136.5,3.63,South Korea,21.8,1434
+Energy Drink A 13,123.9,4.39,Germany,48.9,3745
+Energy Drink I 34,160.6,3.07,Japan,4.1,0
+Energy Drink H 4,140.4,9.43,Germany,38.8,3358
+Energy Drink N 79,151.3,6.22,South Korea,16.6,2219
+Energy Drink V 15,66.1,3.28,Canada,36.6,1962
+Energy Drink I 37,161.2,5.68,Canada,44.9,3267
+Energy Drink A 96,238.4,1.44,USA,8.7,920
+Energy Drink M 29,145.9,2.88,South Korea,44.9,3214
+Energy Drink P 39,226.6,3.01,USA,48.6,522
+Energy Drink D 78,151.9,1.98,Canada,6.7,1911
+Energy Drink W 19,220.6,1.47,UK,3.2,1892
+Energy Drink T 47,261.2,7.98,Germany,36.0,1747
+Energy Drink L 7,68.8,5.67,South Korea,22.0,3974
+Energy Drink F 38,282.8,2.91,USA,8.2,1613
+Energy Drink N 96,231.0,8.92,Japan,37.7,1969
+Energy Drink F 87,69.5,6.15,USA,24.7,1099
+Energy Drink L 74,115.4,7.77,Germany,29.4,1253
+Energy Drink C 86,92.2,4.93,Germany,0.9,3392
+Energy Drink K 11,130.2,7.73,France,10.4,864
+Energy Drink I 84,273.0,3.12,USA,28.5,3011
+Energy Drink L 81,50.2,2.15,South Korea,31.1,3634
+Energy Drink U 97,213.1,5.13,Japan,8.2,110
+Energy Drink F 72,157.5,4.43,Japan,18.9,2283
+Energy Drink J 23,256.5,1.95,Japan,14.4,3081
+Energy Drink C 98,141.6,7.81,Japan,16.6,2446
+Energy Drink V 72,80.4,7.11,UK,6.7,378
+Energy Drink M 47,80.6,3.34,Canada,12.4,1576
+Energy Drink E 76,245.1,6.66,USA,46.5,1902
+Energy Drink F 48,241.9,3.96,France,5.4,2682
+Energy Drink I 40,267.6,1.61,France,24.8,668
+Energy Drink Z 14,296.5,4.64,Canada,39.7,1006
+Energy Drink J 49,222.8,8.56,USA,15.2,1240
+Energy Drink Q 39,175.0,2.94,Japan,43.5,2227
+Energy Drink C 64,274.6,5.57,Canada,44.8,442
+Energy Drink A 65,88.7,2.82,France,44.0,1722
+Energy Drink Y 51,270.8,3.52,UK,38.9,2531
+Energy Drink Z 39,260.3,5.07,Germany,30.9,1738
+Energy Drink N 21,80.0,1.32,Germany,25.1,1710
+Energy Drink B 91,113.9,8.45,Japan,14.3,1527
+Energy Drink H 95,124.5,7.27,France,8.1,1113
+Energy Drink O 15,164.9,3.46,Japan,47.5,3626
+Energy Drink Q 32,130.6,7.21,France,31.5,3789
+Energy Drink G 94,201.1,9.56,Canada,32.2,226
+Energy Drink A 16,88.7,7.7,France,46.1,1958
+Energy Drink M 69,135.5,3.0,Japan,8.9,3421
+Energy Drink B 95,171.8,2.37,USA,28.9,440
+Energy Drink K 64,260.7,8.63,UK,7.7,2201
+Energy Drink Y 16,117.1,6.77,UK,28.1,3424
+Energy Drink Y 95,52.3,8.92,USA,44.4,2887
+Energy Drink F 16,158.0,7.62,Germany,40.4,1200
+Energy Drink V 5,197.7,5.7,France,42.5,611
+Energy Drink W 92,116.4,7.64,Germany,33.8,3669
+Energy Drink N 33,113.6,5.03,Japan,33.2,2709
+Energy Drink B 61,219.5,6.85,South Korea,29.8,3540
+Energy Drink F 61,53.4,4.08,USA,20.4,317
+Energy Drink A 25,168.9,3.24,France,16.2,2242
+Energy Drink Q 14,286.1,6.5,Canada,41.9,459
+Energy Drink B 55,289.6,6.44,UK,8.8,1846
+Energy Drink O 74,240.8,4.31,South Korea,39.6,1221
+Energy Drink S 51,135.4,6.84,Japan,31.5,1291
+Energy Drink C 73,228.5,8.06,UK,27.0,3743
+Energy Drink S 30,203.4,5.1,France,44.0,129
+Energy Drink B 99,224.1,8.1,Canada,46.7,3257
+Energy Drink N 3,141.4,5.76,South Korea,46.6,2151
+Energy Drink I 73,128.0,6.29,Germany,16.4,238
+Energy Drink Q 18,204.8,1.98,South Korea,32.2,3528
+Energy Drink M 94,144.6,7.04,Japan,43.9,1756
+Energy Drink M 16,145.9,4.14,Canada,20.1,683
+Energy Drink R 50,209.4,5.92,France,12.7,273
+Energy Drink O 73,281.6,3.01,Canada,39.1,3803
+Energy Drink C 49,137.9,2.58,Canada,10.5,590
+Energy Drink U 75,280.2,8.35,South Korea,14.1,2697
+Energy Drink Z 69,208.4,4.79,Germany,42.1,179
+Energy Drink N 62,56.2,6.34,Canada,21.8,2252
+Energy Drink S 58,153.5,9.27,UK,9.8,991
+Energy Drink O 92,67.1,4.88,USA,19.1,1116
+Energy Drink U 53,267.8,5.49,South Korea,32.2,1420
+Energy Drink I 65,184.1,2.86,Japan,11.5,3116
+Energy Drink D 27,223.9,1.92,UK,28.0,1198
+Energy Drink G 37,121.7,7.71,USA,6.7,653
+Energy Drink U 98,106.2,3.14,France,21.0,1016
+Energy Drink H 65,160.2,6.99,UK,23.1,2392
+Energy Drink F 80,125.8,4.92,USA,39.2,3752
+Energy Drink L 14,215.4,1.01,UK,42.4,2241
+Energy Drink U 93,106.7,5.92,USA,35.7,1483
+Energy Drink N 15,199.2,7.01,France,5.0,3959
+Energy Drink T 15,230.6,8.22,Canada,46.1,2992
+Energy Drink F 19,261.5,7.62,Germany,31.6,3493
+Energy Drink G 92,218.8,1.45,USA,20.2,357
+Energy Drink V 1,112.2,6.3,Canada,24.9,2479
+Energy Drink E 51,223.8,5.82,USA,36.9,1346
+Energy Drink F 73,276.9,3.62,South Korea,41.0,3816
+Energy Drink V 20,257.7,3.06,Canada,38.5,790
+Energy Drink Q 33,125.5,2.86,Canada,36.5,1352
+Energy Drink R 72,193.4,3.94,Germany,40.9,2333
+Energy Drink A 74,181.6,8.41,UK,13.4,732
+Energy Drink R 88,192.0,5.73,UK,15.8,2755
+Energy Drink C 87,161.8,6.45,USA,18.7,3247
+Energy Drink B 9,194.0,9.06,France,6.2,1835
+Energy Drink T 20,138.9,3.89,Canada,1.1,3754
+Energy Drink G 68,123.5,7.33,Canada,9.2,1471
+Energy Drink K 98,58.9,5.35,South Korea,10.6,1334
+Energy Drink V 69,181.8,1.65,Canada,10.3,1194
+Energy Drink A 44,139.1,9.1,Canada,21.9,3435
+Energy Drink M 78,151.6,8.37,Japan,10.7,3887
+Energy Drink B 76,223.0,2.42,France,1.2,2431
+Energy Drink L 79,276.6,4.88,Canada,34.1,386
+Energy Drink O 96,55.4,7.61,Canada,30.4,3809
+Energy Drink Z 21,55.2,3.2,USA,9.6,3174
+Energy Drink Z 59,71.5,4.28,Germany,41.9,1660
+Energy Drink Q 44,91.3,2.39,UK,4.7,254
+Energy Drink I 89,178.0,8.83,USA,21.8,350
+Energy Drink T 3,70.8,4.39,South Korea,44.0,3836
+Energy Drink V 76,238.3,5.86,USA,2.1,2772
+Energy Drink L 48,186.8,2.22,Germany,7.7,806
+Energy Drink E 50,229.8,7.48,South Korea,22.4,306
+Energy Drink N 77,145.3,6.95,Japan,4.3,274
+Energy Drink Q 88,177.4,3.96,Canada,3.5,958
+Energy Drink Q 91,107.6,5.85,Canada,9.4,1938
+Energy Drink S 1,176.8,1.73,USA,29.8,3993
+Energy Drink D 21,238.2,5.3,South Korea,29.6,3375
+Energy Drink P 79,123.4,9.67,Japan,15.1,3724
+Energy Drink H 12,228.5,1.62,France,31.7,1794
+Energy Drink Z 25,75.8,9.24,Canada,28.3,3201
+Energy Drink K 32,268.5,7.19,France,27.6,3516
+Energy Drink A 78,131.8,6.24,Canada,41.0,2776
+Energy Drink A 26,51.6,4.53,UK,32.9,1009
+Energy Drink V 65,189.4,9.5,USA,20.1,304
+Energy Drink T 38,276.2,4.55,UK,36.7,3603
+Energy Drink F 78,146.3,1.15,Japan,3.0,3092
+Energy Drink I 16,72.8,1.19,Germany,45.3,2901
+Energy Drink Z 7,117.0,2.39,UK,17.4,3087
+Energy Drink Q 83,153.0,5.55,Japan,1.8,3088
+Energy Drink I 99,245.6,7.47,France,36.3,1294
+Energy Drink G 5,107.9,6.09,South Korea,17.2,2937
+Energy Drink L 5,266.1,1.79,France,39.6,3059
+Energy Drink W 47,105.1,6.98,Canada,44.6,866
+Energy Drink C 22,207.4,6.34,Canada,39.7,3307
+Energy Drink K 22,146.4,8.12,Japan,33.7,1761
+Energy Drink U 48,173.4,5.96,Germany,37.4,1237
+Energy Drink P 80,57.1,7.93,France,33.5,542
+Energy Drink I 38,147.3,2.97,France,6.9,663
+Energy Drink G 49,174.5,9.34,France,34.0,3242
+Energy Drink V 80,75.9,5.19,Canada,30.1,2770
+Energy Drink B 4,143.7,9.77,USA,9.5,3907
+Energy Drink B 68,125.9,6.81,France,28.1,3767
+Energy Drink P 20,223.0,7.98,Germany,47.3,30
+Energy Drink D 2,173.1,8.34,Germany,0.2,2334
+Energy Drink C 92,203.1,7.18,South Korea,3.1,146
+Energy Drink I 48,93.4,2.35,Canada,33.1,3632
+Energy Drink L 79,132.6,9.26,South Korea,40.3,2300
+Energy Drink S 92,266.3,3.12,South Korea,18.0,2830
+Energy Drink I 54,108.7,4.08,Canada,42.9,257
+Energy Drink N 23,246.5,6.67,Japan,10.8,1199
+Energy Drink C 7,125.4,3.15,USA,31.1,2056
+Energy Drink H 40,184.8,4.6,South Korea,30.7,3846
+Energy Drink Q 22,209.2,7.93,France,35.0,3924
+Energy Drink K 86,62.1,7.62,UK,41.5,220
+Energy Drink J 52,169.8,2.31,USA,46.1,3742
+Energy Drink O 92,266.4,5.49,USA,41.3,3097
+Energy Drink C 78,297.7,6.66,Canada,13.2,2959
+Energy Drink A 4,225.8,9.54,South Korea,45.1,579
+Energy Drink O 49,167.1,2.18,South Korea,48.5,261
+Energy Drink F 41,102.3,9.17,UK,13.3,2676
+Energy Drink A 52,126.8,6.44,Japan,44.4,756
+Energy Drink G 61,153.4,3.54,France,16.0,2650
+Energy Drink C 48,81.9,1.48,USA,26.6,1065
+Energy Drink A 6,218.9,3.6,Germany,21.1,1188
+Energy Drink Q 21,192.4,1.99,Canada,43.4,2216
+Energy Drink O 4,238.0,4.26,France,47.7,2070
+Energy Drink T 55,234.6,2.12,Japan,49.5,1667
+Energy Drink W 37,183.4,5.94,Japan,13.2,1670
+Energy Drink W 42,193.1,6.53,Germany,39.3,3805
+Energy Drink C 47,152.5,6.2,Germany,24.4,3769
+Energy Drink O 94,101.8,5.33,Germany,14.0,290
+Energy Drink Z 28,148.4,2.61,Canada,42.4,3291
+Energy Drink L 100,118.0,6.38,Japan,20.3,1524
+Energy Drink Z 37,232.5,4.7,UK,2.2,1482
+Energy Drink X 41,245.4,5.08,France,45.3,3605
+Energy Drink O 35,205.2,9.35,Canada,13.9,2769
+Energy Drink T 5,261.3,3.05,UK,9.2,795
+Energy Drink J 93,268.3,8.7,USA,29.6,3321
+Energy Drink E 86,155.7,9.76,USA,48.6,283
+Energy Drink I 22,186.2,7.12,South Korea,46.6,1129
+Energy Drink B 26,216.3,8.84,UK,37.9,577
+Energy Drink E 79,293.8,9.88,France,26.9,3612
+Energy Drink A 48,172.9,1.25,Japan,31.0,352
+Energy Drink S 44,182.3,4.38,UK,12.7,3236
+Energy Drink Y 95,274.4,9.12,France,13.6,3191
+Energy Drink R 86,192.2,5.22,UK,35.7,2469
+Energy Drink B 95,80.3,1.69,Canada,32.5,664
+Energy Drink F 21,69.7,1.34,France,32.9,98
+Energy Drink B 50,244.5,4.69,South Korea,40.8,1791
+Energy Drink W 5,129.0,1.86,South Korea,44.0,3286
+Energy Drink F 60,209.2,6.43,Germany,6.3,162
+Energy Drink M 40,144.7,5.87,France,12.8,2528
+Energy Drink T 99,123.3,4.8,Japan,8.1,3917
+Energy Drink C 93,51.8,3.14,Canada,18.6,1896
+Energy Drink Z 97,292.0,2.12,UK,4.4,2316
+Energy Drink S 92,216.7,1.86,USA,24.9,2833
+Energy Drink D 90,66.2,4.38,France,34.9,2113
+Energy Drink T 3,167.1,3.63,South Korea,41.4,1207
+Energy Drink L 79,93.7,4.36,France,16.2,1067
+Energy Drink D 33,218.4,4.26,South Korea,35.8,48
+Energy Drink N 52,250.7,6.58,Japan,22.5,941
+Energy Drink G 81,135.2,4.64,UK,11.9,3285
+Energy Drink T 38,221.3,8.45,Germany,25.2,1610
+Energy Drink T 62,156.6,8.02,Canada,19.7,1513
+Energy Drink S 95,77.2,5.58,Germany,37.5,287
+Energy Drink I 72,136.7,7.79,Germany,39.5,2352
+Energy Drink W 86,285.0,3.49,USA,32.0,3261
+Energy Drink B 42,203.6,6.09,Canada,23.3,3933
+Energy Drink O 41,96.9,7.62,UK,36.5,1259
+Energy Drink N 31,276.7,1.35,UK,28.7,486
+Energy Drink I 46,76.3,5.72,Japan,33.2,1019
+Energy Drink M 46,168.6,6.07,South Korea,30.1,329
+Energy Drink D 8,279.5,5.76,South Korea,46.6,2993
+Energy Drink G 20,226.0,8.24,Japan,40.2,3784
+Energy Drink H 86,251.4,8.43,Japan,21.1,218
+Energy Drink E 83,203.5,4.12,Germany,5.2,2177
+Energy Drink T 22,167.8,6.92,France,29.4,1079
+Energy Drink D 8,188.6,3.81,Canada,11.2,1640
+Energy Drink D 100,191.6,7.31,USA,17.5,1301
+Energy Drink S 23,256.8,1.24,South Korea,28.6,3157
+Energy Drink W 65,262.6,1.83,Germany,35.3,2331
+Energy Drink U 76,114.6,4.5,UK,8.8,3717
+Energy Drink G 91,254.5,8.34,Japan,38.6,1615
+Energy Drink I 99,54.0,8.49,France,48.4,1674
+Energy Drink I 24,198.0,1.01,UK,48.7,1618
+Energy Drink Q 56,181.5,6.94,UK,12.6,3316
+Energy Drink K 14,235.4,4.38,France,33.5,3910
+Energy Drink B 94,231.7,3.14,Japan,43.0,3797
+Energy Drink W 16,125.0,9.82,Germany,4.3,3371
+Energy Drink S 41,200.1,4.67,USA,15.9,1124
+Energy Drink J 79,265.2,7.77,USA,11.8,2853
+Energy Drink S 50,145.2,2.63,Germany,24.5,758
+Energy Drink N 3,96.6,9.32,Canada,25.4,1677
+Energy Drink A 78,246.2,1.03,Canada,8.8,730
+Energy Drink J 73,186.6,7.61,South Korea,24.4,3893
+Energy Drink B 51,279.4,6.22,South Korea,34.5,2616
+Energy Drink Y 36,110.1,1.62,UK,34.6,1297
+Energy Drink J 81,154.0,1.16,Japan,37.4,1416
+Energy Drink G 82,107.7,3.02,Germany,32.0,965
+Energy Drink S 91,218.6,6.6,Canada,7.9,996
+Energy Drink A 70,219.5,8.11,USA,48.2,3908
+Energy Drink J 95,105.3,5.59,France,4.7,2332
+Energy Drink S 80,201.9,8.06,Germany,49.6,698
+Energy Drink O 12,108.2,8.3,Japan,16.2,3663
+Energy Drink J 1,184.1,3.12,UK,26.7,961
+Energy Drink U 3,281.4,7.06,USA,49.0,487
+Energy Drink W 26,70.1,4.79,UK,9.9,1664
+Energy Drink Q 64,74.9,6.35,France,44.8,2397
+Energy Drink D 37,246.0,4.31,Japan,43.4,468
+Energy Drink Q 68,160.6,3.55,UK,46.8,2206
+Energy Drink U 69,272.8,9.39,Canada,2.7,2950
+Energy Drink I 67,168.6,9.57,Germany,1.3,3582
+Energy Drink J 2,135.6,9.92,USA,46.5,1730
+Energy Drink X 16,187.5,8.24,France,48.8,494
+Energy Drink H 19,155.5,8.82,Germany,31.5,3355
+Energy Drink N 65,182.4,6.4,Canada,47.4,35
+Energy Drink R 14,122.6,3.66,France,15.4,2449
+Energy Drink V 89,279.7,6.41,Germany,49.0,2874
+Energy Drink O 48,253.7,2.32,France,42.7,919
+Energy Drink Y 79,169.2,7.13,Japan,22.0,55
+Energy Drink U 75,160.7,9.76,Japan,2.5,2876
+Energy Drink D 80,139.4,7.73,South Korea,17.5,3063
+Energy Drink V 59,229.4,2.14,Japan,47.8,294
+Energy Drink L 67,280.5,4.91,South Korea,25.8,924
+Energy Drink O 38,177.7,9.33,Japan,49.9,262
+Energy Drink H 98,196.5,5.97,USA,43.7,92
+Energy Drink Q 75,125.5,7.67,France,6.6,383
+Energy Drink M 63,54.4,2.62,Japan,33.5,1643
+Energy Drink I 88,94.5,3.0,France,11.5,2372
+Energy Drink K 45,154.5,9.17,Japan,32.5,700
+Energy Drink L 54,220.7,2.6,UK,41.9,3552
+Energy Drink V 84,173.3,8.45,Japan,17.7,2435
+Energy Drink Y 100,280.4,9.5,USA,2.7,3220
+Energy Drink K 21,125.4,8.89,France,47.2,3531
+Energy Drink B 50,232.5,2.63,USA,19.7,556
+Energy Drink A 30,112.6,3.3,Germany,1.2,883
+Energy Drink B 42,130.0,6.55,UK,28.3,2413
+Energy Drink Q 25,178.0,8.25,Canada,37.2,3850
+Energy Drink T 39,80.1,2.23,France,31.2,2017
+Energy Drink M 68,272.1,4.19,Canada,34.1,1749
+Energy Drink D 67,284.4,8.65,Japan,47.6,1638
+Energy Drink E 57,250.9,9.37,France,16.4,147
+Energy Drink E 51,253.4,1.69,UK,50.0,3664
+Energy Drink F 53,109.8,6.88,USA,36.5,2669
+Energy Drink A 74,278.5,1.33,UK,32.0,1441
+Energy Drink W 56,116.4,5.07,France,25.8,2716
+Energy Drink N 60,277.8,3.33,South Korea,23.3,3025
+Energy Drink L 34,115.7,9.89,South Korea,38.0,3194
+Energy Drink A 9,133.0,1.17,Japan,47.1,3709
+Energy Drink P 6,143.5,7.1,Germany,13.1,1296
+Energy Drink B 24,86.9,7.64,Canada,49.4,3661
+Energy Drink Z 17,276.0,4.94,Germany,45.7,250
+Energy Drink P 78,53.7,8.72,Canada,28.0,2822
+Energy Drink N 3,98.7,2.31,France,35.3,413
+Energy Drink Y 1,97.2,6.48,Japan,17.0,851
+Energy Drink Q 49,52.1,2.52,USA,39.7,1544
+Energy Drink S 31,60.1,9.45,Japan,15.3,671
+Energy Drink U 38,236.2,1.91,Germany,23.3,2723
+Energy Drink U 24,108.5,1.64,UK,34.1,53
+Energy Drink S 90,287.0,2.97,USA,34.0,3941
+Energy Drink U 80,65.3,2.04,Canada,31.6,3043
+Energy Drink U 95,223.7,6.12,France,22.4,1894
+Energy Drink I 84,61.8,2.61,France,6.4,2712
+Energy Drink I 64,147.3,4.01,Canada,21.0,2213
+Energy Drink J 16,297.7,7.25,Japan,40.2,2069
+Energy Drink E 38,144.9,1.15,USA,28.6,3579
+Energy Drink X 54,239.0,4.74,UK,35.0,1208
+Energy Drink S 5,199.1,6.72,USA,5.6,1258
+Energy Drink B 85,116.4,9.12,UK,29.2,1461
+Energy Drink W 66,70.9,1.14,France,43.9,2058
+Energy Drink K 17,282.5,8.15,UK,26.9,1810
+Energy Drink G 73,282.8,3.87,South Korea,3.9,204
+Energy Drink Z 10,196.2,3.93,USA,42.4,3766
+Energy Drink X 2,187.1,9.83,UK,30.6,3692
+Energy Drink Q 36,242.3,7.89,Japan,30.4,3801
+Energy Drink L 14,134.2,1.65,USA,1.6,428
+Energy Drink P 26,248.5,9.74,UK,44.8,2601
+Energy Drink Y 71,288.8,9.26,Canada,7.0,2745
+Energy Drink D 6,218.1,7.89,UK,0.1,1964
+Energy Drink W 77,199.6,3.83,Canada,19.8,968
+Energy Drink C 49,208.3,8.38,France,46.2,2077
+Energy Drink G 11,181.5,4.34,USA,34.4,418
+Energy Drink E 12,297.9,9.74,Canada,11.7,2226
+Energy Drink F 41,96.2,9.99,France,43.1,3096
+Energy Drink L 98,81.7,1.59,Germany,29.0,160
+Energy Drink M 44,140.2,7.06,USA,28.4,3219
+Energy Drink A 51,172.0,6.54,UK,41.3,1974
+Energy Drink B 68,204.9,2.8,UK,6.6,2635
+Energy Drink O 42,232.2,3.64,USA,7.7,3841
+Energy Drink J 14,263.9,5.34,USA,21.1,1300
+Energy Drink G 38,292.6,2.81,South Korea,12.8,1275
+Energy Drink E 39,237.0,3.14,USA,31.8,1024
+Energy Drink E 43,182.9,4.18,France,45.4,3210
+Energy Drink X 72,283.8,3.79,USA,14.2,1591
+Energy Drink J 35,110.2,3.89,South Korea,36.4,2996
+Energy Drink F 12,184.1,4.0,Germany,36.9,480
+Energy Drink M 58,63.7,1.15,South Korea,10.2,3274
+Energy Drink H 59,100.5,6.6,South Korea,32.3,1064
+Energy Drink M 21,95.3,6.54,Canada,5.4,3944
+Energy Drink J 4,165.3,9.7,USA,22.5,607
+Energy Drink W 78,248.4,8.15,UK,23.1,2048
+Energy Drink Q 15,162.1,5.36,UK,31.5,200
+Energy Drink U 5,68.5,2.52,South Korea,37.5,3089
+Energy Drink L 70,189.1,8.78,South Korea,28.7,292
+Energy Drink M 86,145.7,8.03,South Korea,27.7,3449
+Energy Drink Q 44,201.3,2.93,Canada,26.0,2562
+Energy Drink N 45,178.9,7.43,South Korea,49.1,2789
+Energy Drink N 45,184.5,2.59,UK,18.1,1782
+Energy Drink O 20,223.3,1.31,Canada,49.7,1330
+Energy Drink X 65,103.4,9.53,South Korea,22.8,685
+Energy Drink O 55,190.0,6.93,South Korea,8.6,1952
+Energy Drink I 13,233.9,6.18,Canada,27.0,3182
+Energy Drink D 79,147.0,5.54,Canada,45.2,2184
+Energy Drink C 71,127.7,3.0,USA,47.0,3272
+Energy Drink L 42,224.2,8.88,Canada,15.3,709
+Energy Drink E 55,96.0,4.71,France,39.7,2554
+Energy Drink O 21,217.3,7.47,South Korea,21.6,3381
+Energy Drink Y 33,70.8,6.95,Canada,15.0,1917
+Energy Drink R 23,115.4,2.88,France,1.8,384
+Energy Drink E 43,264.0,9.15,Germany,13.5,3591
+Energy Drink A 21,120.4,8.29,Germany,1.5,351
+Energy Drink U 49,197.1,3.86,Japan,5.5,1083
+Energy Drink N 22,243.1,6.19,South Korea,12.2,2183
+Energy Drink G 62,254.7,5.65,Japan,23.9,3298
+Energy Drink L 29,233.6,9.71,UK,9.5,1250
+Energy Drink L 50,64.0,2.55,South Korea,35.0,3621
+Energy Drink K 30,194.4,5.49,Canada,28.2,270
+Energy Drink D 26,250.2,8.99,USA,36.4,78
+Energy Drink J 64,162.5,2.16,USA,2.7,2730
+Energy Drink F 36,248.2,1.11,South Korea,19.0,3231
+Energy Drink M 43,248.2,8.51,Japan,26.1,870
+Energy Drink A 67,147.3,7.28,Canada,18.4,2713
+Energy Drink P 65,283.8,1.5,Japan,23.3,1232
+Energy Drink R 60,282.6,7.24,Germany,35.6,2059
+Energy Drink L 5,278.1,9.96,UK,4.9,2295
+Energy Drink N 14,97.5,5.49,Canada,8.9,259
+Energy Drink R 48,67.8,5.57,Canada,17.1,2237
+Energy Drink O 1,56.6,1.71,South Korea,6.9,3000
+Energy Drink R 41,154.2,5.4,UK,20.1,3509
+Energy Drink Y 30,150.6,6.45,South Korea,6.1,2272
+Energy Drink Q 21,159.3,3.68,France,25.2,1449
+Energy Drink F 52,127.7,6.7,Japan,14.4,1929
+Energy Drink A 34,197.3,9.63,Germany,45.4,1000
+Energy Drink E 38,103.8,8.52,France,12.1,3824
+Energy Drink A 10,57.7,8.15,France,12.9,3139
+Energy Drink P 81,274.0,7.18,UK,36.7,3914
+Energy Drink M 64,263.6,9.88,Japan,23.7,381
+Energy Drink V 13,54.5,5.49,USA,39.2,49
+Energy Drink U 61,116.2,4.85,Germany,35.3,1322
+Energy Drink O 17,126.0,5.09,UK,7.0,420
+Energy Drink M 64,58.3,9.27,France,15.2,2041
+Energy Drink F 10,65.2,7.66,USA,4.9,1687
+Energy Drink R 99,290.4,8.04,France,22.7,992
+Energy Drink I 43,204.4,7.51,UK,31.1,2244
+Energy Drink V 85,180.9,3.17,UK,21.2,2472
+Energy Drink A 46,205.1,1.31,France,33.1,3873
+Energy Drink B 94,287.6,4.58,France,6.4,1323
+Energy Drink M 68,298.0,4.08,South Korea,30.7,1374
+Energy Drink T 7,194.7,6.24,Canada,1.5,77
+Energy Drink I 87,178.5,4.99,USA,5.8,3853
+Energy Drink I 69,221.4,1.55,Germany,38.2,3314
+Energy Drink L 89,246.2,1.42,UK,34.0,3658
+Energy Drink J 22,60.7,1.11,UK,39.9,3804
+Energy Drink A 92,112.0,6.78,South Korea,8.7,3569
+Energy Drink B 19,62.1,5.6,Germany,22.7,2629
+Energy Drink T 32,293.8,5.11,France,39.8,3637
+Energy Drink C 8,240.6,3.27,Japan,47.5,3006
+Energy Drink G 67,174.0,5.85,Germany,39.3,3570
+Energy Drink L 81,240.3,9.12,France,32.1,33
+Energy Drink Y 52,136.7,5.53,France,9.9,2173
+Energy Drink F 56,125.7,8.08,USA,9.3,2092
+Energy Drink J 3,234.1,9.61,Canada,5.7,560
+Energy Drink V 26,224.9,5.5,USA,6.0,451
+Energy Drink H 33,125.8,5.66,USA,20.6,3696
+Energy Drink K 73,243.2,4.43,Japan,41.5,2925
+Energy Drink K 32,278.1,2.6,South Korea,4.8,3263
+Energy Drink N 86,197.9,5.65,USA,0.2,124
+Energy Drink T 68,160.5,4.93,Germany,22.0,2136
+Energy Drink V 42,209.8,9.81,France,44.9,2965
+Energy Drink Q 78,222.9,4.99,South Korea,48.2,3571
+Energy Drink N 33,259.2,7.08,Japan,42.8,1212
+Energy Drink U 41,201.4,5.24,France,28.1,3557
+Energy Drink X 87,278.4,7.59,France,13.0,820
+Energy Drink W 85,290.3,9.86,South Korea,35.7,3871
+Energy Drink G 38,154.4,6.19,France,8.9,2192
+Energy Drink W 44,94.3,4.79,South Korea,3.5,2860
+Energy Drink B 76,78.3,5.6,UK,24.7,3439
+Energy Drink M 59,143.6,9.13,USA,35.4,1622
+Energy Drink J 85,158.0,2.45,USA,23.1,2123
+Energy Drink O 81,299.5,7.46,Canada,34.3,3950
+Energy Drink U 50,121.8,5.27,Japan,36.3,29
+Energy Drink O 73,94.5,2.53,Germany,23.2,1436
+Energy Drink G 5,118.2,3.35,Canada,41.3,3502
+Energy Drink V 52,139.5,8.6,Germany,34.0,3755
+Energy Drink A 85,183.7,5.73,Germany,38.9,410
+Energy Drink O 50,53.3,2.39,France,18.8,1060
+Energy Drink K 49,71.9,3.38,France,12.8,2894
+Energy Drink U 71,130.7,7.57,South Korea,22.6,3366
+Energy Drink K 9,231.9,1.33,UK,36.1,1942
+Energy Drink O 78,276.4,1.47,UK,18.0,2643
+Energy Drink A 59,237.5,2.13,Japan,24.8,1632
+Energy Drink W 35,242.0,1.55,Japan,0.8,2651
+Energy Drink J 20,202.8,2.28,South Korea,39.6,3352
+Energy Drink S 47,229.3,2.94,USA,6.8,2440
+Energy Drink D 30,177.5,4.04,USA,42.6,3378
+Energy Drink A 87,223.9,4.92,Japan,14.7,1164
+Energy Drink L 100,176.5,9.71,UK,30.8,519
+Energy Drink Z 97,112.3,4.84,Japan,12.6,8
+Energy Drink M 77,127.4,8.79,South Korea,29.5,655
+Energy Drink X 43,68.3,3.15,USA,49.2,466
+Energy Drink W 95,57.8,8.57,USA,11.1,3911
+Energy Drink X 72,201.1,3.27,Germany,1.9,817
+Energy Drink C 63,103.7,8.43,South Korea,27.4,3459
+Energy Drink M 15,191.4,3.9,Japan,5.0,2090
+Energy Drink R 49,145.3,4.68,South Korea,7.7,644
+Energy Drink R 93,268.2,9.79,South Korea,28.8,2520
+Energy Drink Q 88,100.7,6.38,UK,16.0,2967
+Energy Drink C 70,244.0,3.26,Japan,11.5,1547
+Energy Drink J 32,69.0,9.18,USA,11.3,1399
+Energy Drink W 45,298.2,8.25,UK,24.5,597
+Energy Drink F 78,54.0,5.86,France,27.2,1745
+Energy Drink V 73,65.5,5.26,Germany,22.1,3655
+Energy Drink Z 100,86.5,7.81,France,29.7,2259
+Energy Drink V 73,296.8,4.64,Canada,21.5,1839
+Energy Drink T 23,134.2,9.85,France,39.6,837
+Energy Drink C 80,66.3,7.6,Germany,5.3,703
+Energy Drink F 88,118.4,3.94,Canada,19.7,3111
+Energy Drink W 81,141.6,9.67,UK,28.3,2315
+Energy Drink K 37,82.7,8.97,USA,19.7,576
+Energy Drink R 35,158.1,3.05,UK,27.3,2150
+Energy Drink I 14,249.4,1.61,Canada,36.1,650
+Energy Drink O 13,62.7,9.64,South Korea,10.2,269
+Energy Drink C 81,189.6,6.87,USA,34.3,87
+Energy Drink I 10,237.6,1.83,Germany,36.6,3545
+Energy Drink B 63,233.1,9.24,Germany,49.1,929
+Energy Drink S 44,182.0,8.04,Canada,20.4,3215
+Energy Drink Z 87,151.0,6.18,Canada,27.5,2534
+Energy Drink S 77,172.6,5.29,Canada,2.7,1992
+Energy Drink I 65,202.5,4.79,Germany,37.7,2240
+Energy Drink M 75,212.3,8.89,France,49.0,1707
+Energy Drink U 30,108.1,6.04,USA,28.3,572
+Energy Drink L 38,289.4,1.47,Canada,33.2,1437
+Energy Drink D 40,294.3,5.66,UK,10.9,60
+Energy Drink P 38,145.9,4.55,South Korea,16.1,2461
+Energy Drink A 82,212.0,5.53,Canada,48.6,688
+Energy Drink H 72,185.7,9.5,South Korea,44.0,3879
+Energy Drink L 57,50.8,6.22,USA,44.4,2116
+Energy Drink V 16,211.6,2.86,Japan,18.6,3398
+Energy Drink S 94,147.7,7.45,Japan,0.8,1196
+Energy Drink B 59,199.9,9.24,France,30.2,1517
+Energy Drink N 17,110.5,5.86,Germany,34.6,2458
+Energy Drink V 43,216.1,8.59,South Korea,19.2,923
+Energy Drink G 19,275.3,4.55,Japan,12.7,3670
+Energy Drink D 35,248.5,5.02,USA,46.0,2412
+Energy Drink Z 96,86.5,1.58,Canada,2.6,3817
+Energy Drink M 28,143.8,9.96,France,39.3,3508
+Energy Drink A 3,276.1,6.53,Japan,29.5,2202
+Energy Drink C 81,138.9,4.76,Japan,7.4,3305
+Energy Drink V 68,124.8,1.55,USA,10.9,558
+Energy Drink M 81,203.8,8.63,Canada,3.7,3633
+Energy Drink W 48,78.7,1.41,USA,22.8,982
+Energy Drink C 65,128.2,2.79,Germany,20.9,3639
+Energy Drink D 88,172.9,5.27,France,46.1,1668
+Energy Drink S 63,201.6,4.91,USA,25.7,2443
+Energy Drink T 76,113.9,2.38,Germany,28.1,669
+Energy Drink S 85,216.5,4.58,USA,16.1,2235
+Energy Drink Q 19,98.4,2.4,Japan,36.1,1039
+Energy Drink V 64,169.1,2.83,Japan,43.5,3799
+Energy Drink J 47,121.4,4.4,USA,4.9,1313
+Energy Drink V 66,108.0,3.48,Germany,16.9,3866
+Energy Drink A 14,90.4,9.47,South Korea,5.5,3196
+Energy Drink D 14,58.3,1.44,UK,23.2,3026
+Energy Drink D 97,200.3,2.55,UK,40.5,99
+Energy Drink S 15,280.6,7.04,South Korea,12.4,2396
+Energy Drink D 43,211.1,7.66,USA,11.6,934
+Energy Drink W 71,204.6,7.2,France,43.1,1357
+Energy Drink N 50,220.8,1.39,France,44.3,2415
+Energy Drink A 52,119.9,6.88,Japan,45.4,3335
+Energy Drink T 52,227.8,6.22,UK,29.8,706
+Energy Drink Q 55,58.7,5.4,Canada,12.4,1363
+Energy Drink B 20,206.1,5.23,UK,41.9,1714
+Energy Drink N 76,56.5,4.76,France,30.0,2371
+Energy Drink V 68,90.3,5.15,France,36.7,2036
+Energy Drink M 9,82.2,8.94,Germany,1.4,2005
+Energy Drink R 18,256.1,7.92,UK,7.8,2565
+Energy Drink L 15,244.8,5.52,France,31.6,616
+Energy Drink X 90,115.5,7.74,South Korea,13.4,3562
+Energy Drink A 59,125.6,8.15,South Korea,22.9,2140
+Energy Drink W 5,115.6,6.95,Japan,48.6,3825
+Energy Drink E 86,115.8,3.23,UK,42.1,2101
+Energy Drink R 76,165.5,6.22,France,42.6,724
+Energy Drink P 33,110.1,9.13,South Korea,13.5,25
+Energy Drink V 95,85.7,7.36,Japan,41.1,3200
+Energy Drink E 77,121.6,1.12,Germany,45.8,951
+Energy Drink W 12,121.6,9.9,South Korea,32.6,419
+Energy Drink V 62,180.3,5.04,Canada,27.3,1975
+Energy Drink P 89,196.3,5.3,Japan,45.8,721
+Energy Drink L 27,240.5,6.85,Japan,13.2,3103
+Energy Drink I 38,131.1,6.34,Canada,43.0,1504
+Energy Drink A 98,187.6,7.09,USA,11.0,3629
+Energy Drink C 56,84.6,2.5,USA,4.6,2008
+Energy Drink Q 80,245.9,2.7,UK,8.3,936
+Energy Drink J 44,232.8,5.96,UK,7.3,1035
+Energy Drink W 75,115.3,6.19,USA,16.1,1242
+Energy Drink V 98,140.1,7.35,Canada,15.2,1806
+Energy Drink U 75,56.8,6.59,USA,44.8,3138
+Energy Drink E 32,285.6,4.58,UK,36.3,1122
+Energy Drink H 73,259.7,2.88,Japan,13.7,223
+Energy Drink U 67,193.2,9.19,UK,25.0,1626
+Energy Drink S 9,184.0,2.17,France,23.9,1058
+Energy Drink G 82,284.1,8.11,USA,14.8,2667
+Energy Drink I 39,243.1,5.95,South Korea,15.1,1673
+Energy Drink E 50,272.5,4.57,Germany,38.4,816
+Energy Drink D 57,216.9,7.31,USA,34.1,2061
+Energy Drink K 11,295.1,1.09,Canada,34.4,2318
+Energy Drink U 26,149.2,9.32,USA,9.5,889
+Energy Drink A 94,138.0,4.14,USA,17.7,1119
+Energy Drink X 22,137.8,7.33,Japan,5.4,3952
+Energy Drink H 34,247.3,3.54,Germany,45.3,2805
+Energy Drink I 14,181.8,3.19,USA,10.1,3333
+Energy Drink B 35,192.9,1.11,USA,5.8,2775
+Energy Drink J 39,62.0,9.48,Germany,3.5,3235
+Energy Drink L 73,86.4,4.92,Germany,21.3,3683
+Energy Drink J 65,56.8,7.13,UK,39.6,3815
+Energy Drink L 93,184.0,8.67,USA,31.9,1081
+Energy Drink D 23,291.1,5.0,Canada,40.8,1556
+Energy Drink W 34,225.3,6.41,UK,15.0,337
+Energy Drink O 13,124.2,2.01,Japan,3.3,690
+Energy Drink M 17,252.8,1.22,Germany,21.1,1283
+Energy Drink X 91,68.0,9.79,South Korea,11.1,2210
+Energy Drink S 77,199.3,4.99,UK,29.7,2626
+Energy Drink Y 34,115.9,4.32,Japan,47.8,1385
+Energy Drink X 85,139.5,1.9,Canada,32.6,1825
+Energy Drink B 74,110.6,6.53,South Korea,13.7,1560
+Energy Drink D 35,198.4,3.23,UK,12.5,1771
+Energy Drink Z 55,152.8,9.26,Germany,41.3,2865
+Energy Drink H 22,171.0,2.41,South Korea,26.8,3351
+Energy Drink L 78,251.1,1.74,USA,13.7,3812
+Energy Drink V 75,115.2,9.22,Japan,3.8,2497
+Energy Drink P 41,267.1,7.31,Canada,27.4,752
+Energy Drink D 69,178.5,3.15,Germany,7.4,2806
+Energy Drink S 64,191.8,3.32,South Korea,3.5,526
+Energy Drink C 30,120.6,3.16,South Korea,2.7,2176
+Energy Drink M 43,155.8,4.45,UK,7.6,3270
+Energy Drink K 61,224.0,5.35,Canada,21.8,1080
+Energy Drink G 16,222.2,8.47,USA,33.3,2135
+Energy Drink P 68,184.8,8.77,UK,9.0,3589
+Energy Drink N 63,272.4,1.56,Japan,9.1,849
+Energy Drink S 14,229.5,9.13,Japan,2.8,2329
+Energy Drink C 56,200.5,5.25,France,36.0,2395
+Energy Drink Y 13,236.1,4.94,Canada,22.9,1862
+Energy Drink A 95,106.2,8.03,France,46.4,2549
+Energy Drink T 83,120.6,5.56,South Korea,32.1,1725
+Energy Drink P 28,185.1,2.22,UK,44.4,318
+Energy Drink L 92,78.0,6.89,South Korea,7.2,2659
+Energy Drink I 9,213.2,4.88,UK,17.0,18
+Energy Drink B 29,265.9,2.37,France,10.8,2243
+Energy Drink G 57,296.5,3.6,Germany,10.6,2178
+Energy Drink Z 93,167.1,7.83,Canada,2.9,677
+Energy Drink K 43,215.0,2.87,Japan,19.6,3945
+Energy Drink Y 59,144.9,9.89,South Korea,39.1,3729
+Energy Drink C 77,272.3,6.76,France,40.6,2421
+Energy Drink A 65,216.0,2.9,Germany,30.5,1514
+Energy Drink L 94,247.7,6.77,Japan,38.8,2813
+Energy Drink N 61,216.8,3.56,Japan,36.5,1457
+Energy Drink Z 18,282.4,6.79,Japan,38.2,3232
+Energy Drink Q 19,191.6,8.79,France,6.1,1509
+Energy Drink L 86,231.2,9.24,USA,16.7,3404
+Energy Drink L 38,230.5,7.78,USA,8.0,1772
+Energy Drink Y 21,53.2,6.42,Japan,23.9,911
+Energy Drink J 32,295.5,7.8,Japan,37.1,2690
+Energy Drink Y 44,65.0,9.13,UK,39.2,1289
+Energy Drink W 71,178.7,7.07,South Korea,18.4,1823
+Energy Drink C 84,53.1,3.56,France,18.8,757
+Energy Drink B 75,137.6,1.7,Germany,31.5,9
+Energy Drink V 100,100.9,4.63,South Korea,0.9,976
+Energy Drink I 95,247.5,7.72,UK,42.0,2507
+Energy Drink F 8,186.5,2.06,Japan,20.8,548
+Energy Drink V 12,209.0,3.14,South Korea,28.9,3631
+Energy Drink S 10,209.4,5.19,USA,32.9,427
+Energy Drink U 96,215.8,1.55,UK,33.9,1973
+Energy Drink H 99,149.7,9.47,South Korea,41.5,169
+Energy Drink K 76,144.4,6.13,South Korea,45.8,3050
+Energy Drink T 47,294.5,8.57,UK,27.4,3082
+Energy Drink S 52,138.0,6.91,France,38.6,212
+Energy Drink Q 76,229.0,6.73,Canada,45.6,1086
+Energy Drink H 46,112.7,6.35,UK,30.8,1460
+Energy Drink N 39,131.2,7.2,USA,42.1,3938
+Energy Drink D 30,173.3,3.29,South Korea,11.0,1732
+Energy Drink K 100,90.0,9.38,Germany,34.6,540
+Energy Drink G 26,96.8,6.68,UK,12.3,1366
+Energy Drink W 80,217.2,9.06,USA,39.8,2156
+Energy Drink H 96,85.5,4.75,UK,26.2,1101
+Energy Drink E 30,59.1,4.43,South Korea,5.0,64
+Energy Drink H 22,163.9,9.85,Canada,48.5,1694
+Energy Drink Z 34,289.2,7.47,Canada,43.7,1854
+Energy Drink I 38,237.8,4.6,Germany,25.4,974
+Energy Drink S 37,59.9,3.85,France,29.4,2052
+Energy Drink U 22,253.4,5.51,USA,7.9,498
+Energy Drink M 2,158.5,3.17,Japan,32.0,2596
+Energy Drink V 87,91.6,1.03,France,29.8,693
+Energy Drink J 6,124.3,1.42,France,11.8,3465
+Energy Drink L 2,86.3,8.96,France,5.8,202
+Energy Drink H 97,271.5,5.13,Japan,3.5,3827
+Energy Drink N 24,89.3,7.72,UK,49.7,3234
+Energy Drink T 38,134.7,8.87,USA,29.4,3956
+Energy Drink N 43,89.4,5.32,USA,1.8,3749
+Energy Drink B 53,173.2,3.57,Canada,35.0,840
+Energy Drink P 32,241.8,1.77,France,18.9,1712
+Energy Drink D 6,162.4,1.52,Canada,35.3,404
+Energy Drink C 83,194.7,5.64,France,31.0,406
+Energy Drink P 44,140.2,7.63,South Korea,39.2,2208
+Energy Drink N 4,229.2,4.6,France,23.7,3614
+Energy Drink S 40,240.1,2.29,UK,40.7,3739
+Energy Drink L 95,144.7,6.09,Canada,49.7,2768
+Energy Drink O 47,265.5,3.56,USA,2.4,3511
+Energy Drink I 56,87.9,8.42,South Korea,29.0,3819
+Energy Drink U 2,233.0,7.69,Germany,48.8,638
+Energy Drink R 7,198.9,6.44,Germany,2.7,3083
+Energy Drink Y 90,88.3,5.45,USA,5.2,2620
+Energy Drink F 93,278.1,4.36,Japan,43.7,2251
+Energy Drink C 42,129.6,3.65,Japan,47.2,2146
+Energy Drink Y 36,261.1,8.04,UK,14.2,1177
+Energy Drink A 26,289.3,2.24,South Korea,13.4,334
+Energy Drink Y 54,247.3,5.83,Germany,24.5,1477
+Energy Drink V 91,188.7,6.61,Canada,38.5,3719
+Energy Drink C 26,185.3,6.11,UK,36.9,804
+Energy Drink V 17,216.1,6.49,France,36.9,2855
+Energy Drink Y 80,93.3,1.27,USA,3.0,2418
+Energy Drink A 98,233.0,8.4,South Korea,2.9,3876
+Energy Drink A 79,209.6,3.76,France,15.7,2038
+Energy Drink N 67,63.9,4.75,Canada,27.1,3611
+Energy Drink H 82,276.3,2.27,UK,17.8,3249
+Energy Drink Q 20,113.7,5.61,USA,7.3,2977
+Energy Drink L 51,165.5,6.69,South Korea,17.4,2649
+Energy Drink B 70,289.5,8.68,UK,17.9,1741
+Energy Drink T 51,92.2,6.45,Japan,29.6,1919
+Energy Drink C 13,215.0,9.83,Canada,6.7,716
+Energy Drink Y 7,54.9,2.47,South Korea,19.6,1590
+Energy Drink F 54,63.4,8.04,France,26.5,2902
+Energy Drink J 68,71.0,1.64,Germany,48.6,282
+Energy Drink P 70,202.6,4.69,France,30.0,1014
+Energy Drink I 15,160.2,5.71,Germany,49.8,3110
+Energy Drink Q 1,103.8,7.6,Japan,29.4,3979
+Energy Drink L 84,183.3,4.39,USA,13.3,3176
+Energy Drink E 54,273.3,6.75,South Korea,11.0,762
+Energy Drink O 84,249.3,8.89,Japan,0.1,2618
+Energy Drink Y 69,166.7,1.78,France,10.3,3171
+Energy Drink K 73,221.2,6.84,Germany,31.0,1808
+Energy Drink Y 86,172.1,1.94,South Korea,46.5,395
+Energy Drink Y 14,80.3,5.94,France,44.2,1716
+Energy Drink H 4,57.2,3.69,Japan,21.9,1815
+Energy Drink W 89,55.2,7.01,USA,13.7,3292
+Energy Drink U 89,241.1,5.1,Germany,22.4,1379
+Energy Drink J 1,162.0,7.4,France,36.1,3240
+Energy Drink G 13,133.8,4.83,South Korea,21.7,717
+Energy Drink W 82,118.2,3.97,Japan,35.3,1425
+Energy Drink T 10,252.7,6.7,UK,2.7,1031
+Energy Drink J 92,156.1,7.45,Canada,9.1,2129
+Energy Drink O 58,86.7,3.46,UK,40.1,3922
+Energy Drink G 1,296.8,7.03,France,46.5,2782
+Energy Drink T 42,104.3,9.22,Canada,36.5,2890
+Energy Drink Y 87,282.8,9.46,South Korea,14.3,2749
+Energy Drink U 64,207.1,8.99,USA,26.1,612
+Energy Drink F 31,256.0,4.01,UK,3.9,1569
+Energy Drink A 37,294.5,4.14,USA,15.8,1017
+Energy Drink R 36,273.3,6.46,UK,11.8,1783
+Energy Drink Y 81,65.6,3.8,France,24.0,2107
+Energy Drink W 32,258.5,7.78,Japan,32.8,838
+Energy Drink H 29,100.3,4.11,Japan,15.0,1617
+Energy Drink X 68,144.5,6.57,UK,35.7,2751
+Energy Drink B 77,163.4,7.03,USA,33.8,285
+Energy Drink V 29,275.5,2.01,Japan,33.2,2018
+Energy Drink V 59,131.0,4.43,Japan,22.9,990
+Energy Drink U 71,172.8,4.14,France,16.4,3780
+Energy Drink T 73,216.5,4.67,France,43.4,3075
+Energy Drink R 23,211.8,3.37,USA,8.7,3301
+Energy Drink V 44,162.6,4.76,Germany,32.9,3443
+Energy Drink G 49,297.1,9.04,Canada,9.4,1142
+Energy Drink I 25,288.7,8.48,USA,16.2,2026
+Energy Drink Q 53,290.4,4.03,Canada,32.7,741
+Energy Drink U 16,133.6,6.48,France,6.6,1361
+Energy Drink S 67,142.0,2.69,France,37.4,3499
+Energy Drink F 85,167.7,6.03,France,0.8,3477
+Energy Drink S 78,157.2,2.89,South Korea,42.3,674
+Energy Drink J 20,83.1,1.52,Japan,0.7,209
+Energy Drink I 65,98.3,6.56,USA,18.8,24
+Energy Drink V 47,111.8,9.33,USA,35.3,912
+Energy Drink R 3,62.7,6.56,France,27.0,578
+Energy Drink E 93,299.5,4.28,Germany,1.9,2117
+Energy Drink N 43,282.8,9.84,UK,0.2,361
+Energy Drink K 16,122.8,5.91,Japan,29.9,2639
+Energy Drink J 38,278.5,2.84,South Korea,9.5,1734
+Energy Drink V 23,68.9,1.03,Germany,1.1,1520
+Energy Drink Z 31,279.8,3.55,Canada,40.1,416
+Energy Drink B 49,99.6,2.94,USA,8.6,1653
+Energy Drink T 14,251.7,3.72,Germany,37.3,312
+Energy Drink P 18,215.0,7.73,France,38.9,479
+Energy Drink Z 5,74.8,3.49,UK,26.9,3901
+Energy Drink J 51,167.7,6.49,UK,48.6,765
+Energy Drink Q 71,109.0,8.38,USA,46.1,3491
+Energy Drink N 40,162.8,6.71,USA,33.0,662
+Energy Drink M 83,105.1,1.86,South Korea,11.8,1321
+Energy Drink D 95,243.5,2.6,UK,2.7,2508
+Energy Drink D 25,262.5,9.55,Japan,9.8,2302
+Energy Drink N 14,189.2,1.42,Japan,37.8,2825
+Energy Drink T 55,200.1,3.68,USA,40.4,1880
+Energy Drink A 97,224.8,5.92,South Korea,12.6,2576
+Energy Drink G 100,270.1,9.17,Canada,9.7,1270
+Energy Drink T 15,135.8,5.54,Japan,13.7,862
+Energy Drink Z 12,296.4,2.0,Germany,47.0,3977
+Energy Drink W 4,289.1,5.31,South Korea,46.6,2685
+Energy Drink H 81,94.8,9.73,USA,44.0,461
+Energy Drink H 49,162.5,6.56,South Korea,40.0,2344
+Energy Drink V 48,184.1,6.18,Japan,5.6,2918
+Energy Drink K 63,165.3,4.05,UK,44.6,613
+Energy Drink O 14,100.2,7.0,Japan,30.4,3067
+Energy Drink K 45,58.9,9.3,France,2.6,3022
+Energy Drink A 34,69.4,2.47,USA,47.1,2926
+Energy Drink X 29,123.8,9.86,South Korea,15.8,1852
+Energy Drink U 7,187.2,8.0,UK,46.4,3912
+Energy Drink V 51,287.2,7.29,France,28.2,1993
+Energy Drink K 71,88.5,7.86,UK,17.0,2189
+Energy Drink H 94,108.1,5.98,USA,30.4,1439
+Energy Drink N 15,243.9,1.02,France,24.8,2539
+Energy Drink T 26,151.1,7.77,South Korea,42.3,1383
+Energy Drink L 26,74.3,9.83,Canada,30.1,1493
+Energy Drink X 61,285.9,9.45,Japan,21.4,1341
+Energy Drink V 30,107.3,8.56,UK,39.9,3999
+Energy Drink J 16,94.1,7.34,France,9.8,1140
+Energy Drink P 13,178.6,6.43,USA,4.9,2908
+Energy Drink Q 93,51.7,8.68,Canada,41.4,2767
+Energy Drink V 26,240.4,5.62,UK,6.4,2705
+Energy Drink Q 47,124.5,7.14,Japan,19.3,1971
+Energy Drink J 46,272.7,2.97,Germany,42.2,2
+Energy Drink V 84,198.6,6.22,South Korea,44.5,3660
+Energy Drink J 41,97.9,2.21,UK,42.9,2187
+Energy Drink X 52,267.7,4.52,Germany,37.7,1249
+Energy Drink A 87,63.3,6.04,Japan,18.3,1190
+Energy Drink R 72,104.4,7.41,France,30.3,2845
+Energy Drink T 44,94.5,4.92,South Korea,45.6,3650
+Energy Drink V 48,184.6,4.6,UK,25.5,1542
+Energy Drink T 61,242.3,5.84,UK,18.2,2468
+Energy Drink P 88,250.2,9.05,Canada,46.9,3038
+Energy Drink N 15,67.2,8.6,South Korea,41.6,2195
+Energy Drink K 93,144.3,4.49,South Korea,12.4,2786
+Energy Drink Y 4,106.8,6.29,Canada,11.8,1877
+Energy Drink D 3,267.5,7.89,Japan,26.4,609
+Energy Drink S 66,103.7,7.72,Germany,37.9,3325
+Energy Drink F 99,270.2,2.1,France,31.9,1939
+Energy Drink Q 98,211.2,9.33,Japan,19.7,354
+Energy Drink M 86,241.7,5.03,Germany,32.0,1166
+Energy Drink D 14,233.8,9.29,Canada,23.5,940
+Energy Drink S 45,241.9,9.65,Japan,22.8,2956
+Energy Drink F 78,298.5,1.58,France,38.1,3165
+Energy Drink V 40,54.5,6.41,Japan,2.2,2500
+Energy Drink S 4,60.6,4.15,Canada,15.4,3590
+Energy Drink V 42,282.4,7.53,Japan,21.2,3894
+Energy Drink Q 76,90.2,3.64,Canada,44.3,642
+Energy Drink B 35,88.2,6.44,UK,33.5,2427
+Energy Drink I 79,179.3,4.73,UK,32.3,2245
+Energy Drink X 29,103.1,8.26,Germany,43.7,1633
+Energy Drink X 19,168.8,3.69,USA,22.5,1433
+Energy Drink J 44,87.6,1.68,UK,27.0,1516
+Energy Drink L 70,91.7,9.35,UK,41.4,3608
+Energy Drink S 94,76.4,8.81,South Korea,12.8,115
+Energy Drink Q 20,202.9,5.25,South Korea,41.9,1125
+Energy Drink V 62,62.2,2.5,Japan,34.0,253
+Energy Drink J 11,278.5,5.24,France,9.2,3903
+Energy Drink W 25,294.3,3.67,Japan,18.5,2323
+Energy Drink Z 60,235.2,9.54,UK,15.4,1431
+Energy Drink X 85,267.2,9.22,UK,20.1,760
+Energy Drink A 9,230.8,1.26,France,37.7,266
+Energy Drink W 31,56.8,7.19,Germany,23.0,1930
+Energy Drink L 3,99.0,4.54,Germany,10.1,3388
+Energy Drink N 65,265.0,4.71,Canada,9.7,467
+Energy Drink V 70,238.2,2.23,USA,3.7,1421
+Energy Drink G 50,59.9,1.12,Japan,14.2,3778
+Energy Drink D 15,298.6,2.3,South Korea,37.9,2574
+Energy Drink A 72,124.8,8.35,USA,28.5,114
+Energy Drink Q 22,180.7,5.19,Japan,5.9,1475
+Energy Drink V 11,185.2,8.57,UK,14.6,731
+Energy Drink A 58,127.2,3.13,Canada,22.0,3417
+Energy Drink A 43,178.9,6.08,UK,19.0,245
+Energy Drink T 21,96.1,4.02,USA,8.1,3685
+Energy Drink J 84,117.9,9.44,UK,29.6,585
+Energy Drink I 83,237.6,6.02,UK,40.4,2732
+Energy Drink C 100,279.1,8.23,South Korea,32.4,3810
+Energy Drink B 33,102.9,2.93,UK,49.9,1784
+Energy Drink E 21,70.9,6.8,Canada,6.2,1887
+Energy Drink Y 49,173.2,6.33,USA,38.3,2285
+Energy Drink V 77,225.1,8.74,Japan,25.4,3441
+Energy Drink D 30,263.8,2.37,France,42.1,3342
+Energy Drink I 75,89.9,7.68,UK,1.7,3238
+Energy Drink K 97,219.6,5.01,USA,48.8,544
+Energy Drink O 49,85.3,4.09,South Korea,7.7,2153
+Energy Drink K 37,276.3,4.16,France,30.6,989
+Energy Drink D 52,205.4,2.49,Japan,34.6,667
+Energy Drink X 70,239.9,9.14,France,1.3,2477
+Energy Drink G 15,120.8,8.09,Canada,19.2,2373
+Energy Drink L 78,203.5,9.28,Germany,25.4,2781
+Energy Drink J 71,236.4,1.04,Japan,23.3,1088
+Energy Drink F 92,273.1,3.03,Japan,38.5,3697
+Energy Drink Y 38,142.5,8.65,Canada,32.3,463
+Energy Drink I 70,277.2,3.84,France,14.0,3
+Energy Drink T 81,205.8,1.54,Canada,39.1,469
+Energy Drink V 82,222.2,5.3,Germany,37.1,411
+Energy Drink M 89,202.4,5.24,USA,3.2,3282
+Energy Drink U 72,89.0,5.9,Canada,49.0,1293
+Energy Drink P 55,77.7,5.18,South Korea,39.4,3104
+Energy Drink Z 7,247.0,1.23,Japan,13.1,3951
+Energy Drink F 56,172.4,4.57,South Korea,20.7,855
+Energy Drink Z 59,150.0,6.52,Japan,8.0,1103
+Energy Drink R 47,225.6,2.75,UK,8.6,1470
+Energy Drink B 18,227.0,4.09,France,49.5,3984
+Energy Drink W 66,220.7,3.63,Canada,22.5,3662
+Energy Drink B 69,192.0,2.95,Japan,15.1,4
+Energy Drink X 5,256.9,7.29,Japan,13.1,2495
+Energy Drink F 37,159.8,2.22,South Korea,30.8,1585
+Energy Drink D 3,221.5,5.26,France,18.8,3432
+Energy Drink N 38,184.8,3.11,South Korea,0.2,422
+Energy Drink B 10,184.3,2.64,USA,25.3,3269
+Energy Drink D 89,60.0,8.68,Germany,39.1,2891
+Energy Drink F 86,213.4,9.37,Canada,17.5,2389
+Energy Drink G 77,223.0,5.9,France,34.6,3428
+Energy Drink M 53,169.1,3.92,Germany,43.0,2335
+Energy Drink I 31,87.4,7.46,South Korea,19.9,3844
+Energy Drink V 17,70.7,7.37,USA,25.6,1655
+Energy Drink J 37,256.6,1.27,South Korea,6.4,3619
+Energy Drink R 3,172.1,7.87,France,26.2,2205
+Energy Drink I 70,135.2,2.08,Canada,17.7,1111
+Energy Drink N 93,161.9,2.74,Canada,48.5,2419
+Energy Drink T 86,197.3,8.6,USA,20.2,1811
+Energy Drink Z 43,269.5,4.85,UK,12.4,2120
+Energy Drink E 86,119.9,7.97,UK,49.1,221
+Energy Drink J 2,77.3,9.46,USA,20.8,2619
+Energy Drink R 34,143.5,6.59,Germany,44.3,2842
+Energy Drink T 15,156.2,5.97,France,49.4,2009
+Energy Drink K 4,156.2,2.68,Japan,34.9,2606
+Energy Drink R 23,90.7,3.59,Canada,44.6,214
+Energy Drink Q 91,228.2,3.42,France,17.7,824
+Energy Drink W 42,277.5,9.92,Canada,0.1,3346
+Energy Drink H 51,113.9,2.8,USA,37.7,3387
+Energy Drink M 45,196.2,2.1,South Korea,42.5,718
+Energy Drink Q 10,220.0,8.08,France,27.9,2708
+Energy Drink T 30,72.3,9.31,UK,39.9,2491
+Energy Drink Z 42,163.3,6.66,France,19.1,2248
+Energy Drink V 51,219.6,3.83,USA,32.6,2600
+Energy Drink L 47,244.2,2.97,France,49.3,633
+Energy Drink G 19,289.4,9.45,UK,34.4,2633
+Energy Drink H 66,229.1,5.73,South Korea,39.3,3252
+Energy Drink O 97,216.6,3.69,Germany,49.0,555
+Energy Drink O 11,181.9,1.53,USA,48.8,3994
+Energy Drink O 75,152.4,6.72,South Korea,3.8,1215
+Energy Drink T 18,68.4,6.71,Japan,34.5,1985
+Energy Drink K 96,267.0,3.28,Germany,24.0,2288
+Energy Drink P 14,264.3,8.89,Germany,5.9,1339
+Energy Drink U 38,95.8,7.75,Germany,28.5,233
+Energy Drink Q 75,135.9,1.19,Germany,14.3,899
+Energy Drink T 23,220.7,6.93,UK,34.1,3995
+Energy Drink X 9,144.8,6.65,UK,5.0,2590
+Energy Drink I 37,124.4,8.65,Canada,2.8,680
+Energy Drink C 36,232.0,3.34,USA,9.4,2078
+Energy Drink W 54,186.0,8.76,South Korea,2.0,1011
+Energy Drink B 11,147.9,9.54,Japan,25.5,3538
+Energy Drink Q 64,218.0,8.76,France,23.9,3132
+Energy Drink J 91,253.6,2.75,France,25.8,1440
+Energy Drink S 89,165.8,9.44,Germany,40.4,2043
+Energy Drink M 17,269.2,2.63,South Korea,0.8,1923
+Energy Drink Q 33,245.7,6.51,South Korea,44.4,2748
+Energy Drink T 14,86.4,6.78,France,3.6,1868
+Energy Drink O 22,251.5,3.52,Germany,31.6,1801
+Energy Drink T 19,130.0,6.24,Canada,2.6,2559
+Energy Drink H 71,177.0,5.36,Japan,44.2,1143
+Energy Drink N 90,118.8,2.01,Japan,14.8,1607
+Energy Drink T 65,201.0,5.66,USA,6.8,3296
+Energy Drink B 99,129.5,5.53,UK,15.8,2145
+Energy Drink M 17,240.7,2.84,UK,14.3,3828
+Energy Drink Q 31,63.4,6.5,USA,40.9,1109
+Energy Drink L 94,132.3,7.7,Canada,32.3,781
+Energy Drink U 44,80.2,7.98,France,25.9,1095
+Energy Drink B 70,196.2,1.38,South Korea,41.2,2212
+Energy Drink B 69,123.6,3.42,Canada,32.5,3618
+Energy Drink V 69,126.8,1.83,South Korea,14.6,3604
+Energy Drink C 60,156.7,8.68,Japan,20.6,2024
+Energy Drink V 91,223.2,9.25,Japan,14.4,3931
+Energy Drink U 40,206.9,3.46,France,32.5,2542
+Energy Drink H 63,139.9,1.2,Japan,20.0,3746
+Energy Drink Y 43,77.2,2.27,USA,42.5,871
+Energy Drink X 46,237.6,6.0,USA,44.2,107
+Energy Drink P 82,162.7,6.24,UK,37.9,1884
+Energy Drink R 32,161.6,1.42,USA,26.3,1187
+Energy Drink Q 56,137.1,4.96,UK,44.8,402
+Energy Drink I 21,120.0,1.54,France,7.2,1831
+Energy Drink R 18,73.7,7.57,Canada,18.7,2790
+Energy Drink S 26,134.3,9.23,South Korea,38.4,3256
+Energy Drink Y 32,211.3,8.27,Canada,48.5,3726
+Energy Drink S 37,90.2,9.51,France,29.9,822
+Energy Drink N 85,156.6,8.29,Germany,48.5,1463
+Energy Drink A 51,166.1,6.79,Canada,17.9,1046
+Energy Drink Q 26,228.9,8.59,UK,44.8,1966
+Energy Drink Z 24,263.7,4.86,Japan,25.3,3865
+Energy Drink M 4,169.5,8.26,USA,16.6,615
+Energy Drink L 82,273.4,6.52,Germany,13.7,720
+Energy Drink J 40,85.3,8.64,USA,36.3,566
+Energy Drink Z 19,293.6,7.3,USA,48.7,185
+Energy Drink E 47,233.0,8.16,USA,12.5,2612
+Energy Drink M 4,252.0,8.94,Japan,37.2,1157
+Energy Drink O 46,230.0,2.73,UK,37.1,3937
+Energy Drink M 33,202.0,6.98,Japan,27.5,626
+Energy Drink X 90,111.2,1.73,France,33.9,3163
+Energy Drink O 25,257.7,8.4,France,21.7,5
+Energy Drink R 72,221.5,2.92,South Korea,26.1,491
+Energy Drink U 82,225.8,8.13,Germany,12.9,3229
+Energy Drink F 62,82.5,6.73,France,49.5,2546
+Energy Drink S 53,145.1,1.19,Germany,9.3,1182
+Energy Drink J 33,160.4,1.58,Germany,14.0,1155
+Energy Drink V 32,197.6,4.61,UK,17.4,1376
+Energy Drink C 14,116.6,5.88,USA,41.8,1627
+Energy Drink W 30,290.5,8.24,Canada,11.4,2957
+Energy Drink G 23,237.8,6.4,France,25.7,3008
+Energy Drink J 46,121.9,2.94,UK,2.5,232
+Energy Drink Y 86,57.0,4.74,Japan,29.7,1371
+Energy Drink S 77,93.8,2.69,USA,17.3,2482
+Energy Drink O 67,277.4,4.47,UK,42.1,1020
+Energy Drink O 86,160.4,6.36,USA,6.7,682
+Energy Drink J 24,92.2,5.65,France,20.2,3413
+Energy Drink H 60,141.3,6.44,UK,14.7,937
+Energy Drink J 1,143.2,2.19,Japan,14.6,483
+Energy Drink T 79,78.3,7.37,UK,47.2,67
+Energy Drink D 96,100.3,9.88,Canada,23.2,2313
+Energy Drink G 39,61.0,9.78,UK,24.2,2476
+Energy Drink U 81,89.9,3.86,South Korea,49.2,1858
+Energy Drink F 51,167.7,1.5,USA,49.2,2568
+Energy Drink Q 65,264.9,7.64,UK,34.6,3741
+Energy Drink G 5,243.4,1.97,France,20.1,1900
+Energy Drink O 97,104.3,1.03,South Korea,37.5,2640
+Energy Drink T 12,234.3,5.02,France,0.6,2717
+Energy Drink E 60,116.1,8.96,South Korea,35.0,1809
+Energy Drink Z 92,131.7,1.22,Germany,22.5,1817
+Energy Drink U 22,56.0,8.4,Canada,26.8,2961
+Energy Drink D 72,133.0,4.27,Canada,18.5,3560
+Energy Drink L 57,176.7,6.67,Canada,47.8,3550
+Energy Drink X 82,157.3,5.08,Germany,25.3,2800
+Energy Drink W 36,83.0,8.35,UK,15.7,2505
+Energy Drink V 68,298.8,6.48,South Korea,42.5,3349
+Energy Drink S 30,232.7,6.69,Japan,29.7,1338
+Energy Drink U 43,284.5,8.21,France,31.2,2254
+Energy Drink J 23,280.6,1.96,USA,18.8,927
+Energy Drink U 78,268.6,7.22,Japan,0.8,1443
+Energy Drink W 47,283.3,8.84,France,18.4,3488
+Energy Drink Y 74,241.7,5.91,UK,26.0,2338
+Energy Drink R 24,85.7,5.66,South Korea,32.3,514
+Energy Drink U 73,260.1,2.47,France,35.1,3896
+Energy Drink V 33,213.8,9.41,South Korea,35.5,1458
+Energy Drink Z 21,77.6,9.01,South Korea,30.5,2441
+Energy Drink R 75,90.5,7.49,South Korea,43.0,2299
+Energy Drink C 37,246.2,9.7,Canada,24.3,782
+Energy Drink H 12,172.0,1.72,South Korea,48.4,3578
+Energy Drink R 62,277.2,9.6,Canada,44.3,1151
+Energy Drink G 28,68.1,4.4,Canada,29.6,178
+Energy Drink M 20,195.1,5.95,South Korea,39.4,809
+Energy Drink E 55,251.8,7.63,USA,23.1,2209
+Energy Drink N 52,170.3,7.38,Germany,28.9,2644
+Energy Drink Z 40,246.6,2.74,USA,6.1,3005
+Energy Drink N 7,64.8,5.46,Canada,2.1,2808
+Energy Drink L 83,201.7,6.76,USA,12.8,3140
+Energy Drink M 39,78.9,5.51,Canada,0.9,697
+Energy Drink X 36,197.2,2.31,UK,28.7,1990
+Energy Drink Z 39,112.1,1.43,UK,35.0,3114
+Energy Drink U 60,133.4,3.97,USA,34.5,3494
+Energy Drink V 99,277.7,4.41,UK,33.2,3868
+Energy Drink P 16,165.2,9.28,Germany,12.6,1034
+Energy Drink I 81,141.4,3.37,Japan,31.9,275
+Energy Drink B 88,164.2,7.23,Germany,28.9,3588
+Energy Drink G 47,246.7,2.41,USA,36.5,164
+Energy Drink U 89,239.3,3.09,USA,23.3,3654
+Energy Drink Q 4,160.2,5.23,USA,8.1,464
+Energy Drink V 94,236.5,6.03,South Korea,6.4,213
+Energy Drink J 89,131.9,3.09,UK,48.8,2552
+Energy Drink K 42,224.4,1.1,Germany,18.6,983
+Energy Drink U 91,237.6,3.54,UK,3.1,123
+Energy Drink F 33,258.5,4.42,USA,19.1,1393
+Energy Drink U 33,278.6,7.93,Germany,39.8,1492
+Energy Drink M 33,192.6,5.41,Canada,5.9,776
+Energy Drink K 93,216.1,7.24,Canada,10.4,563
+Energy Drink C 94,116.4,8.04,USA,29.5,2980
+Energy Drink L 29,121.5,2.85,Germany,3.7,3638
+Energy Drink A 54,91.5,7.19,South Korea,38.1,315
+Energy Drink X 72,129.8,9.73,South Korea,27.5,3883
+Energy Drink N 19,162.7,5.76,USA,42.4,3795
+Energy Drink D 58,123.7,2.78,France,32.8,374
+Energy Drink X 30,211.5,4.3,France,11.7,846
+Energy Drink A 57,143.4,3.3,Germany,42.4,1252
+Energy Drink B 83,134.6,7.99,UK,12.7,1370
+Energy Drink L 74,284.9,2.74,France,20.9,497
+Energy Drink G 35,159.1,2.93,Canada,42.9,1903
+Energy Drink K 82,168.6,7.11,France,21.3,34
+Energy Drink P 32,67.9,6.12,Japan,21.3,2501
+Energy Drink Z 31,58.9,3.95,USA,15.0,2604
+Energy Drink D 25,268.3,7.29,Japan,11.1,79
+Energy Drink S 22,86.9,7.87,South Korea,44.8,1743
+Energy Drink D 12,195.3,4.82,South Korea,8.0,3339
+Energy Drink H 66,238.2,6.92,UK,1.1,930
+Energy Drink D 34,76.9,9.71,South Korea,28.8,3725
+Energy Drink I 15,120.7,2.19,UK,2.7,1502
+Energy Drink P 86,239.6,5.8,Canada,14.9,507
+Energy Drink D 77,91.0,4.77,Japan,24.1,102
+Energy Drink S 55,198.8,5.05,USA,21.3,2180
+Energy Drink U 95,267.4,9.55,Germany,29.6,3989
+Energy Drink N 88,92.8,7.56,Japan,37.4,2454
+Energy Drink Y 80,273.7,7.94,UK,37.1,3024
+Energy Drink P 75,83.9,3.92,Japan,25.2,167
+Energy Drink H 25,51.6,4.18,South Korea,12.1,3048
+Energy Drink B 25,293.6,5.43,Germany,31.5,2486
+Energy Drink Q 32,190.8,6.14,South Korea,11.8,163
+Energy Drink X 53,152.4,6.62,USA,44.4,1314
+Energy Drink T 15,275.3,4.05,UK,31.8,3636
+Energy Drink H 67,248.6,6.53,USA,35.8,2555
+Energy Drink W 58,267.7,6.58,Japan,26.3,728
+Energy Drink Z 58,271.8,2.91,USA,12.0,1688
+Energy Drink E 59,269.2,2.24,UK,42.3,2521
+Energy Drink I 14,199.2,4.91,South Korea,2.2,2306
+Energy Drink E 18,222.7,6.43,Japan,19.4,1359
+Energy Drink Z 22,70.5,1.53,South Korea,34.9,1386
+Energy Drink K 74,91.5,2.62,Canada,4.4,740
+Energy Drink R 9,58.4,1.69,USA,39.4,409
+Energy Drink Z 61,256.7,2.76,UK,19.5,1746
+Energy Drink N 5,254.7,5.17,Japan,46.9,2110
+Energy Drink S 33,205.4,8.74,Japan,38.9,1107
+Energy Drink R 65,186.5,1.07,UK,19.8,1565
+Energy Drink K 71,286.9,8.01,Canada,34.1,1302
+Energy Drink P 59,112.4,1.47,Canada,9.7,3646
+Energy Drink F 15,162.8,3.71,Germany,46.6,19
+Energy Drink B 52,239.1,2.2,Germany,41.0,534
+Energy Drink K 27,283.1,1.18,Germany,2.6,2675
+Energy Drink D 71,246.0,7.35,Canada,24.1,2955
+Energy Drink V 88,248.8,8.22,Germany,43.5,1133
+Energy Drink Q 82,118.6,3.17,France,20.9,1600
+Energy Drink A 83,144.5,3.65,Japan,8.3,3679
+Energy Drink O 59,92.0,6.02,Germany,0.4,3832
+Energy Drink S 94,276.3,7.08,Canada,2.1,1706
+Energy Drink B 40,102.7,5.7,France,18.6,3595
+Energy Drink F 2,171.1,9.26,Germany,25.8,2085
+Energy Drink B 74,197.7,6.1,USA,43.4,3519
+Energy Drink A 32,235.9,1.9,France,29.6,2025
+Energy Drink M 96,293.5,2.27,France,15.2,750
+Energy Drink O 81,289.4,4.84,USA,21.5,1999
+Energy Drink W 56,146.2,7.1,France,4.9,3961
+Energy Drink G 89,126.1,6.88,Japan,41.0,16
+Energy Drink B 51,52.4,6.87,Japan,30.1,142
+Energy Drink H 75,52.0,6.07,Germany,39.0,472
+Energy Drink O 75,95.1,5.66,USA,34.0,1012
+Energy Drink O 60,193.3,3.8,France,31.6,2624
+Energy Drink Z 64,78.3,2.4,France,36.3,957
+Energy Drink R 64,162.9,8.59,Germany,17.5,939
+Energy Drink Z 32,150.2,7.37,Canada,46.4,2498
+Energy Drink G 76,83.9,2.37,Germany,4.8,1968
+Energy Drink H 12,221.5,2.4,France,21.0,2007
+Energy Drink R 49,148.0,4.33,Japan,26.2,135
+Energy Drink L 53,54.7,8.45,UK,27.2,2093
+Energy Drink I 92,174.1,7.49,Japan,33.3,3337
+Energy Drink L 41,264.6,2.07,UK,37.8,2628
+Energy Drink T 3,96.3,5.62,Germany,35.8,2402
+Energy Drink R 13,165.1,5.37,South Korea,2.5,3652
+Energy Drink C 95,155.8,2.58,France,49.0,2470
+Energy Drink A 32,281.1,7.18,South Korea,29.5,1564
+Energy Drink F 52,164.9,6.3,France,7.5,3128
+Energy Drink L 95,77.2,4.8,Japan,27.6,3095
+Energy Drink W 75,81.1,5.8,South Korea,29.1,1689
+Energy Drink O 70,276.5,7.98,Germany,17.3,3818
+Energy Drink W 38,223.7,2.88,Canada,19.0,774
+Energy Drink Q 46,126.8,8.35,UK,45.7,2817
+Energy Drink J 28,120.1,9.57,Canada,42.9,2502
+Energy Drink N 73,265.0,5.39,France,14.3,1238
+Energy Drink Z 1,159.3,5.9,Japan,2.9,47
+Energy Drink N 20,146.0,3.87,Japan,40.6,3437
+Energy Drink Z 7,70.7,8.17,UK,14.8,3551
+Energy Drink A 53,234.6,3.51,UK,12.5,2688
+Energy Drink R 23,261.3,4.19,South Korea,15.7,3845
+Energy Drink E 87,118.9,2.47,France,11.2,2585
+Energy Drink O 62,221.1,7.99,Germany,48.7,2111
+Energy Drink S 61,242.6,5.11,Canada,26.0,712
+Energy Drink C 7,207.3,9.61,Japan,37.6,879
+Energy Drink V 88,91.9,8.15,UK,10.2,586
+Energy Drink J 6,192.5,4.75,France,11.1,1405
+Energy Drink U 55,73.1,1.26,Canada,6.4,1358
+Energy Drink Q 36,279.0,4.63,Germany,42.9,1210
+Energy Drink D 30,284.0,8.64,Germany,12.8,2032
+Energy Drink T 94,230.0,9.88,USA,6.8,2735
+Energy Drink U 74,193.7,9.5,France,47.3,2037
+Energy Drink X 10,115.4,4.55,Germany,4.6,3524
+Energy Drink X 75,81.7,3.56,France,16.7,2661
+Energy Drink S 41,228.0,9.38,France,23.0,3032
+Energy Drink I 93,276.6,5.46,South Korea,29.4,2647
+Energy Drink M 25,188.6,2.45,Germany,0.0,450
+Energy Drink P 4,81.5,3.32,Canada,3.9,2812
+Energy Drink M 52,270.4,9.7,Canada,21.7,1406
+Energy Drink E 69,113.8,9.47,USA,16.2,3715
+Energy Drink P 57,135.1,5.56,France,27.8,1663
+Energy Drink L 90,281.8,7.21,France,42.8,143
+Energy Drink K 75,254.1,5.71,USA,3.3,1531
+Energy Drink J 51,208.7,8.72,France,30.6,580
+Energy Drink J 33,259.4,5.82,Japan,29.6,3073
+Energy Drink V 19,89.3,3.36,UK,49.9,536
+Energy Drink D 75,56.3,1.44,Canada,2.9,1191
+Energy Drink N 30,139.2,9.34,USA,14.7,963
+Energy Drink C 20,267.3,7.24,USA,28.5,3369
+Energy Drink O 63,146.6,2.29,UK,20.6,2230
+Energy Drink Y 52,211.6,8.74,South Korea,3.6,2872
+Energy Drink P 41,239.4,9.41,Japan,10.5,3518
+Energy Drink X 19,289.1,7.14,Germany,16.5,2972
+Energy Drink S 22,230.8,3.7,Canada,29.3,499
+Energy Drink H 21,240.3,3.02,Japan,9.4,3069
+Energy Drink M 7,67.5,1.9,South Korea,29.2,2691
+Energy Drink R 12,242.2,2.42,Canada,34.5,1836
+Energy Drink J 56,295.0,5.34,Japan,47.0,2517
+Energy Drink R 19,98.4,5.26,Germany,42.4,3859
+Energy Drink X 37,163.5,7.86,UK,36.2,1879
+Energy Drink A 3,123.8,4.65,Canada,38.2,786
+Energy Drink T 91,151.7,4.3,France,16.9,193
+Energy Drink H 18,258.1,6.6,USA,19.8,121
+Energy Drink N 30,190.8,6.5,France,16.5,3882
+Energy Drink X 7,148.3,8.88,France,47.4,3874
+Energy Drink V 4,76.5,6.71,Canada,26.1,3117
+Energy Drink K 82,130.3,4.3,USA,2.1,3915
+Energy Drink O 14,206.4,1.74,USA,48.2,530
+Energy Drink G 28,286.7,2.47,USA,30.3,1955
+Energy Drink Y 69,245.3,4.47,South Korea,17.7,3150
+Energy Drink I 21,193.8,7.95,UK,26.2,1105
+Energy Drink M 38,79.2,4.86,South Korea,49.8,3167
+Energy Drink S 15,160.8,8.77,South Korea,21.9,1418
+Energy Drink R 100,183.6,4.9,Canada,36.3,1150
+Energy Drink G 28,50.1,9.31,Germany,14.1,2147
+Energy Drink L 26,226.4,9.07,Japan,0.3,37
+Energy Drink K 86,87.6,5.64,Germany,42.6,301
+Energy Drink U 24,175.5,1.72,South Korea,28.8,2551
+Energy Drink K 95,229.8,2.33,UK,28.6,1049
+Energy Drink T 25,187.1,7.79,South Korea,9.8,3469
+Energy Drink R 76,209.8,8.74,South Korea,44.0,2777
+Energy Drink W 45,54.2,4.98,Germany,11.6,3470
+Energy Drink S 41,172.2,4.29,USA,28.8,155
+Energy Drink O 79,123.1,3.37,USA,6.3,85
+Energy Drink S 15,76.3,7.63,South Korea,24.1,661
+Energy Drink H 27,225.9,8.01,Germany,1.2,2737
+Energy Drink O 70,120.9,7.83,Germany,16.6,2677
+Energy Drink V 13,155.6,5.48,South Korea,14.8,1288
+Energy Drink A 71,104.7,3.86,USA,27.1,945
+Energy Drink B 60,236.7,2.6,Germany,36.6,1538
+Energy Drink I 97,156.6,1.61,UK,27.3,38
+Energy Drink W 64,198.6,6.65,Japan,7.2,904
+Energy Drink H 2,205.2,2.22,UK,15.9,2687
+Energy Drink P 57,237.4,5.18,South Korea,38.3,1159
+Energy Drink E 86,53.7,6.98,France,10.0,647
+Energy Drink T 87,165.0,8.15,USA,46.0,969
+Energy Drink G 96,144.4,3.98,UK,21.9,2824
+Energy Drink X 59,56.2,3.84,Germany,1.3,76
+Energy Drink P 49,111.6,1.36,Germany,8.5,3687
+Energy Drink K 97,250.5,7.72,Japan,11.3,3266
+Energy Drink Q 79,249.5,1.1,Canada,26.7,1764
+Energy Drink Y 75,236.5,5.98,South Korea,39.9,3322
+Energy Drink D 24,218.9,3.08,UK,35.9,319
+Energy Drink M 71,269.7,8.4,Germany,9.7,1496
+Energy Drink H 64,250.8,6.09,France,38.1,3452
+Energy Drink P 72,65.6,3.22,Japan,19.0,3362
+Energy Drink K 55,292.4,1.06,UK,29.4,2033
+Energy Drink I 4,71.6,9.55,Japan,39.2,1265
+Energy Drink M 81,176.8,6.44,France,3.2,2796
+Energy Drink Q 32,282.1,6.02,USA,40.3,1092
+Energy Drink R 38,277.2,8.03,South Korea,37.9,1578
+Energy Drink I 61,125.4,7.35,South Korea,3.2,652
+Energy Drink O 54,56.8,8.98,Canada,0.1,893
+Energy Drink F 39,145.9,8.87,Germany,10.4,1451
+Energy Drink R 82,218.9,8.0,USA,3.8,1750
+Energy Drink V 99,187.5,3.82,Germany,49.9,1849
+Energy Drink C 47,235.6,3.07,USA,46.8,390
+Energy Drink M 41,262.6,5.42,Germany,1.9,2057
+Energy Drink D 63,89.9,8.42,France,45.7,2625
+Energy Drink X 6,228.4,5.82,France,7.9,2185
+Energy Drink E 21,204.6,3.89,South Korea,10.2,602
+Energy Drink B 57,298.6,5.5,South Korea,14.0,1331
+Energy Drink B 47,93.3,5.86,UK,41.3,3405
+Energy Drink O 62,77.4,7.23,Japan,4.6,1540
+Energy Drink B 81,275.3,7.26,Japan,40.0,1787
+Energy Drink V 94,256.1,5.53,USA,44.7,3468
+Energy Drink Y 78,250.6,2.59,France,19.5,3386
+Energy Drink P 99,96.8,2.78,Japan,47.9,41
+Energy Drink H 19,228.0,6.68,France,19.0,2720
+Energy Drink S 84,103.6,4.93,Germany,22.5,2936
+Energy Drink U 81,291.8,9.9,Germany,3.9,2848
+Energy Drink C 29,109.9,7.73,USA,44.6,873
+Energy Drink J 57,151.9,9.54,Germany,10.5,94
+Energy Drink Z 26,88.9,4.93,UK,27.0,1218
+Energy Drink Q 34,160.3,4.65,Canada,20.7,860
+Energy Drink Y 25,120.5,3.64,Germany,45.9,1752
+Energy Drink E 9,178.3,6.4,USA,21.7,3156
+Energy Drink K 27,139.2,4.01,Japan,27.3,3394
+Energy Drink Q 6,277.0,7.09,Germany,18.0,2844
+Energy Drink A 5,100.7,7.89,South Korea,22.3,1984
+Energy Drink D 70,191.1,9.9,Japan,3.3,1286
+Energy Drink O 61,227.7,9.63,South Korea,17.6,1785
+Energy Drink X 66,124.9,7.57,Germany,49.5,695
+Energy Drink K 61,216.2,9.51,Germany,43.3,722
+Energy Drink P 24,191.2,9.36,South Korea,14.7,1816
+Energy Drink I 42,192.6,1.67,UK,36.0,2327
+Energy Drink W 29,97.1,8.61,France,9.0,2613
+Energy Drink R 76,236.0,1.41,France,4.6,3553
+Energy Drink S 93,136.3,1.32,South Korea,39.3,885
+Energy Drink U 24,69.2,2.51,UK,44.3,2513
+Energy Drink Q 58,135.7,4.37,USA,39.7,2066
+Energy Drink K 76,131.3,3.93,Canada,16.2,2255
+Energy Drink W 42,200.6,4.44,Germany,38.4,2617
+Energy Drink U 22,142.6,9.48,France,10.9,1041
+Energy Drink M 9,172.6,5.97,Japan,43.6,175
+Energy Drink T 61,79.8,7.93,Japan,44.0,2916
+Energy Drink E 89,65.7,3.03,Japan,36.5,2359
+Energy Drink T 2,281.0,2.47,Japan,13.9,744
+Energy Drink N 63,139.7,6.49,South Korea,43.6,2648
+Energy Drink U 81,204.7,9.73,UK,38.1,2841
+Energy Drink D 36,274.4,2.1,USA,7.3,844
+Energy Drink G 46,57.0,8.53,Japan,39.7,485
+Energy Drink C 73,81.2,6.98,France,42.3,1380
+Energy Drink C 77,82.9,6.76,France,25.8,1755
+Energy Drink Y 48,80.6,3.18,Germany,47.9,3284
+Energy Drink Z 36,107.5,8.45,USA,32.4,2563
+Energy Drink D 94,60.4,4.43,France,36.8,1262
+Energy Drink U 60,182.5,9.16,Japan,5.8,1408
+Energy Drink Y 42,247.4,1.85,Canada,17.0,2966
+Energy Drink I 42,247.9,2.52,USA,32.0,766
+Energy Drink D 32,230.7,6.04,USA,12.5,2273
+Energy Drink M 49,271.5,4.99,UK,37.2,3872
+Energy Drink E 41,128.0,1.62,France,46.2,1533
+Energy Drink O 20,104.5,5.68,Canada,37.4,1927
+Energy Drink T 25,284.3,7.05,Canada,17.5,603
+Energy Drink Y 84,279.3,7.59,USA,28.7,3884
+Energy Drink S 1,123.2,4.78,USA,32.5,3821
+Energy Drink Y 57,256.6,5.82,USA,21.2,2670
+Energy Drink X 87,221.6,5.55,South Korea,13.7,2664
+Energy Drink Q 44,105.5,7.28,South Korea,20.2,3039
+Energy Drink R 42,245.2,5.22,UK,10.8,3353
+Energy Drink V 51,111.1,7.38,USA,7.9,211
+Energy Drink X 22,261.5,7.81,Canada,21.7,2819
+Energy Drink G 78,240.0,9.86,Japan,25.0,3446
+Energy Drink H 46,146.9,3.88,USA,11.6,2281
+Energy Drink Y 59,76.5,4.88,USA,10.5,2137
+Energy Drink K 9,206.6,6.83,USA,5.9,2046
+Energy Drink D 60,52.0,8.6,France,35.9,403
+Energy Drink E 90,75.9,4.95,USA,3.7,398
+Energy Drink L 38,141.2,4.84,Canada,23.7,2181
+Energy Drink U 72,198.7,9.11,Canada,3.9,2011
+Energy Drink X 42,174.1,6.51,South Korea,18.5,3195
+Energy Drink O 39,109.8,9.63,UK,29.0,369
+Energy Drink R 33,272.1,2.01,UK,34.4,300
+Energy Drink Z 29,146.5,2.04,Japan,24.1,2837
+Energy Drink N 97,179.2,6.29,France,17.5,3326
+Energy Drink E 75,244.3,9.67,Germany,39.6,3734
+Energy Drink W 34,102.4,9.83,Canada,8.5,2161
+Energy Drink F 22,87.9,6.24,Canada,26.4,2249
+Energy Drink G 29,53.4,1.47,Japan,35.7,3577
+Energy Drink F 35,277.0,4.96,South Korea,12.2,971
+Energy Drink B 11,209.8,4.25,France,39.5,3947
+Energy Drink S 27,228.2,5.61,South Korea,41.0,3880
+Energy Drink H 25,71.2,8.93,Canada,41.1,794
+Energy Drink D 41,279.9,3.23,USA,4.1,2493
+Energy Drink K 29,292.4,6.32,Germany,18.9,2747
+Energy Drink N 67,96.4,1.17,Germany,32.9,723
+Energy Drink V 79,165.1,9.65,Japan,8.8,3996
+Energy Drink M 44,63.1,8.99,South Korea,16.3,1414
+Energy Drink K 44,295.7,7.42,Canada,48.4,826
+Energy Drink Z 60,91.1,2.83,France,3.7,3416
+Energy Drink J 19,151.3,6.25,France,22.4,389
+Energy Drink N 29,180.0,4.28,South Korea,25.8,1281
+Energy Drink W 94,145.7,3.92,Japan,2.1,2363
+Energy Drink D 43,148.5,7.41,South Korea,3.0,125
+Energy Drink Q 43,266.4,5.23,South Korea,31.4,699
+Energy Drink J 32,269.7,2.02,UK,26.6,2843
+Energy Drink T 15,122.3,3.75,France,36.7,3184
+Energy Drink D 49,60.8,5.52,UK,21.3,2106
+Energy Drink A 6,285.2,4.38,Germany,11.9,1642
+Energy Drink M 11,53.1,7.68,USA,39.0,3523
+Energy Drink U 33,76.2,3.26,UK,47.2,2673
+Energy Drink G 49,165.3,2.22,Japan,0.5,2744
+Energy Drink W 58,174.2,8.61,USA,0.1,3529
+Energy Drink E 83,204.8,7.08,South Korea,42.2,501
+Energy Drink G 80,139.9,2.13,Germany,12.3,3722
+Energy Drink K 54,293.4,6.28,Japan,45.7,1356
+Energy Drink C 75,117.9,4.06,Germany,47.6,184
+Energy Drink F 22,264.3,3.96,South Korea,40.2,3788
+Energy Drink E 20,166.1,4.52,Germany,24.9,1354
+Energy Drink X 19,257.2,8.7,France,44.0,1372
+Energy Drink Y 81,70.7,6.24,USA,40.2,1225
+Energy Drink G 67,265.9,1.98,USA,27.3,286
+Energy Drink U 31,165.1,8.38,Japan,3.8,1348
+Energy Drink N 74,157.1,1.06,Germany,23.1,2233
+Energy Drink F 55,290.3,6.22,France,30.5,3277
+Energy Drink B 37,241.4,1.03,Germany,37.2,1651
+Energy Drink A 66,133.2,4.58,USA,23.6,1136
+Energy Drink R 65,150.1,4.09,USA,16.7,3572
+Energy Drink C 90,231.6,3.58,Germany,33.0,2998
+Energy Drink O 37,58.7,7.67,Canada,39.2,1048
+Energy Drink T 49,269.0,9.68,Japan,45.1,2940
+Energy Drink A 38,138.1,5.13,Germany,12.8,3323
+Energy Drink G 66,64.3,1.52,South Korea,25.9,3565
+Energy Drink K 18,257.5,3.65,UK,48.6,1654
+Energy Drink L 34,63.3,2.62,France,1.1,557
+Energy Drink E 30,252.7,3.37,USA,44.8,3963
+Energy Drink M 61,51.0,5.59,South Korea,49.3,2913
+Energy Drink Y 100,196.7,5.54,Japan,9.9,727
+Energy Drink T 9,284.5,8.07,Japan,42.7,2630
+Energy Drink G 8,74.9,5.62,France,11.2,815
+Energy Drink Y 45,209.8,2.96,Germany,22.9,1335
+Energy Drink V 23,247.0,6.34,France,41.1,3040
+Energy Drink E 72,79.5,5.27,South Korea,17.4,884
+Energy Drink Q 70,208.1,2.96,Japan,7.2,1658
+Energy Drink S 83,195.0,9.59,Canada,24.4,2270
+Energy Drink V 49,133.8,2.74,South Korea,38.5,2133
+Energy Drink T 43,257.4,4.92,Germany,20.2,3704
+Energy Drink W 86,173.8,4.61,UK,22.4,3172
+Energy Drink D 19,158.4,1.45,USA,22.6,2317
+Energy Drink I 50,243.8,7.24,UK,45.5,2142
+Energy Drink R 35,268.9,1.97,Canada,30.5,3495
+Energy Drink M 22,90.1,6.77,USA,8.7,1941
+Energy Drink Y 68,74.0,8.51,France,22.6,651
+Energy Drink B 73,186.4,7.53,Japan,41.1,3391
+Energy Drink C 95,153.4,8.46,Germany,27.3,127
+Energy Drink C 71,69.6,6.68,UK,17.1,1890
+Energy Drink M 2,209.5,1.89,Japan,0.4,2702
+Energy Drink J 59,260.3,1.17,Japan,33.6,1229
+Energy Drink N 41,140.3,5.22,Canada,0.7,3044
+Energy Drink C 84,226.8,7.13,France,7.4,2399
+Energy Drink O 17,169.9,1.15,UK,24.0,1426
+Energy Drink O 100,267.8,9.85,Japan,6.6,2932
+Energy Drink G 8,120.0,7.6,USA,37.7,1963
+Energy Drink N 62,75.5,3.93,USA,29.1,1803
+Energy Drink D 41,179.9,2.13,Japan,10.8,1873
+Energy Drink L 31,181.1,5.14,Canada,49.3,234
+Energy Drink J 89,263.5,2.67,South Korea,48.1,81
+Energy Drink N 27,267.5,3.28,South Korea,41.7,2631
+Energy Drink L 40,135.8,1.88,UK,30.9,2627
+Energy Drink U 9,298.9,9.63,Canada,35.9,775
+Energy Drink Y 28,60.5,7.22,UK,23.7,3800
+Energy Drink B 32,180.1,5.81,Canada,8.7,2818
+Energy Drink L 20,126.1,2.27,Germany,18.1,2298
+Energy Drink M 72,248.1,3.94,South Korea,48.1,1419
+Energy Drink W 55,191.2,6.1,Canada,20.8,1916
+Energy Drink M 84,161.1,6.42,UK,18.0,3779
+Energy Drink U 98,205.0,5.18,Japan,13.3,1473
+Energy Drink K 66,247.5,9.56,Canada,33.7,3949
+Energy Drink Q 63,53.8,4.85,Japan,39.5,421
+Energy Drink X 71,73.5,2.21,South Korea,32.8,2307
+Energy Drink G 84,86.1,6.98,UK,7.1,1037
+Energy Drink E 83,203.5,5.53,UK,25.9,3645
+Energy Drink K 97,84.4,6.71,South Korea,5.6,2339
+Energy Drink W 70,267.1,3.17,Canada,21.4,2330
+Energy Drink T 19,220.2,7.84,Japan,38.2,439
+Energy Drink I 75,196.7,2.17,Japan,46.2,3115
+Energy Drink T 97,237.3,6.91,USA,46.5,1717
+Energy Drink B 74,177.6,7.86,South Korea,32.8,2050
+Energy Drink V 7,251.3,2.74,France,40.5,1861
+Energy Drink I 81,81.6,2.55,UK,22.5,3781
+Energy Drink M 94,149.7,1.14,France,27.7,2304
+Energy Drink H 65,221.1,4.65,Japan,34.0,2047
+Energy Drink G 93,236.6,5.31,France,10.6,632
+Energy Drink Q 56,105.3,7.08,France,18.7,3212
+Energy Drink F 41,298.5,2.03,UK,39.5,2545
+Energy Drink O 33,82.4,5.02,USA,8.5,1347
+Energy Drink X 61,268.7,1.17,Japan,8.4,3472
+Energy Drink I 22,218.3,6.58,Germany,27.0,2683
+Energy Drink E 52,222.3,1.96,Germany,10.3,3813
+Energy Drink J 11,233.8,2.93,UK,38.4,134
+Energy Drink D 69,203.3,8.28,Germany,20.4,1676
+Energy Drink Z 64,260.1,5.98,Germany,29.4,3418
+Energy Drink C 78,113.9,7.63,France,0.0,271
+Energy Drink J 10,65.8,9.51,South Korea,1.2,377
+Energy Drink N 94,185.4,4.0,USA,29.0,1599
+Energy Drink P 33,71.9,4.14,Canada,7.5,2530
+Energy Drink V 1,159.7,2.5,South Korea,21.3,2489
+Energy Drink J 29,203.4,9.01,UK,14.8,391
+Energy Drink X 73,237.7,9.33,France,46.6,3408
+Energy Drink N 50,180.3,3.94,USA,43.2,3953
+Energy Drink T 94,158.8,6.02,Canada,35.1,2340
+Energy Drink K 57,288.9,5.57,USA,36.7,1719
+Energy Drink S 82,248.0,2.78,USA,40.4,3854
+Energy Drink P 19,171.5,9.27,France,30.3,2801
+Energy Drink Z 88,271.1,5.75,France,30.7,3058
+Energy Drink S 97,89.6,1.45,France,29.0,3209
+Energy Drink D 92,220.8,8.06,Germany,1.3,3153
+Energy Drink M 6,187.4,3.57,France,11.4,1070
+Energy Drink Q 12,174.6,2.31,France,31.6,1268
+Energy Drink T 26,71.5,6.88,USA,19.4,145
+Energy Drink S 22,282.3,4.63,UK,33.3,828
+Energy Drink R 39,182.8,6.2,Germany,46.9,1718
+Energy Drink G 91,54.9,4.21,France,12.0,248
+Energy Drink V 29,105.8,2.53,South Korea,35.8,401
+Energy Drink T 43,76.0,3.66,France,15.7,1657
+Energy Drink L 50,119.4,4.46,France,29.8,1396
+Energy Drink A 36,137.6,4.58,UK,41.9,2623
+Energy Drink G 76,100.5,3.73,Japan,48.8,2858
+Energy Drink P 94,59.7,6.92,South Korea,24.4,1027
+Energy Drink T 41,209.2,2.58,UK,39.4,2336
+Energy Drink W 87,291.9,3.58,Japan,33.6,104
+Energy Drink A 64,170.8,7.86,Japan,26.0,1059
+Energy Drink G 90,257.1,5.02,Japan,9.5,1882
+Energy Drink B 92,132.9,9.29,Canada,31.4,3035
+Energy Drink O 12,263.0,2.03,South Korea,29.1,3861
+Energy Drink C 10,246.2,3.76,UK,28.6,1661
+Energy Drink G 60,178.9,5.0,France,40.5,2657
+Energy Drink C 24,256.1,9.1,Japan,30.1,3136
+Energy Drink E 64,60.2,5.09,USA,20.1,2030
+Energy Drink V 50,132.8,4.39,Germany,2.6,707
+Energy Drink A 55,62.3,9.15,USA,41.3,1539
+Energy Drink H 78,283.2,3.83,UK,24.8,967
+Energy Drink A 48,78.4,7.27,USA,47.5,1800
+Energy Drink S 17,151.7,3.69,France,22.3,2503
+Energy Drink B 18,162.9,4.46,France,25.7,539
+Energy Drink H 20,96.7,2.23,Japan,37.5,120
+Energy Drink D 25,234.2,8.3,Germany,36.1,2870
+Energy Drink B 40,210.3,3.21,France,34.6,434
+Energy Drink T 20,267.5,2.6,Japan,15.6,2109
+Energy Drink M 25,160.7,6.89,UK,41.2,3149
+Energy Drink I 31,245.0,5.8,Canada,9.6,3385
+Energy Drink Q 3,80.7,2.22,Canada,43.7,1532
+Energy Drink L 53,128.0,5.05,Canada,22.5,1227
+Energy Drink V 21,112.5,6.89,UK,19.8,531
+Energy Drink I 90,131.4,7.19,Japan,46.8,3925
+Energy Drink U 85,206.8,3.94,USA,33.2,778
+Energy Drink N 43,253.0,4.18,Germany,15.7,228
+Energy Drink X 23,223.2,9.25,Germany,1.7,1786
+Energy Drink R 1,82.1,4.76,USA,47.6,20
+Energy Drink E 1,269.9,7.48,UK,15.1,400
+Energy Drink N 44,111.9,4.42,France,41.3,1965
+Energy Drink Q 19,262.3,6.86,Germany,7.2,3732
+Energy Drink U 95,213.5,9.5,Germany,39.4,3019
+Energy Drink Y 56,122.5,5.99,Japan,45.7,3068
+Energy Drink N 25,70.2,7.19,UK,14.9,3503
+Energy Drink J 98,264.5,9.59,UK,25.3,1980
+Energy Drink K 11,119.5,6.7,Japan,23.5,2337
+Energy Drink O 54,178.9,3.16,USA,31.5,66
+Energy Drink L 72,223.7,1.35,Canada,40.2,559
+Energy Drink O 56,92.1,3.79,France,23.1,3317
+Energy Drink F 83,174.3,7.18,Germany,3.0,1510
+Energy Drink B 99,55.4,4.22,South Korea,28.9,3918
+Energy Drink X 65,124.7,6.41,Japan,27.1,3102
+Energy Drink B 78,239.8,6.02,Germany,10.5,3473
+Energy Drink V 91,240.7,8.89,USA,5.1,1138
+Energy Drink D 41,118.3,8.25,Japan,33.6,3481
+Energy Drink X 100,81.3,3.32,UK,4.9,3913
+Energy Drink I 50,249.5,9.64,UK,16.7,2222
+Energy Drink Q 92,106.3,1.73,Germany,1.6,3691
+Energy Drink U 94,191.8,5.96,USA,10.7,3319
+Energy Drink N 37,52.8,5.57,South Korea,8.6,2611
+Energy Drink X 12,283.4,8.68,Japan,25.5,881
+Energy Drink X 12,121.4,5.44,USA,38.9,3360
+Energy Drink R 25,295.7,8.04,Japan,34.7,3243
+Energy Drink M 47,239.6,8.72,USA,21.7,3057
+Energy Drink C 66,163.9,1.86,UK,4.6,3259
+Energy Drink P 1,224.6,3.08,France,30.7,1956
+Energy Drink B 88,115.4,7.62,UK,9.2,1397
+Energy Drink H 66,276.2,2.04,UK,33.6,3720
+Energy Drink P 11,63.5,3.45,South Korea,31.8,657
+Energy Drink X 4,211.8,8.93,UK,38.3,3835
+Energy Drink W 67,172.7,5.04,South Korea,22.4,2739
+Energy Drink L 50,250.6,7.34,Japan,27.4,109
+Energy Drink M 62,190.2,7.23,France,47.8,2934
+Energy Drink S 49,131.5,8.6,South Korea,43.1,2642
+Energy Drink D 21,72.1,3.18,UK,17.2,1306
+Energy Drink C 52,82.6,6.0,USA,36.1,3430
+Energy Drink S 69,273.8,3.43,South Korea,19.2,591
+Energy Drink S 33,181.3,2.42,Canada,33.5,2484
+Energy Drink V 84,173.2,5.01,USA,31.0,2570
+Energy Drink G 65,281.0,9.68,Japan,13.5,154
+Energy Drink B 60,205.1,5.67,USA,15.9,909
+Energy Drink R 25,161.2,7.15,UK,46.9,2144
+Energy Drink N 92,204.3,4.01,UK,45.6,380
+Energy Drink Z 73,89.2,9.88,France,2.0,1596
+Energy Drink I 56,279.4,9.01,UK,38.6,964
+Energy Drink K 67,56.9,8.76,UK,9.1,568
+Energy Drink M 38,176.7,6.14,Canada,44.5,2068
+Energy Drink D 13,67.9,8.35,USA,0.8,70
+Energy Drink G 31,123.4,6.69,France,25.1,3312
+Energy Drink S 53,64.6,5.76,Japan,39.2,3280
+Energy Drink K 21,141.1,7.67,USA,46.1,1937
+Energy Drink I 11,222.7,4.27,France,16.9,3889
+Energy Drink C 4,174.1,2.92,Japan,39.6,3127
+Energy Drink I 4,71.5,3.08,USA,43.1,3930
+Energy Drink B 72,165.1,3.91,Germany,13.1,1255
+Energy Drink C 80,193.7,6.82,UK,22.7,1827
+Energy Drink O 72,271.8,2.92,South Korea,38.6,605
+Energy Drink D 8,243.9,6.61,France,37.2,1244
+Energy Drink H 38,221.9,8.49,USA,27.2,1007
+Energy Drink Y 4,132.8,4.57,Germany,6.1,1824
+Energy Drink Q 65,90.6,9.63,South Korea,15.0,3265
+Energy Drink C 92,215.9,9.19,South Korea,42.3,2608
+Energy Drink J 54,253.7,1.78,Canada,47.9,2694
+Energy Drink C 56,204.2,5.0,Japan,21.8,2095
+Energy Drink G 58,278.6,7.46,France,8.6,1192
+Energy Drink N 24,221.0,4.18,Canada,33.4,3501
+Energy Drink F 52,187.3,4.67,UK,47.0,2867
+Energy Drink A 34,252.8,6.72,Germany,43.7,249
+Energy Drink J 17,194.1,2.16,Japan,39.3,2758
+Energy Drink K 54,86.3,6.87,France,42.5,2020
+Energy Drink V 5,278.4,4.07,France,19.5,3554
+Energy Drink Q 43,117.2,8.35,Germany,41.1,1878
+Energy Drink Y 97,192.4,6.89,Canada,4.7,277
+Energy Drink G 6,199.1,8.79,France,46.2,1656
+Energy Drink Z 73,206.9,8.75,South Korea,32.9,500
+Energy Drink A 21,137.1,4.18,UK,15.0,1465
+Energy Drink F 79,57.8,8.98,France,21.6,1724
+Energy Drink E 52,249.9,2.42,Germany,24.0,2756
+Energy Drink U 10,65.8,2.86,France,35.3,3021
+Energy Drink B 73,151.0,8.08,UK,16.8,1364
+Energy Drink G 76,59.6,6.54,Canada,11.0,284
+Energy Drink P 94,83.8,3.35,Germany,27.0,3838
+Energy Drink C 30,190.7,1.17,USA,1.2,1951
+Energy Drink O 93,144.7,3.93,South Korea,17.8,1134
+Energy Drink L 98,188.3,6.25,South Korea,24.1,2088
+Energy Drink F 11,210.5,6.27,Canada,12.3,2239
+Energy Drink D 31,141.0,7.45,South Korea,11.1,3721
+Energy Drink C 29,178.1,2.09,UK,27.5,183
+Energy Drink L 21,173.0,8.72,South Korea,23.1,676
+Energy Drink R 25,55.2,7.42,Germany,6.7,188
+Energy Drink U 2,120.2,3.56,Germany,30.8,3513
+Energy Drink N 12,270.6,2.22,Japan,14.1,27
+Energy Drink I 24,144.0,4.18,South Korea,49.8,3710
+Energy Drink P 51,97.1,6.76,UK,43.4,1511
+Energy Drink B 68,283.9,6.76,France,29.6,65
+Energy Drink Y 98,170.3,5.31,Japan,3.0,1634
+Energy Drink W 1,131.5,1.65,Japan,17.9,2878
+Energy Drink C 36,131.7,9.66,UK,43.3,3507
+Energy Drink H 22,161.9,7.6,South Korea,13.9,1505
+Energy Drink L 82,62.7,5.71,Canada,5.7,2636
+Energy Drink S 60,99.5,2.42,France,49.0,2231
+Energy Drink S 45,265.5,4.08,Canada,21.6,1814
+Energy Drink A 45,290.5,9.1,France,32.7,1829
+Energy Drink Z 94,67.2,7.59,Germany,13.5,2838
+Energy Drink I 24,214.2,5.56,Canada,12.5,366
+Energy Drink F 51,158.2,2.09,South Korea,24.0,2988
+Energy Drink C 38,83.9,5.58,Germany,15.2,3517
+Energy Drink S 25,268.0,3.44,France,48.4,3535
+Energy Drink K 88,163.0,7.01,Canada,49.4,3690
+Energy Drink F 37,140.3,9.32,South Korea,43.0,2492
+Energy Drink L 21,190.5,3.55,South Korea,36.4,2390
+Energy Drink J 25,67.3,4.46,Canada,0.0,3597
+Energy Drink P 83,50.7,9.55,South Korea,9.4,3173
+Energy Drink Z 39,283.3,4.57,Canada,14.0,308
+Energy Drink X 99,57.4,7.45,UK,13.9,882
+Energy Drink A 84,170.5,1.95,France,45.8,1204
+Energy Drink N 56,271.1,1.23,UK,42.8,2795
+Energy Drink Z 32,192.5,7.25,South Korea,37.7,460
+Energy Drink S 73,272.4,3.36,USA,34.2,2903
+Energy Drink H 29,245.3,6.22,France,10.2,2654
+Energy Drink R 44,212.6,2.14,Japan,41.7,2689
+Energy Drink Z 5,81.6,2.6,France,35.7,1792
+Energy Drink E 7,133.4,9.0,South Korea,11.3,2376
+Energy Drink N 66,209.3,8.97,Canada,37.8,2535
+Energy Drink B 73,291.4,3.47,Japan,35.1,1760
+Energy Drink S 71,171.3,2.65,South Korea,15.5,2594
+Energy Drink Q 42,236.9,3.4,France,49.0,2158
+Energy Drink X 50,57.2,3.42,Germany,20.9,3254
+Energy Drink O 44,117.5,2.63,South Korea,26.1,3701
+Energy Drink R 8,92.3,3.18,USA,45.4,2471
+Energy Drink G 88,280.1,2.47,Canada,36.4,2263
+Energy Drink X 21,216.9,2.2,Germany,17.8,3702
+Energy Drink G 100,145.7,7.99,Japan,38.4,3968
+Energy Drink A 36,114.7,1.9,UK,20.9,988
+Energy Drink U 32,75.8,1.42,Canada,9.8,2381
+Energy Drink P 79,217.7,5.78,South Korea,0.1,3456
+Energy Drink R 48,174.0,4.3,Japan,5.2,3510
+Energy Drink N 36,168.2,8.35,USA,30.4,3869
+Energy Drink H 1,98.6,10.0,Germany,25.5,2864
+Energy Drink G 79,149.4,9.24,UK,2.9,510
+Energy Drink M 60,97.5,7.88,UK,8.7,17
+Energy Drink D 80,269.8,1.39,UK,31.6,995
+Energy Drink Y 54,139.1,9.88,Canada,35.5,512
+Energy Drink J 38,138.7,3.59,Canada,31.5,2385
+Energy Drink Y 5,210.4,9.11,France,45.9,1430
+Energy Drink F 68,150.4,2.36,USA,28.2,2126
+Energy Drink E 30,96.5,4.22,Canada,4.0,1214
+Energy Drink C 44,120.8,1.48,France,2.0,1435
+Energy Drink L 95,264.4,7.55,South Korea,24.6,584
+Energy Drink Q 50,175.0,4.07,UK,8.2,426
+Energy Drink Y 86,63.5,5.27,Canada,35.5,2763
+Energy Drink R 60,237.2,7.75,Canada,25.8,2582
+Energy Drink F 21,299.9,4.64,Japan,5.6,161
+Energy Drink N 28,120.4,8.15,UK,14.4,2518
+Energy Drink O 89,247.7,3.09,USA,46.1,2134
+Energy Drink P 35,101.0,5.51,USA,18.2,198
+Energy Drink X 24,175.6,6.7,USA,44.0,3072
+Energy Drink G 13,214.4,7.53,France,34.7,194
+Energy Drink W 76,206.3,8.63,USA,31.7,1848
+Energy Drink W 36,239.1,1.37,South Korea,28.9,3703
+Energy Drink C 9,211.0,1.4,Japan,18.9,3002
+Energy Drink Q 53,256.3,1.01,USA,48.2,1412
+Energy Drink V 16,209.1,3.76,South Korea,2.9,1899
+Energy Drink R 47,122.8,8.02,South Korea,27.4,3515
+Energy Drink B 90,190.8,3.37,South Korea,33.6,429
+Energy Drink H 74,122.3,8.66,France,35.4,949
+Energy Drink A 55,190.9,5.94,USA,27.9,2774
+Energy Drink M 36,204.1,1.65,South Korea,40.7,3401
+Energy Drink I 74,201.6,1.85,USA,49.7,2162
+Energy Drink C 15,143.9,4.44,Japan,5.5,1921
+Energy Drink C 15,277.9,2.0,Canada,14.4,2938
+Energy Drink J 79,130.0,6.06,UK,24.3,3680
+Energy Drink C 78,139.9,8.76,South Korea,6.3,1888
+Energy Drink I 68,118.5,4.52,UK,11.0,1047
+Energy Drink A 64,177.3,6.92,Japan,20.5,1233
+Energy Drink R 58,191.6,3.53,Japan,18.6,1598
+Energy Drink D 95,240.5,2.32,France,12.3,2873
+Energy Drink C 42,62.2,9.65,Japan,39.0,1972
+Energy Drink N 22,246.0,4.87,UK,36.1,2355
+Energy Drink L 27,97.4,8.97,Germany,8.1,3217
+Energy Drink S 91,192.3,5.85,USA,16.9,2733
+Energy Drink O 20,234.3,1.48,South Korea,28.4,2258
+Energy Drink G 18,206.0,5.18,South Korea,37.3,3885
+Energy Drink R 25,83.6,4.1,UK,9.9,153
+Energy Drink Y 39,200.9,9.97,Japan,48.1,1580
+Energy Drink B 56,183.6,2.88,South Korea,25.0,3890
+Energy Drink Z 7,142.9,1.52,Japan,39.1,3364
+Energy Drink J 28,271.2,7.69,Germany,14.0,799
+Energy Drink X 63,240.0,2.42,Canada,27.9,3926
+Energy Drink H 70,98.7,5.46,France,21.4,3147
+Energy Drink A 55,81.8,9.91,UK,17.4,3260
+Energy Drink R 100,271.7,5.1,USA,37.1,170
+Energy Drink N 36,276.7,1.76,UK,7.1,1934
+Energy Drink Y 64,97.5,1.3,Germany,2.0,1820
+Energy Drink R 57,272.7,6.24,UK,7.5,1778
+Energy Drink C 97,148.1,8.78,South Korea,25.6,1780
+Energy Drink X 91,205.0,1.47,USA,45.4,3211
+Energy Drink B 14,116.2,4.77,France,40.8,2445
+Energy Drink J 21,132.1,2.0,Japan,22.1,1774
+Energy Drink O 65,149.8,7.23,USA,14.9,888
+Energy Drink E 60,184.6,4.85,Canada,49.0,1512
+Energy Drink H 64,265.3,5.82,South Korea,18.9,448
+Energy Drink R 15,94.7,8.14,France,13.8,646
+Energy Drink W 63,279.9,6.74,France,14.0,2880
+Energy Drink F 54,158.1,7.89,France,5.1,3837
+Energy Drink H 47,171.0,9.55,France,9.8,835
+Energy Drink E 49,106.0,4.56,USA,38.8,332
+Energy Drink U 28,71.5,2.41,UK,14.0,3076
+Energy Drink W 93,249.4,4.2,France,41.7,1864
+Energy Drink U 43,63.8,1.71,South Korea,28.7,903
+Energy Drink G 9,78.1,8.74,France,22.9,2031
+Energy Drink L 98,100.6,2.65,Japan,11.3,2991
+Energy Drink W 66,251.7,9.76,UK,37.6,3166
+Energy Drink J 94,120.2,6.82,USA,40.8,1271
+Energy Drink T 89,82.4,5.93,UK,21.1,1025
+Energy Drink H 36,281.8,1.93,USA,14.3,3051
+Energy Drink X 77,167.6,5.54,USA,23.4,1355
+Energy Drink N 31,58.8,5.93,Germany,2.0,978
+Energy Drink S 85,130.5,3.55,Japan,39.5,1004
+Energy Drink I 9,55.2,1.87,Germany,41.7,2119
+Energy Drink U 79,187.6,7.67,France,24.1,1085
+Energy Drink A 5,57.2,7.07,France,0.8,3711
+Energy Drink U 45,193.9,6.08,Japan,17.7,2544
+Energy Drink V 15,131.8,9.88,Japan,1.7,2485
+Energy Drink W 49,135.3,6.06,South Korea,44.6,139
+Energy Drink P 88,183.3,9.3,USA,43.2,1312
+Energy Drink C 27,286.5,8.6,Germany,18.6,252
+Energy Drink A 85,280.0,9.97,Germany,15.8,3144
+Energy Drink B 31,173.0,2.73,Germany,46.7,3181
+Energy Drink M 61,263.9,9.2,USA,40.7,3909
+Energy Drink Y 65,272.7,9.83,UK,45.6,3574
+Energy Drink U 72,99.9,6.83,USA,1.1,984
+Energy Drink A 27,283.9,2.34,USA,0.3,3279
+Energy Drink B 44,247.4,6.55,Germany,37.9,3205
+Energy Drink X 46,192.5,2.69,Japan,34.5,2060
+Energy Drink V 100,205.1,3.1,UK,18.5,2558
+Energy Drink R 99,296.1,9.06,France,0.1,1621
+Energy Drink Y 76,182.2,4.62,USA,23.6,1120
+Energy Drink G 57,293.6,9.39,Germany,24.8,387
+Energy Drink D 12,69.6,4.4,USA,44.4,2703
+Energy Drink W 22,245.8,9.01,Germany,9.4,174
+Energy Drink N 87,122.2,3.22,Germany,8.7,2238
+Energy Drink B 22,95.4,7.34,France,36.8,3713
+Energy Drink Z 69,118.1,3.68,UK,28.7,3877
+Energy Drink F 82,263.4,3.0,USA,11.7,1494
+Energy Drink R 70,155.6,5.98,South Korea,19.1,601
+Energy Drink I 94,224.6,2.98,USA,17.7,1472
+Energy Drink G 7,215.5,6.72,Japan,42.3,2170
+Energy Drink N 37,161.7,1.39,USA,27.4,3253
+Energy Drink B 9,179.4,7.28,UK,27.6,2220
+Energy Drink T 2,229.8,8.84,Japan,29.6,2680
+Energy Drink Q 62,235.1,7.9,France,4.8,3466
+Energy Drink N 85,242.9,1.53,Germany,46.0,1040
+Energy Drink U 95,223.6,1.32,France,39.2,344
+Energy Drink I 33,190.8,2.45,France,29.8,1350
+Energy Drink Q 52,246.1,9.22,Germany,2.8,2736
+Energy Drink E 20,210.4,7.78,South Korea,49.5,470
+Energy Drink W 80,214.4,4.6,Canada,23.5,436
+Energy Drink E 50,296.7,1.56,Germany,48.0,3017
+Energy Drink G 38,265.8,7.09,Germany,25.7,1175
+Energy Drink O 74,96.6,4.85,France,24.2,2986
+Energy Drink F 26,189.1,8.68,Germany,37.4,1700
+Energy Drink B 78,210.8,4.89,Japan,11.5,3315
+Energy Drink Y 5,197.9,8.72,UK,1.9,3992
+Energy Drink Y 39,144.0,9.39,France,1.0,1104
+Energy Drink S 63,169.7,1.97,USA,30.7,977
+Energy Drink B 7,76.6,2.21,USA,16.5,2496
+Energy Drink M 86,289.5,6.94,South Korea,28.3,841
+Energy Drink B 58,139.3,3.91,UK,40.3,3775
+Energy Drink A 81,156.6,6.34,France,24.1,2765
+Energy Drink N 73,89.4,5.75,South Korea,39.9,1543
+Energy Drink N 79,87.8,3.56,South Korea,45.7,3126
+Energy Drink B 76,73.5,8.05,South Korea,31.7,2451
+Energy Drink E 72,77.1,4.55,France,0.6,1856
+Energy Drink S 4,239.6,2.06,South Korea,25.6,1481
+Energy Drink L 27,213.6,3.5,UK,22.6,1978
+Energy Drink B 67,153.2,8.0,Germany,11.3,2029
+Energy Drink M 93,82.1,3.15,France,20.5,2588
+Energy Drink A 21,247.2,7.81,Japan,3.0,113
+Energy Drink N 35,122.7,5.78,Germany,16.2,2079
+Energy Drink D 71,56.7,3.54,Germany,27.2,2525
+Energy Drink P 89,294.7,4.97,South Korea,39.6,3987
+Energy Drink P 63,68.8,6.71,USA,2.8,2567
+Energy Drink Y 30,60.8,2.3,Canada,33.3,529
+Energy Drink B 76,286.2,1.44,Japan,21.8,227
+Energy Drink F 98,194.9,5.05,France,30.7,1272
+Energy Drink Y 88,248.1,5.97,USA,44.0,3625
+Energy Drink M 66,207.6,4.31,Japan,24.5,3422
+Energy Drink G 48,268.5,9.98,UK,19.8,673
+Energy Drink V 71,238.8,7.01,Germany,14.8,1818
+Energy Drink K 53,267.6,4.35,South Korea,23.3,1583
+Energy Drink X 43,209.2,2.05,Japan,48.2,1946
+Energy Drink A 26,214.7,1.99,South Korea,12.0,3860
+Energy Drink W 51,227.2,6.21,USA,41.7,1947
+Energy Drink C 99,113.3,1.19,South Korea,45.0,672
+Energy Drink K 59,54.3,2.8,Canada,17.1,972
+Energy Drink G 23,236.4,1.79,South Korea,45.2,3695
+Energy Drink F 30,271.3,6.43,Japan,47.3,1507
+Energy Drink R 4,282.6,4.57,USA,32.7,2553
+Energy Drink V 98,188.7,9.52,USA,25.6,3744
+Energy Drink S 43,104.2,7.79,Germany,20.6,1217
+Energy Drink J 18,61.3,5.23,France,35.1,931
+Energy Drink S 72,257.5,9.54,Canada,42.6,2448
+Energy Drink M 59,55.3,4.35,France,46.2,1697
+Energy Drink Y 89,97.4,4.56,South Korea,9.5,1043
+Energy Drink U 4,150.5,7.2,Canada,40.6,517
+Energy Drink E 15,200.3,1.32,USA,40.5,1603
+Energy Drink P 88,297.9,4.8,USA,14.5,955
+Energy Drink N 47,196.9,2.69,UK,13.5,535
+Energy Drink N 36,190.0,9.15,France,0.6,2962
+Energy Drink U 49,291.1,1.61,France,16.9,2064
+Energy Drink J 76,257.1,1.88,USA,44.4,2447
+Energy Drink O 24,93.8,1.49,UK,38.3,2656
+Energy Drink C 92,61.5,7.69,Japan,38.9,2347
+Energy Drink E 30,156.3,4.61,Germany,12.3,3329
+Energy Drink C 56,257.0,3.36,Germany,39.2,686
+Energy Drink H 11,289.0,7.52,UK,11.6,876
+Energy Drink N 98,268.2,1.89,Germany,28.6,746
+Energy Drink O 20,126.1,8.61,South Korea,41.6,1866
+Energy Drink G 51,236.5,2.82,UK,39.4,3029
+Energy Drink D 1,251.1,5.91,South Korea,41.6,3442
+Energy Drink L 61,263.3,8.94,France,38.6,3197
+Energy Drink D 68,275.4,7.3,South Korea,24.4,1407
+Energy Drink Z 19,252.7,9.72,USA,47.5,215
+Energy Drink R 59,106.3,7.02,Germany,26.1,788
+Energy Drink X 84,159.2,6.07,UK,21.8,2537
+Energy Drink M 64,218.3,7.35,Japan,7.5,1628
+Energy Drink D 8,263.1,7.05,USA,29.0,62
+Energy Drink O 18,210.8,6.04,Canada,38.3,3086
+Energy Drink O 90,60.2,9.42,Canada,35.9,1945
+Energy Drink Z 23,238.2,3.42,Canada,27.6,3765
+Energy Drink M 92,97.8,2.29,South Korea,5.5,2430
+Energy Drink M 58,154.5,8.63,France,30.1,1216
+Energy Drink P 84,254.0,8.62,USA,0.5,1907
+Energy Drink O 3,61.7,3.8,South Korea,39.0,1908
+Energy Drink O 46,299.7,5.01,Japan,22.7,3448
+Energy Drink I 22,108.7,8.83,Germany,22.9,3928
+Energy Drink D 75,219.1,4.08,France,17.3,2141
+Energy Drink Z 6,238.7,4.04,USA,16.7,1609
+Energy Drink H 27,89.5,4.38,Japan,37.4,1132
+Energy Drink D 13,295.3,6.48,Japan,6.8,3847
+Energy Drink T 97,180.8,8.56,Canada,19.6,1342
+Energy Drink A 67,261.0,5.17,UK,21.0,524
+Energy Drink D 25,110.8,8.41,South Korea,32.6,156
+Energy Drink I 85,111.3,5.06,France,48.0,1650
+Energy Drink K 1,83.9,3.29,Germany,16.8,711
+Energy Drink J 7,170.9,8.36,Japan,19.3,3674
+Energy Drink Q 93,266.5,8.57,UK,35.6,533
+Energy Drink H 83,274.8,6.3,Germany,27.0,447
+Energy Drink A 31,147.5,2.31,Canada,12.5,1645
+Energy Drink L 66,268.8,4.25,France,1.9,412
+Energy Drink E 88,100.9,2.24,UK,24.5,2403
+Energy Drink U 66,254.8,8.93,USA,16.9,2290
+Energy Drink S 27,287.9,1.13,South Korea,0.9,3934
+Energy Drink K 48,224.2,9.27,Germany,35.7,445
+Energy Drink A 5,82.4,7.01,UK,20.5,1429
+Energy Drink O 65,161.1,5.24,UK,11.7,1400
+Energy Drink O 28,70.4,9.41,Japan,8.2,3151
+Energy Drink Z 85,157.2,6.26,USA,25.6,140
+Energy Drink E 42,241.0,7.84,Japan,17.3,999
+Energy Drink H 96,94.8,2.58,UK,13.9,1798
+Energy Drink T 57,138.2,4.63,Germany,34.7,1163
+Energy Drink N 86,85.8,4.24,Japan,46.6,1977
+Energy Drink H 98,223.4,2.73,UK,19.2,658
+Energy Drink L 78,132.2,9.63,Germany,36.9,623
+Energy Drink C 38,190.4,7.28,USA,40.3,2592
+Energy Drink Y 91,122.5,1.1,France,21.2,1837
+Energy Drink A 71,273.7,3.2,USA,12.3,1781
+Energy Drink N 33,125.4,2.03,Japan,9.9,3106
+Energy Drink B 55,292.6,3.42,UK,37.2,1624
+Energy Drink G 80,222.2,1.88,Japan,41.7,117
+Energy Drink U 59,299.8,3.52,South Korea,25.2,1126
+Energy Drink C 41,80.4,8.77,Germany,23.5,1369
+Energy Drink N 18,88.9,8.12,UK,30.8,3289
+Energy Drink G 83,217.1,3.08,France,47.8,3512
+Energy Drink Q 79,173.5,8.05,UK,25.2,3758
+Energy Drink A 92,237.2,2.82,UK,5.9,225
+Energy Drink E 59,291.2,8.59,USA,6.5,2766
+Energy Drink K 47,118.1,8.95,France,3.7,1193
+Energy Drink U 38,282.4,6.81,UK,4.3,704
+Energy Drink L 42,91.6,1.24,France,41.7,2218
+Energy Drink D 55,136.9,8.82,France,24.6,2910
+Energy Drink S 55,182.5,4.2,USA,0.5,1566
+Energy Drink V 52,158.2,6.78,Germany,32.4,823
+Energy Drink D 43,260.4,2.41,South Korea,46.5,1821
+Energy Drink W 57,66.4,8.34,USA,44.2,659
+Energy Drink G 97,69.9,6.45,UK,33.6,1267
+Energy Drink T 16,90.3,2.19,South Korea,13.4,3768
+Energy Drink Y 34,193.7,6.62,Canada,6.8,1384
+Energy Drink W 76,276.7,2.29,Germany,44.3,1174
+Energy Drink M 36,90.4,4.73,Japan,18.7,2526
+Energy Drink I 40,271.6,5.98,Japan,39.2,2797
+Energy Drink U 67,213.6,5.62,Canada,9.6,656
+Energy Drink Q 2,70.4,5.94,Germany,26.8,874
+Energy Drink I 40,282.7,6.45,UK,42.3,1071
+Energy Drink F 34,110.7,2.94,South Korea,7.9,933
+Energy Drink O 49,95.1,1.18,Japan,25.9,2478
+Energy Drink J 98,81.6,3.53,Canada,15.1,2224
+Energy Drink W 12,85.9,6.96,Canada,39.4,1506
+Energy Drink Q 71,181.8,2.99,Canada,39.0,3948
+Energy Drink M 77,210.6,9.49,USA,41.9,3892
+Energy Drink M 84,137.2,9.29,Japan,8.7,3436
+Energy Drink M 32,287.0,1.53,USA,40.0,2346
+Energy Drink K 17,288.6,2.12,Canada,8.6,1278
+Energy Drink H 97,221.6,4.6,USA,18.0,875
+Energy Drink G 72,261.4,3.79,UK,34.1,689
+Energy Drink O 17,234.4,7.24,Germany,41.7,2532
+Energy Drink W 19,233.9,4.56,France,35.4,2155
+Energy Drink D 29,90.4,9.19,France,28.3,1935
+Energy Drink L 9,199.3,9.59,USA,17.0,1979
+Energy Drink A 38,217.2,1.62,Japan,25.6,1740
+Energy Drink K 43,290.2,9.14,Japan,4.5,2638
+Energy Drink S 72,115.7,9.7,Germany,46.5,3168
+Energy Drink C 27,187.1,5.78,USA,10.5,2289
+Energy Drink V 25,200.9,2.72,Japan,37.2,2884
+Energy Drink O 39,97.0,9.34,Germany,0.0,1389
+Energy Drink T 31,243.7,4.8,USA,29.2,224
+Energy Drink C 50,135.4,1.48,Germany,29.0,2406
+Energy Drink M 63,200.2,2.13,France,28.5,2179
+Energy Drink G 2,213.9,5.79,Japan,2.1,1736
+Energy Drink O 34,237.4,7.74,UK,33.3,3969
+Energy Drink S 24,144.8,6.74,South Korea,33.8,1871
+Energy Drink A 3,254.4,6.4,South Korea,9.8,3258
+Energy Drink H 46,62.1,1.79,Japan,41.3,1390
+Energy Drink G 13,237.8,9.53,Japan,35.3,3444
+Energy Drink H 93,218.2,6.66,France,36.0,2063
+Energy Drink Y 99,270.7,4.44,UK,38.7,1453
+Energy Drink W 41,59.1,4.97,Japan,13.8,2575
+Energy Drink K 82,155.8,6.07,Germany,36.4,1775
+Energy Drink N 82,118.0,9.41,UK,40.4,618
+Energy Drink Z 91,153.6,8.57,Japan,33.2,3112
+Energy Drink K 90,290.8,2.68,South Korea,21.0,1051
+Energy Drink M 77,170.5,6.08,South Korea,33.1,171
+Energy Drink T 60,121.3,6.61,UK,24.5,190
+Energy Drink S 80,54.5,3.47,USA,28.2,3348
+Energy Drink M 18,233.4,6.02,Canada,7.5,678
+Energy Drink D 15,222.6,4.5,South Korea,41.6,3455
+Energy Drink I 17,67.3,3.49,Canada,9.3,3186
+Energy Drink O 69,134.0,9.41,UK,0.2,863
+Energy Drink F 57,260.8,5.6,France,13.5,1304
+Energy Drink N 13,274.2,7.9,Germany,28.6,3206
+Energy Drink J 71,127.5,1.76,Canada,32.8,3840
+Energy Drink P 43,56.6,9.7,Germany,42.5,2666
+Energy Drink I 87,283.8,2.96,South Korea,28.2,2465
+Energy Drink V 76,125.1,5.15,Japan,22.7,3145
+Energy Drink Q 31,284.1,8.79,Germany,27.4,2815
+Energy Drink Y 69,83.5,8.21,South Korea,3.7,1317
+Energy Drink E 34,195.4,7.39,USA,25.8,3251
+Energy Drink W 74,292.3,4.85,Canada,4.3,2897
+Energy Drink B 100,146.6,9.96,Japan,4.1,297
+Energy Drink N 82,149.1,4.33,Canada,46.7,3533
+Energy Drink C 31,213.8,3.0,USA,4.8,1112
+Energy Drink P 30,62.7,8.46,Canada,37.8,3649
+Energy Drink E 29,162.5,2.11,France,2.2,1721
+Energy Drink P 5,243.4,6.19,Canada,44.2,2127
+Energy Drink J 70,148.7,1.85,Canada,22.5,3478
+Energy Drink N 53,222.4,3.8,Germany,16.7,518
+Energy Drink I 67,291.4,3.95,USA,26.5,2729
+Energy Drink A 79,66.2,3.84,Germany,20.3,1499
+Energy Drink A 34,169.4,9.43,USA,46.8,363
+Energy Drink O 6,138.0,5.63,South Korea,24.7,1422
+Energy Drink O 8,217.8,7.44,UK,41.2,2054
+Energy Drink E 50,145.9,2.79,Japan,14.1,3960
+Energy Drink X 61,216.8,9.97,Japan,25.2,1508
+Energy Drink B 96,50.3,4.8,South Korea,36.4,2958
+Energy Drink U 21,233.0,5.92,Germany,33.1,75
+Energy Drink S 24,195.7,1.06,Germany,35.6,173
+Energy Drink W 8,240.0,4.89,UK,29.0,2556
+Energy Drink W 6,215.7,6.95,South Korea,49.8,3457
+Energy Drink M 82,83.9,9.16,Canada,6.2,3520
+Energy Drink J 78,117.7,8.91,South Korea,7.6,392
+Energy Drink K 86,244.3,2.1,Canada,37.9,3657
+Energy Drink O 32,146.2,2.4,UK,39.0,1045
+Energy Drink T 38,68.4,5.29,Canada,47.1,165
+Energy Drink R 2,263.8,3.5,France,29.3,2096
+Energy Drink C 34,68.2,8.08,Canada,27.4,43
+Energy Drink B 47,66.0,6.69,Canada,19.5,1076
+Energy Drink R 31,233.8,5.6,UK,4.7,3053
+Energy Drink A 18,97.6,2.41,USA,24.8,2742
+Energy Drink P 37,110.4,7.62,USA,3.1,1644
+Energy Drink D 59,75.8,1.13,UK,27.6,1519
+Energy Drink Q 7,52.3,1.11,Japan,47.4,2764
+Energy Drink R 64,85.9,3.15,France,16.3,818
+Energy Drink L 79,136.4,8.37,UK,11.5,1030
+Energy Drink T 89,265.4,3.91,South Korea,35.2,729
+Energy Drink Q 41,256.8,5.45,Canada,9.5,452
+Energy Drink G 32,204.4,8.45,Japan,9.9,3806
+Energy Drink T 27,219.3,8.15,France,49.9,954
+Energy Drink I 24,90.6,5.12,Germany,23.3,3094
+Energy Drink I 82,190.2,8.34,Germany,47.2,733
+Energy Drink B 68,176.1,7.46,Japan,9.5,3498
+Energy Drink C 51,103.5,4.9,South Korea,14.9,906
+Energy Drink L 55,229.2,5.58,UK,49.5,2920
+Energy Drink Y 94,53.5,2.38,Canada,31.3,54
+Energy Drink K 74,63.4,7.35,Japan,43.0,2662
+Energy Drink Q 7,205.6,5.49,Japan,8.0,1127
+Energy Drink V 19,176.2,6.47,USA,49.8,229
+Energy Drink C 81,97.7,5.44,South Korea,18.5,900
+Energy Drink U 87,108.4,9.21,South Korea,20.6,2358
+Energy Drink T 14,169.6,5.43,France,40.2,2053
+Energy Drink B 98,203.6,7.91,Germany,29.2,1573
+Energy Drink V 95,295.3,6.93,France,40.0,3584
+Energy Drink Q 17,118.1,2.46,Japan,48.7,2466
+Energy Drink D 12,105.8,6.5,Canada,47.8,2771
+Energy Drink W 29,193.8,3.13,Germany,33.9,1905
+Energy Drink X 59,297.0,6.62,Canada,3.8,2305
+Energy Drink P 74,156.1,6.12,Canada,16.1,3774
+Energy Drink U 87,130.1,1.43,South Korea,34.6,1274
+Energy Drink L 70,147.7,3.89,Germany,19.0,2791
+Energy Drink P 24,83.0,9.43,Japan,16.8,1276
+Energy Drink A 50,256.7,3.76,France,3.8,2941
+Energy Drink B 43,277.0,5.44,UK,35.6,3514
+Energy Drink L 93,196.9,9.5,Japan,20.4,3407
+Energy Drink E 60,269.9,1.57,Germany,45.8,1832
+Energy Drink L 7,72.1,8.55,France,29.5,1209
+Energy Drink K 63,160.5,7.35,Canada,14.0,2832
+Energy Drink P 10,90.6,9.07,UK,1.0,2203
+Energy Drink E 32,169.5,2.54,South Korea,2.6,2409
+Energy Drink U 83,62.4,2.07,USA,20.9,2481
+Energy Drink T 17,128.7,6.92,USA,12.3,3606
+Energy Drink M 84,96.7,9.78,Canada,35.8,1052
+Energy Drink V 98,189.8,7.36,Japan,45.1,3943
+Energy Drink N 5,228.7,2.66,Japan,26.6,793
+Energy Drink M 53,54.2,3.37,USA,32.9,3480
+Energy Drink P 2,172.8,5.0,Canada,10.0,100
+Energy Drink K 67,158.5,2.38,South Korea,46.1,330
+Energy Drink S 27,224.3,3.69,USA,19.1,2978
+Energy Drink C 42,188.9,6.61,Germany,30.5,2614
+Energy Drink A 17,235.9,7.2,Canada,14.0,2784
+Energy Drink J 85,87.9,2.62,South Korea,34.3,3347
+Energy Drink G 93,51.8,8.88,Japan,7.6,1295
+Energy Drink V 47,276.2,9.51,Japan,48.8,186
+Energy Drink Z 54,180.6,7.26,Germany,44.5,1115
+Energy Drink S 46,80.3,5.03,UK,27.1,1222
+Energy Drink I 17,76.6,3.17,Japan,0.6,2462
+Energy Drink I 21,278.1,8.91,Germany,42.6,2160
+Energy Drink L 84,50.7,6.09,Japan,25.5,3940
+Energy Drink S 98,100.3,1.22,Japan,45.7,3555
+Energy Drink D 10,53.9,9.07,Canada,11.2,1469
+Energy Drink B 23,215.7,7.95,UK,14.9,3757
+Energy Drink M 18,52.0,6.28,Canada,0.7,3158
+Energy Drink B 77,101.8,8.86,France,49.0,379
+Energy Drink Q 81,128.4,6.78,Japan,11.7,1883
+Energy Drink U 64,206.5,2.9,France,7.3,582
+Energy Drink C 87,81.7,3.44,UK,25.6,393
+Energy Drink X 61,254.2,6.0,Japan,42.4,3773
+Energy Drink K 52,139.1,8.83,USA,42.1,3198
+Energy Drink W 77,59.1,3.58,Canada,45.1,3041
+Energy Drink O 40,214.7,7.0,UK,5.2,144
+Energy Drink T 46,188.5,5.32,Germany,16.7,1145
+Energy Drink D 57,117.1,4.4,South Korea,36.8,1797
+Energy Drink V 73,113.9,4.51,USA,41.6,3975
+Energy Drink S 24,113.0,1.68,USA,15.6,1373
+Energy Drink L 66,101.5,6.91,South Korea,35.6,321
+Energy Drink J 100,165.0,4.98,France,32.7,150
+Energy Drink B 11,163.4,6.02,Japan,43.2,2850
+Energy Drink S 11,92.4,8.42,Germany,20.3,2115
+Energy Drink T 22,95.2,4.72,Canada,45.1,3049
+Energy Drink F 11,133.3,3.15,France,31.0,1671
+Energy Drink E 75,129.1,4.56,Japan,44.6,1886
+Energy Drink R 24,117.9,3.3,South Korea,14.3,1759
+Energy Drink O 77,261.3,8.06,South Korea,31.1,599
+Energy Drink N 47,276.5,9.44,France,13.0,1261
+Energy Drink N 73,53.0,7.85,UK,13.9,2400
+Energy Drink M 76,259.2,8.08,USA,40.2,3013
+Energy Drink D 57,207.2,4.01,Germany,30.3,2326
+Energy Drink P 9,144.8,6.0,France,21.8,3107
+Energy Drink U 98,107.8,1.27,USA,5.7,3522
+Energy Drink B 21,298.1,9.8,France,46.2,2522
+Energy Drink M 34,83.7,2.52,France,4.4,397
+Energy Drink J 32,114.2,3.31,South Korea,33.1,492
+Energy Drink Q 39,82.0,8.7,France,35.7,3318
+Energy Drink W 88,85.2,6.8,France,30.2,3537
+Energy Drink H 92,281.5,6.94,South Korea,3.1,3564
+Energy Drink R 47,272.9,8.36,South Korea,21.3,484
+Energy Drink M 67,220.7,8.94,South Korea,22.6,3902
+Energy Drink P 50,77.2,3.65,Japan,34.5,132
+Energy Drink B 20,148.3,8.74,Japan,20.7,2014
+Energy Drink D 74,97.1,1.49,USA,13.0,2743
+Energy Drink F 20,158.6,6.31,Canada,41.6,3142
+Energy Drink F 18,162.4,2.53,USA,2.9,1554
+Energy Drink Y 61,58.4,2.41,France,39.2,1282
+Energy Drink D 61,293.5,1.75,Germany,3.2,3297
+Energy Drink U 47,218.1,9.21,Japan,15.4,1340
+Energy Drink T 4,72.3,4.77,UK,9.8,242
+Energy Drink F 45,154.4,8.93,Canada,40.8,3849
+Energy Drink U 54,67.3,1.69,Germany,3.5,1773
+Energy Drink W 23,291.4,4.03,France,37.6,258
+Energy Drink L 38,115.0,6.36,UK,0.3,1981
+Energy Drink K 67,126.6,1.89,Germany,34.5,1925
+Energy Drink S 83,174.5,9.04,South Korea,2.8,2904
+Energy Drink X 9,232.5,2.68,UK,40.8,1324
+Energy Drink W 8,169.0,6.43,UK,2.4,2225
+Energy Drink M 68,233.1,3.9,South Korea,24.5,181
+Energy Drink T 74,273.1,5.36,South Korea,10.0,2321
+Energy Drink X 62,117.4,2.81,South Korea,31.9,2379
+Energy Drink O 32,293.3,3.73,France,19.6,255
+Energy Drink R 10,123.0,8.31,USA,20.0,437
+Energy Drink W 29,61.1,9.72,UK,46.8,2641
+Energy Drink E 45,69.1,7.85,USA,7.0,2979
+Energy Drink W 16,200.2,1.28,France,47.2,679
+Energy Drink W 34,92.0,2.26,UK,39.1,2437
+Energy Drink W 66,227.4,3.47,South Korea,24.9,2149
+Energy Drink J 75,221.4,4.48,France,1.1,2734
+Energy Drink Q 78,251.2,4.91,Canada,44.5,3440
+Energy Drink K 37,227.7,5.39,UK,40.0,2353
+Energy Drink I 78,105.0,8.55,France,22.2,3109
+Energy Drink D 29,138.8,1.77,France,14.1,1165
+Energy Drink A 78,236.5,1.45,Canada,39.2,2380
+Energy Drink I 89,67.6,7.49,Germany,42.5,2463
+Energy Drink M 47,287.2,9.66,Japan,15.2,1243
+Energy Drink U 84,180.3,3.92,UK,19.7,761
+Energy Drink S 5,224.1,6.46,South Korea,29.6,1863
+Energy Drink I 64,86.4,7.7,Germany,26.1,2750
+Energy Drink C 84,267.8,9.73,Canada,38.3,3916
+Energy Drink B 42,178.0,8.31,Canada,8.0,2840
+Energy Drink Y 55,296.6,6.81,Canada,40.7,314
+Energy Drink O 65,53.4,4.27,USA,7.8,2879
+Energy Drink D 61,60.6,3.63,Japan,1.1,1983
+Energy Drink Z 23,63.6,4.92,France,33.4,3395
+Energy Drink T 61,153.5,3.7,Japan,17.6,1762
+Energy Drink J 79,212.3,7.23,UK,17.7,565
+Energy Drink D 29,60.7,8.52,Japan,22.6,1097
+Energy Drink G 21,254.5,1.64,USA,33.5,1343
+Energy Drink F 14,200.3,6.98,France,42.0,3389
+Energy Drink Z 80,213.9,5.28,Canada,20.9,1498
+Energy Drink U 88,145.6,8.29,Canada,8.6,3858
+Energy Drink K 27,208.6,6.36,Germany,13.1,2603
+Energy Drink B 59,94.0,2.06,Japan,34.0,1681
+Energy Drink K 13,181.5,1.19,UK,38.1,2655
+Energy Drink R 28,203.7,7.94,Germany,5.9,3170
+Energy Drink U 84,216.3,5.77,USA,31.2,303
+Energy Drink Z 45,216.4,6.98,Canada,34.5,192
+Energy Drink M 66,247.3,7.45,USA,31.3,1953
+Energy Drink N 1,123.0,5.83,Japan,26.8,2325
+Energy Drink M 55,243.9,1.26,UK,23.7,3505
+Energy Drink R 59,226.0,2.58,Japan,28.8,2621
+Energy Drink U 84,270.6,6.98,Germany,40.7,3129
+Energy Drink Y 23,158.9,5.27,USA,26.3,2793
+Energy Drink G 1,183.5,2.78,Germany,41.6,1545
+Energy Drink N 62,98.9,2.7,Canada,37.6,1891
+Energy Drink A 19,109.6,8.41,Japan,29.6,3870
+Energy Drink Q 75,55.2,1.67,South Korea,19.7,3748
+Energy Drink E 94,131.5,5.35,UK,39.8,3561
+Energy Drink V 7,64.7,7.9,South Korea,43.1,1310
+Energy Drink V 25,286.9,9.51,South Korea,25.5,239
+Energy Drink N 69,137.5,9.77,USA,33.2,3620
+Energy Drink U 65,203.2,6.91,France,38.0,3600
+Energy Drink F 30,229.0,1.4,Japan,17.8,2885
+Energy Drink A 10,236.0,3.95,Canada,39.1,3833
+Energy Drink D 33,241.7,8.93,USA,44.1,3276
+Energy Drink K 24,139.9,1.81,Japan,30.7,1336
+Energy Drink P 32,131.5,3.85,France,45.5,1733
+Energy Drink E 78,64.7,8.91,Germany,28.5,1447
+Energy Drink H 65,199.7,7.55,France,12.2,1365
+Energy Drink V 19,164.5,9.86,UK,35.8,2294
+Energy Drink A 91,194.4,3.07,Japan,27.7,589
+Energy Drink I 58,106.3,8.36,USA,17.6,1959
+Energy Drink N 40,234.7,8.28,France,1.0,2693
+Energy Drink C 6,80.9,8.76,France,40.0,2778
+Energy Drink P 52,113.7,7.55,USA,5.5,3228
+Energy Drink R 66,251.1,5.29,UK,24.3,2215
+Energy Drink D 40,62.4,1.23,Japan,16.7,2854
+Energy Drink I 81,94.7,5.39,UK,2.5,926
+Energy Drink X 46,61.5,8.61,Canada,42.8,832
+Energy Drink S 99,282.5,1.4,UK,32.6,408
+Energy Drink D 50,146.8,3.26,Canada,10.3,3179
+Energy Drink W 12,72.8,1.52,Canada,39.2,1490
+Energy Drink J 88,85.9,1.4,Canada,9.6,2284
+Energy Drink M 57,50.3,5.26,Canada,10.3,2040
+Energy Drink H 76,148.8,6.99,Germany,17.3,325
+Energy Drink V 35,81.4,5.66,France,0.2,1795
+Energy Drink G 15,200.3,2.87,South Korea,42.1,3568
+Energy Drink M 81,261.8,3.72,Canada,24.3,56
+Energy Drink K 5,218.0,2.68,USA,29.9,3647
+Energy Drink Q 24,59.0,6.85,France,25.1,1117
+Energy Drink R 67,84.3,5.84,Japan,14.9,1189
+Energy Drink V 64,248.8,1.24,Japan,48.1,22
+Energy Drink D 94,271.6,7.75,South Korea,46.4,3309
+Energy Drink G 45,183.0,9.05,Germany,20.8,2746
+Energy Drink K 47,248.1,5.06,Japan,23.0,1682
+Energy Drink G 44,199.2,4.69,Japan,17.7,3798
+Energy Drink F 46,253.5,2.87,Germany,34.9,2277
+Energy Drink B 48,209.1,2.49,Canada,23.0,3830
+Energy Drink W 39,178.6,9.44,Japan,14.1,2411
+Energy Drink Q 98,253.0,3.46,Japan,8.5,1619
+Energy Drink P 24,294.4,7.0,South Korea,45.0,3906
+Energy Drink Z 10,289.1,8.76,France,3.4,291
+Energy Drink D 73,232.3,2.21,Japan,38.3,1910
+Energy Drink H 14,182.2,7.46,Germany,13.8,2599
+Energy Drink H 55,54.0,5.26,USA,8.7,2148
+Energy Drink W 55,80.8,2.12,Germany,2.2,2265
+Energy Drink V 67,112.9,3.75,France,37.6,1308
+Energy Drink W 82,275.2,4.46,Canada,31.1,3920
+Energy Drink T 63,74.0,5.24,UK,47.1,3895
+Energy Drink O 61,153.8,4.25,South Korea,7.3,734
+Energy Drink W 10,160.0,7.12,South Korea,44.4,3686
+Energy Drink H 49,84.5,9.98,USA,7.1,3230
+Energy Drink U 87,274.7,8.06,UK,6.2,938
+Energy Drink T 52,142.7,7.51,Canada,34.7,1562
+Energy Drink J 83,185.0,5.55,UK,21.7,2945
+Energy Drink R 37,229.9,2.77,Canada,23.7,3246
+Energy Drink O 83,86.5,9.6,UK,47.8,825
+Energy Drink A 61,204.4,3.76,South Korea,40.4,1758
+Energy Drink P 1,114.4,8.8,USA,41.3,3190
+Energy Drink Y 66,101.4,6.9,Japan,15.7,3085
+Energy Drink M 37,97.9,7.41,Canada,23.5,2605
+Energy Drink W 56,57.3,5.03,Japan,26.5,2877
+Energy Drink K 64,124.3,6.6,Germany,43.1,52
+Energy Drink R 78,104.6,4.61,France,43.4,1398
+Energy Drink U 40,295.2,7.8,Japan,4.9,2731
+Energy Drink J 27,82.6,3.45,UK,44.0,2883
+Energy Drink I 72,237.1,4.02,South Korea,39.2,1574
+Energy Drink D 93,50.0,1.53,South Korea,24.3,3656
+Energy Drink L 55,125.4,7.93,USA,19.8,1010
+Energy Drink H 18,282.0,2.3,Canada,10.0,2291
+Energy Drink C 90,295.0,8.13,USA,14.2,2900
+Energy Drink Y 33,173.3,1.13,France,30.2,159
+Energy Drink A 61,114.3,6.4,France,34.6,2509
+Energy Drink J 21,240.5,9.64,Canada,49.3,777
+Energy Drink Y 78,293.2,9.81,Canada,7.9,2954
+Energy Drink R 45,155.6,8.48,Germany,30.0,1311
+Energy Drink F 1,96.0,4.56,South Korea,28.4,2696
+Energy Drink B 18,256.6,1.67,UK,41.0,3898
+Energy Drink D 33,65.7,8.89,UK,21.0,3489
+Energy Drink Q 53,298.6,5.77,France,6.7,2023
+Energy Drink Z 92,155.5,7.54,Germany,8.6,1976
+Energy Drink M 16,187.6,5.89,Canada,13.2,2524
+Energy Drink F 74,190.5,4.61,South Korea,0.7,2131
+Energy Drink A 42,299.7,2.24,USA,14.2,180
+Energy Drink E 80,211.6,4.94,South Korea,30.4,276
+Energy Drink O 16,275.1,9.75,France,9.4,1982
+Energy Drink R 35,104.3,3.56,Japan,32.2,506
+Energy Drink R 87,227.2,2.14,South Korea,40.2,2871
+Energy Drink T 86,189.2,9.53,France,22.8,1476
+Energy Drink I 21,166.6,2.23,USA,9.4,3786
+Energy Drink P 78,97.5,1.92,UK,16.5,567
+Energy Drink I 34,253.8,4.62,South Korea,16.6,2587
+Energy Drink T 31,59.3,9.44,USA,49.2,2368
+Energy Drink P 58,250.6,3.84,South Korea,18.5,897
+Energy Drink J 56,256.9,4.55,UK,14.2,1044
+Energy Drink C 39,114.3,1.47,UK,2.7,1128
+Energy Drink C 28,209.6,7.1,UK,3.0,3484
+Energy Drink Q 97,119.7,6.09,France,27.2,684
+Energy Drink Q 99,189.1,5.3,Germany,43.6,3587
+Energy Drink S 48,98.9,8.36,Japan,16.2,2700
+Energy Drink T 98,137.2,2.36,Germany,16.5,3990
+Energy Drink H 43,186.3,8.38,USA,21.3,2257
+Energy Drink F 45,233.7,6.23,France,32.2,3932
+Energy Drink Z 80,107.1,3.77,UK,37.2,1292
+Energy Drink B 31,150.1,2.7,Germany,28.5,430
+Energy Drink X 12,208.1,7.67,Canada,9.9,2807
+Energy Drink F 34,87.3,9.97,Germany,49.6,3467
+Energy Drink S 13,86.9,2.27,Japan,28.4,3668
+Energy Drink M 62,62.7,8.22,Japan,20.1,476
+Energy Drink S 25,100.8,6.51,Japan,26.6,3397
+Energy Drink V 63,50.8,7.98,South Korea,27.1,1731
+Energy Drink V 71,223.5,8.32,Germany,48.8,1220
+Energy Drink E 60,92.5,6.36,Canada,13.7,745
+Energy Drink U 26,57.1,5.87,France,10.4,3964
+Energy Drink Y 37,166.3,2.13,UK,28.4,3834
+Energy Drink M 83,101.5,1.42,South Korea,17.4,2615
+Energy Drink K 92,299.6,2.02,UK,34.3,1489
+Energy Drink J 27,105.1,2.76,South Korea,41.9,952
+Energy Drink G 71,223.1,8.54,South Korea,10.2,368
+Energy Drink H 54,211.3,6.37,USA,38.2,1597
+Energy Drink I 95,149.2,2.97,Germany,48.8,3543
+Energy Drink C 67,266.0,2.18,South Korea,16.1,528
+Energy Drink M 92,50.7,6.97,USA,29.8,338
+Energy Drink A 97,209.7,2.55,Germany,8.2,3119
+Energy Drink J 77,145.9,4.06,Canada,11.7,241
+Energy Drink J 49,128.8,6.15,Japan,44.2,1315
+Energy Drink I 75,123.4,3.05,Canada,5.3,2367
+Energy Drink B 91,61.4,5.67,UK,31.3,2572
+Energy Drink O 53,125.4,3.87,USA,42.3,2881
+Energy Drink J 84,100.7,4.28,Canada,7.3,2569
+Energy Drink I 48,134.9,4.36,Canada,28.1,1572
+Energy Drink X 11,132.2,6.29,Germany,12.0,1387
+Energy Drink C 7,126.1,6.69,Japan,45.8,1909
+Energy Drink K 72,90.0,8.47,South Korea,29.1,902
+Energy Drink C 76,259.2,9.22,South Korea,32.6,1729
+Energy Drink Q 29,261.5,4.31,South Korea,3.9,2455
+Energy Drink D 19,244.3,5.03,Japan,2.3,1202
+Energy Drink Y 74,224.0,2.53,France,3.7,637
+Energy Drink T 25,231.2,6.9,France,26.8,356
+Energy Drink L 45,65.4,3.78,USA,46.6,1096
+Energy Drink B 74,281.0,1.48,South Korea,6.6,137
+Energy Drink L 54,262.2,8.94,France,13.0,3042
+Energy Drink I 19,273.8,4.03,South Korea,11.0,1093
+Energy Drink Z 27,127.7,5.03,USA,1.8,1042
+Energy Drink D 22,74.0,8.51,UK,26.7,3146
+Energy Drink T 60,129.3,4.38,Germany,7.0,1748
+Energy Drink Z 26,113.5,6.02,Canada,27.1,2125
+Energy Drink R 76,215.0,3.66,Japan,43.7,843
+Energy Drink V 97,83.7,6.67,France,31.2,1612
+Energy Drink N 44,238.4,4.09,USA,21.5,710
+Energy Drink O 77,138.9,4.62,South Korea,35.5,399
+Energy Drink V 14,131.8,7.88,USA,14.4,2122
+Energy Drink Y 69,131.5,2.91,South Korea,10.1,3563
+Energy Drink Z 84,231.6,7.91,Japan,1.0,2377
+Energy Drink H 66,269.5,2.32,Canada,36.4,3851
+Energy Drink U 81,50.3,2.91,France,33.3,2488
+Energy Drink L 62,269.3,8.55,Germany,18.8,1307
+Energy Drink U 49,90.0,7.33,Germany,47.1,2892
+Energy Drink B 48,257.5,1.54,UK,20.3,3014
+Energy Drink A 89,156.9,1.67,South Korea,15.4,1855
+Energy Drink K 20,123.2,9.59,Germany,26.7,131
+Energy Drink S 48,234.6,2.92,UK,22.0,2080
+Energy Drink Q 13,57.1,5.81,France,37.6,441
+Energy Drink G 11,277.8,3.03,USA,18.0,1139
+Energy Drink Q 54,80.9,6.57,Canada,39.2,3207
+Energy Drink N 15,225.6,3.46,Germany,30.0,2434
+Energy Drink Y 34,126.9,6.76,Japan,13.5,2727
+Energy Drink S 64,276.1,2.5,France,2.0,2995
+Energy Drink G 50,74.9,9.27,Japan,11.2,324
+Energy Drink B 5,87.9,7.49,South Korea,29.8,446
+Energy Drink D 87,99.6,9.24,UK,10.7,1813
+Energy Drink N 99,72.4,3.18,UK,18.4,3148
+Energy Drink P 9,230.2,4.44,Canada,43.5,1587
+Energy Drink D 17,136.9,6.57,Japan,8.5,465
+Energy Drink K 59,85.1,3.45,USA,2.5,2414
+Energy Drink S 40,83.7,2.83,Canada,40.7,2349
+Energy Drink U 49,292.3,6.25,France,19.0,3054
+Energy Drink I 44,87.4,8.43,Canada,28.1,2692
+Energy Drink V 32,283.3,5.93,UK,21.7,628
+Energy Drink W 46,69.3,2.58,UK,26.4,3525
+Energy Drink O 41,80.8,10.0,France,49.4,2804
+Energy Drink L 4,256.0,3.63,Japan,4.6,1701
+Energy Drink A 24,129.1,2.86,Japan,45.4,3699
+Energy Drink Y 91,104.0,1.2,USA,23.2,3875
+Energy Drink R 45,129.3,7.47,South Korea,47.3,2499
+Energy Drink N 87,93.1,9.83,France,40.2,2246
+Energy Drink B 72,294.9,1.43,Japan,18.9,133
+Energy Drink B 37,170.1,8.07,USA,14.6,1793
+Energy Drink J 50,209.7,8.32,South Korea,29.8,3159
+Energy Drink D 60,202.5,7.76,South Korea,45.3,3327
+Energy Drink M 18,83.3,6.9,USA,22.1,2328
+Energy Drink L 20,74.2,9.35,Canada,36.1,649
+Energy Drink X 29,72.9,6.15,South Korea,49.8,1652
+Energy Drink A 87,90.6,6.68,South Korea,18.9,564
+Energy Drink R 19,133.1,4.77,UK,1.1,2436
+Energy Drink J 11,212.1,9.92,France,6.0,1696
+Energy Drink E 9,154.3,8.49,Germany,33.4,414
+Energy Drink Y 2,221.2,4.87,Canada,40.0,2072
+Energy Drink C 52,169.5,7.68,UK,14.7,981
+Energy Drink G 21,123.8,2.14,France,12.9,2260
+Energy Drink V 9,233.8,9.27,South Korea,43.5,2814
+Energy Drink I 36,125.3,4.2,South Korea,40.3,2999
+Energy Drink A 55,125.8,3.75,USA,36.3,538
+Energy Drink A 12,141.2,4.27,Japan,9.0,3707
+Energy Drink S 3,289.9,8.01,Japan,23.5,877
+Energy Drink Z 84,293.9,2.61,France,7.4,808
+Energy Drink I 88,171.0,6.39,France,36.0,802
+Energy Drink S 11,201.1,3.54,Japan,30.8,2082
+Energy Drink S 65,203.2,9.96,Canada,15.5,630
+Energy Drink C 53,218.5,8.18,France,48.5,1685
+Energy Drink K 77,255.6,7.66,Germany,7.4,2912
+Energy Drink I 49,217.5,6.65,South Korea,7.2,2816
+Energy Drink J 25,124.7,2.68,South Korea,43.9,869
+Energy Drink M 88,271.8,3.46,Canada,35.7,614
+Energy Drink R 95,58.8,5.87,South Korea,32.1,803
+Energy Drink D 43,199.4,3.86,Japan,40.2,3534
+Energy Drink E 30,237.4,2.66,Germany,26.4,3546
+Energy Drink C 83,234.7,2.98,Japan,23.6,810
+Energy Drink M 86,211.1,3.24,USA,43.8,3365
+Energy Drink Z 88,182.7,6.98,Canada,23.2,872
+Energy Drink F 5,71.3,7.22,South Korea,12.7,3374
+Energy Drink O 56,288.5,1.72,Germany,35.3,3581
+Energy Drink N 16,253.5,8.77,Canada,9.5,265
+Energy Drink B 13,207.7,2.32,Canada,35.0,1518
+Energy Drink H 81,104.5,8.88,UK,24.5,281
+Energy Drink Q 31,184.3,6.98,France,40.5,1401
+Energy Drink U 100,160.6,1.08,USA,18.5,2698
+Energy Drink B 99,203.3,6.54,France,21.9,478
+Energy Drink G 30,258.3,1.31,UK,10.1,3641
+Energy Drink F 15,99.7,7.97,UK,31.5,1423
+Energy Drink G 44,90.7,1.27,France,5.7,3997
+Energy Drink M 17,97.5,6.27,Germany,14.5,2740
+Energy Drink F 82,230.5,3.19,USA,40.1,101
+Energy Drink L 33,249.8,2.69,Japan,44.6,1844
+Energy Drink F 51,154.6,1.5,Canada,29.9,2622
+Energy Drink C 86,170.9,6.07,Japan,27.6,2581
+Energy Drink B 52,229.8,1.74,South Korea,27.7,714
+Energy Drink X 60,143.4,9.6,Japan,7.0,3137
+Energy Drink J 45,83.6,8.43,Japan,8.4,3610
+Energy Drink B 47,208.1,8.36,UK,12.0,2274
+Energy Drink P 99,190.1,3.7,USA,40.7,3003
+Energy Drink O 31,194.1,2.15,France,19.7,1867
+Energy Drink Z 93,119.6,1.32,South Korea,1.3,636
+Energy Drink X 31,282.2,1.69,Japan,41.6,1474
+Energy Drink E 75,185.3,9.14,Canada,48.5,2511
+Energy Drink T 73,67.4,9.09,USA,29.3,1135
+Energy Drink U 94,176.8,7.95,Japan,45.1,2475
+Energy Drink I 44,278.7,2.48,USA,12.6,2514
+Energy Drink L 24,197.6,5.76,USA,30.5,2360
+Energy Drink L 11,79.9,5.24,Canada,35.3,594
+Energy Drink G 53,140.6,2.51,Canada,11.4,103
+Energy Drink A 53,263.7,2.6,Canada,21.8,962
+Energy Drink K 86,117.9,4.43,France,44.0,3120
+Energy Drink P 27,90.7,4.72,Germany,12.1,364
+Energy Drink U 86,126.8,1.9,South Korea,36.9,1678
+Energy Drink I 49,196.8,4.31,UK,12.5,1799
+Energy Drink K 95,193.1,1.62,Japan,17.7,3714
+Energy Drink X 14,149.2,6.68,South Korea,34.0,3750
+Energy Drink L 14,212.5,2.69,USA,35.4,2167
+Energy Drink F 41,93.8,9.52,UK,24.2,2045
+Energy Drink W 2,244.7,9.36,Japan,17.9,3737
+Energy Drink O 40,127.8,3.71,USA,44.2,3682
+Energy Drink Y 63,125.5,2.76,Canada,30.6,3497
+Energy Drink S 61,82.8,6.87,Canada,34.7,2065
+Energy Drink P 47,276.3,7.59,South Korea,27.8,2186
+Energy Drink C 8,189.1,3.81,USA,38.6,754
+Energy Drink K 52,180.3,1.38,France,2.8,3143
+Energy Drink S 37,237.0,7.31,France,17.8,3831
+Energy Drink K 84,80.5,3.8,USA,16.4,3368
+Energy Drink S 71,51.3,7.21,USA,44.4,800
+Energy Drink X 12,103.3,7.99,UK,9.0,660
+Energy Drink L 80,95.3,6.23,UK,42.5,3429
+Energy Drink X 22,238.0,9.83,Japan,11.3,2787
+Energy Drink P 30,93.9,9.96,Germany,25.1,2199
+Energy Drink M 41,293.2,2.59,South Korea,16.6,1904
+Energy Drink A 57,259.8,1.93,South Korea,26.4,246
+Energy Drink N 77,148.5,2.54,South Korea,41.8,3677
+Energy Drink V 53,107.0,2.98,USA,31.8,859
+Energy Drink M 28,203.9,9.57,Japan,22.2,3164
+Energy Drink N 8,127.0,7.73,USA,25.5,1226
+Energy Drink B 58,211.0,2.27,South Korea,1.3,770
+Energy Drink G 2,106.5,5.55,Germany,26.2,2143
+Energy Drink A 73,50.4,9.62,UK,8.8,1285
+Energy Drink O 84,129.1,4.06,USA,37.3,831
+Energy Drink I 85,205.9,3.21,France,42.6,263
+Energy Drink W 4,256.1,1.3,Canada,18.7,195
+Energy Drink T 65,121.7,1.9,Germany,23.4,208
+Energy Drink Q 54,122.8,3.56,USA,25.1,3287
+Energy Drink C 88,53.6,8.16,France,27.9,2370
+Energy Drink F 71,183.8,1.74,UK,10.1,1949
+Energy Drink V 68,191.5,5.38,Germany,29.7,2577
+Energy Drink U 41,123.7,1.45,USA,33.4,2665
+Energy Drink L 68,188.7,6.67,USA,11.3,2905
+Energy Drink Y 56,299.3,5.63,Canada,18.3,2829
+Energy Drink K 2,107.6,7.96,Japan,21.7,3485
+Energy Drink F 99,98.3,9.52,Japan,3.1,136
+Energy Drink M 34,229.2,3.43,UK,16.8,834
+Energy Drink V 24,92.6,3.93,France,36.0,813
+Energy Drink C 67,135.8,9.54,Japan,44.1,3530
+Energy Drink A 45,155.8,2.18,Germany,19.7,2490
+Energy Drink Z 48,219.0,4.75,USA,2.2,2198
+Energy Drink Z 43,167.9,4.63,France,25.4,3475
+Energy Drink C 50,184.3,3.59,USA,27.5,1766
+Energy Drink L 48,222.8,1.34,Germany,35.1,3644
+Energy Drink W 96,253.8,5.61,UK,0.7,575
+Energy Drink N 2,255.7,3.6,South Korea,2.3,112
+Energy Drink Z 70,147.4,5.57,Japan,14.1,471
+Energy Drink P 19,178.0,8.05,France,49.2,2190
+Energy Drink F 69,179.3,4.73,Canada,22.0,336
+Energy Drink V 90,255.0,8.81,France,6.9,3460
+Energy Drink F 46,172.6,8.12,South Korea,15.1,108
+Energy Drink B 62,189.3,7.01,Canada,27.8,1625
+Energy Drink P 70,217.1,8.21,USA,46.6,2990
+Energy Drink L 91,263.9,1.95,UK,5.6,551
+Energy Drink N 81,292.9,2.63,UK,28.1,2197
+Energy Drink H 27,60.4,5.25,USA,46.0,2015
+Energy Drink Y 85,114.5,6.72,South Korea,16.4,2593
+Energy Drink N 60,140.6,9.58,UK,32.8,1595
+Energy Drink A 22,124.4,7.66,Japan,29.2,925
+Energy Drink V 39,178.6,7.62,France,3.8,3464
+Energy Drink G 70,84.0,6.4,South Korea,30.6,2898
+Energy Drink V 18,95.2,2.42,UK,14.8,1737
+Energy Drink M 31,118.9,1.4,UK,31.1,2684
+Energy Drink S 92,235.8,8.0,USA,49.3,805
+Energy Drink T 97,104.9,7.06,Canada,16.2,2857
+Energy Drink P 95,109.4,8.91,USA,2.2,1561
+Energy Drink H 25,233.8,9.09,Japan,24.8,3532
+Energy Drink Q 88,119.2,4.33,Canada,35.4,3255
+Energy Drink J 97,195.5,3.37,France,4.6,1723
+Energy Drink N 11,111.1,1.62,USA,18.2,3141
+Energy Drink I 82,203.4,7.22,UK,25.2,1604
+Energy Drink I 27,169.5,1.08,Japan,31.5,2128
+Energy Drink G 31,154.6,9.83,France,29.3,1961
+Energy Drink K 80,294.7,5.57,Germany,13.0,598
+Energy Drink X 23,78.2,9.95,South Korea,28.1,3751
+Energy Drink V 9,275.0,5.75,Canada,3.1,737
+Energy Drink B 97,253.6,3.93,USA,22.2,1525
+Energy Drink F 73,109.9,8.66,France,11.5,894
+Energy Drink N 61,256.1,2.71,Canada,30.1,2674
+Energy Drink F 12,128.4,8.6,South Korea,20.9,2102
+Energy Drink D 44,177.7,6.78,France,1.3,2541
+Energy Drink H 96,187.0,4.38,France,47.2,1158
+Energy Drink B 28,180.7,4.23,Japan,14.1,1770
+Energy Drink Q 19,290.8,5.34,France,19.3,3970
+Energy Drink E 8,101.9,8.13,South Korea,37.1,1246
+Energy Drink Z 58,57.2,2.91,France,49.9,631
+Energy Drink Z 2,195.3,3.62,Japan,24.4,2538
+Energy Drink D 65,204.6,3.56,Japan,47.8,3227
+Energy Drink H 13,51.7,4.22,Canada,25.7,3905
+Energy Drink Y 9,281.3,1.52,UK,16.6,1402
+Energy Drink D 56,234.3,6.93,USA,0.3,779
+Energy Drink O 60,134.9,6.47,Canada,27.5,2253
+Energy Drink Y 13,294.6,8.22,UK,35.1,755
+Energy Drink V 100,184.7,7.79,Canada,17.4,3122
+Energy Drink J 19,51.5,8.44,South Korea,0.1,3185
+Energy Drink X 46,175.6,6.46,Japan,43.9,122
+Energy Drink H 71,288.0,1.14,South Korea,15.6,868
+Energy Drink P 100,254.8,7.17,South Korea,25.8,1601
+Energy Drink Z 90,77.6,5.53,South Korea,32.0,3248
+Energy Drink W 31,216.5,3.02,France,49.0,2757
+Energy Drink E 28,218.8,4.11,France,34.3,3547
+Energy Drink L 12,207.9,5.85,UK,41.2,3400
+Energy Drink E 46,171.0,8.48,France,30.7,3451
+Energy Drink U 31,127.5,1.21,France,19.3,1788
+Energy Drink X 65,134.0,7.3,Canada,8.0,3640
+Energy Drink O 71,131.2,1.64,Germany,28.6,3708
+Energy Drink D 31,257.4,4.73,France,36.8,2012
+Energy Drink K 61,264.8,6.58,Germany,45.0,2919
+Energy Drink Q 40,91.4,4.32,South Korea,13.2,91
+Energy Drink V 34,198.0,4.68,France,19.7,119
+Energy Drink M 75,299.1,5.62,Japan,20.9,3031
+Energy Drink L 27,218.0,2.44,Canada,30.9,1485
+Energy Drink C 74,220.0,9.98,Japan,30.6,3447
+Energy Drink P 47,272.1,5.74,Japan,23.6,2780
+Energy Drink J 66,102.1,8.03,Canada,5.1,39
+Energy Drink O 66,138.5,9.93,Germany,41.9,3310
+Energy Drink Y 79,83.5,6.89,France,28.0,462
+Energy Drink O 38,208.5,6.95,Canada,31.1,106
+Energy Drink Z 89,258.1,3.34,Japan,27.4,854
+Energy Drink J 1,276.3,1.93,Japan,26.3,210
+Energy Drink Z 47,171.1,4.92,South Korea,2.9,2357
+Energy Drink N 31,277.0,6.74,France,38.7,1316
+Energy Drink Y 97,106.0,2.91,USA,44.6,2104
+Energy Drink S 89,176.6,1.27,South Korea,45.4,845
+Energy Drink N 4,89.6,1.22,UK,32.6,3957
+Energy Drink Z 32,293.9,4.74,Japan,28.2,3983
+Energy Drink N 13,187.5,4.29,Japan,39.4,152
+Energy Drink D 9,103.7,9.3,Germany,4.3,1647
+Energy Drink Y 18,267.0,7.77,Japan,13.4,592
+Energy Drink R 72,62.1,1.45,USA,27.9,358
+Energy Drink V 35,282.5,6.92,UK,34.4,2760
+Energy Drink K 87,155.4,5.44,USA,26.9,2428
+Energy Drink R 59,51.5,4.94,UK,10.7,2695
+Energy Drink H 19,122.1,2.54,Germany,49.1,2773
+Energy Drink D 98,72.1,3.2,France,34.7,2417
+Energy Drink X 94,73.9,7.91,UK,46.3,3980
+Energy Drink M 19,143.3,5.52,France,0.8,23
+Energy Drink S 34,75.1,3.74,South Korea,26.6,1351
+Energy Drink C 76,170.0,7.06,South Korea,29.4,1456
+Energy Drink B 43,129.0,4.81,South Korea,9.5,2004
+Energy Drink N 21,221.9,2.74,France,17.0,2074
+Energy Drink B 10,236.0,5.84,USA,17.2,1068
+Energy Drink E 50,171.0,5.81,Germany,34.5,2100
+Energy Drink I 61,261.3,6.85,Japan,30.7,1669
+Energy Drink L 65,52.8,7.97,Japan,23.0,2234
+Energy Drink J 78,84.7,8.6,Japan,46.0,3453
+Energy Drink C 8,245.8,8.52,USA,28.8,2268
+Energy Drink F 16,176.9,4.74,France,49.3,3735
+Energy Drink K 36,132.3,5.18,USA,19.6,3592
+Energy Drink M 51,195.5,4.0,South Korea,37.7,2013
+Energy Drink C 17,139.3,1.24,Japan,27.1,3203
+Energy Drink H 8,150.8,9.18,Japan,6.2,141
+Energy Drink R 59,75.6,8.87,UK,11.3,3010
+Energy Drink G 96,250.2,2.99,Canada,49.6,1245
+Energy Drink E 17,258.2,6.98,USA,17.2,1381
+Energy Drink O 19,82.4,4.97,Japan,8.4,2343
+Energy Drink X 85,54.5,2.99,UK,36.0,2089
+Energy Drink M 91,132.2,7.52,Japan,11.3,189
+Energy Drink I 15,89.9,3.0,South Korea,43.2,3482
+Energy Drink L 8,168.2,4.56,France,17.2,375
+Energy Drink S 47,272.6,8.8,France,31.3,2214
+Energy Drink V 47,184.1,5.46,UK,29.8,1995
+Energy Drink E 21,270.0,8.22,Germany,6.6,341
+Energy Drink Q 8,214.0,3.82,UK,45.3,593
+Energy Drink E 34,131.5,1.52,France,37.5,2408
+Energy Drink D 98,258.0,6.67,Germany,44.8,3580
+Energy Drink U 19,177.8,4.18,France,49.6,1789
+Energy Drink I 96,127.5,9.88,South Korea,18.2,811
+Energy Drink Z 42,216.6,8.04,Canada,42.3,950
+Energy Drink P 61,196.9,6.64,South Korea,35.8,84
+Energy Drink K 42,76.1,3.1,USA,30.6,2973
+Energy Drink K 52,245.6,9.52,South Korea,25.0,1709
+Energy Drink L 11,130.6,3.97,UK,11.4,1234
+Energy Drink P 96,92.3,4.05,South Korea,21.2,1631
+Energy Drink K 60,232.6,5.89,Canada,1.7,692
+Energy Drink Z 15,242.5,7.75,France,44.9,3764
+Energy Drink C 74,145.4,5.5,Canada,8.5,549
+Energy Drink O 78,293.5,9.85,Canada,3.6,1875
+Energy Drink U 84,287.5,7.56,France,32.4,1500
+Energy Drink V 99,164.7,2.95,UK,30.6,376
+Energy Drink Q 51,125.5,4.7,France,24.0,1061
+Energy Drink I 86,296.4,5.32,South Korea,41.1,2863
+Energy Drink J 100,154.1,3.82,Canada,21.9,1563
+Energy Drink A 74,93.6,7.52,UK,6.5,2319
+Energy Drink I 73,257.4,1.93,Canada,44.1,3393
+Energy Drink M 69,189.4,5.66,Canada,15.5,2075
+Energy Drink X 37,128.8,1.81,France,41.9,2410
+Energy Drink K 70,69.3,8.59,Japan,38.9,1913
+Energy Drink L 97,67.8,3.81,UK,17.1,3175
+Energy Drink A 19,163.5,7.8,USA,48.5,2935
+Energy Drink G 11,83.2,3.93,UK,31.4,1050
+Energy Drink N 79,176.8,5.11,USA,1.6,237
+Energy Drink G 94,92.5,9.7,UK,25.7,2280
+Energy Drink K 89,189.8,7.51,USA,27.1,2754
+Energy Drink M 9,84.6,5.45,Canada,14.9,1497
+Energy Drink I 50,58.8,3.53,USA,5.6,1567
+Energy Drink Y 56,199.7,4.34,Japan,21.1,201
+Energy Drink X 5,158.6,8.51,France,49.5,1382
+Energy Drink S 71,133.2,4.06,South Korea,31.8,3045
+Energy Drink S 22,137.8,9.04,USA,49.3,1779
+Energy Drink H 66,113.0,6.76,USA,21.3,3037
+Energy Drink D 18,239.5,6.99,Germany,14.9,3706
+Energy Drink G 48,238.3,9.74,South Korea,48.5,1906
+Energy Drink T 27,208.1,3.36,Japan,4.4,3079
+Energy Drink X 56,69.8,1.6,USA,45.1,3700
+Energy Drink I 56,62.1,2.67,Germany,49.6,1754
+Energy Drink X 49,160.5,5.0,USA,30.9,1353
+Energy Drink W 68,117.3,2.98,France,20.2,2217
+Energy Drink Z 71,109.7,9.23,USA,3.1,1008
+Energy Drink C 75,64.1,6.9,UK,36.9,523
+Energy Drink S 45,106.7,4.09,Germany,19.9,1623
+Energy Drink I 71,66.6,7.19,UK,26.4,2658
+Energy Drink C 73,132.7,7.15,Japan,21.6,1254
+Energy Drink S 86,178.5,5.6,France,5.4,521
+Energy Drink E 79,205.9,6.95,UK,31.4,1735
+Energy Drink Q 54,220.8,2.16,UK,25.2,3189
+Energy Drink W 11,195.0,2.48,Germany,47.6,1555
+Energy Drink J 64,266.9,8.28,USA,48.7,694
+Energy Drink E 92,106.0,1.67,Canada,9.9,3431
+Energy Drink U 15,264.5,9.22,France,1.2,3343
+Energy Drink X 32,206.7,9.38,Canada,13.0,3108
+Energy Drink K 93,82.0,7.32,Japan,5.9,2944
+Energy Drink L 43,83.5,1.5,USA,8.3,1918
+Energy Drink E 24,278.4,5.55,UK,7.9,3738
+Energy Drink S 19,143.2,4.7,Canada,3.4,295
+Energy Drink H 63,58.7,6.13,Canada,9.9,367
+Energy Drink Y 21,232.1,3.83,Japan,25.0,296
+Energy Drink L 61,106.9,3.63,Japan,38.9,2856
+Energy Drink P 37,298.8,4.43,France,18.1,2835
+Energy Drink G 12,220.8,7.56,France,22.9,2138
+Energy Drink U 62,213.4,9.93,Canada,22.5,2297
+Energy Drink G 51,163.5,8.63,UK,2.1,359
+Energy Drink U 65,235.0,2.71,Japan,16.6,346
+Energy Drink K 51,195.5,2.75,UK,47.9,2382
+Energy Drink W 49,159.4,7.83,South Korea,22.7,1153
+Energy Drink X 73,249.6,1.34,Japan,42.4,1349
+Energy Drink T 46,196.9,8.02,UK,27.2,2981
+Energy Drink W 65,143.7,8.75,Canada,22.9,2042
+Energy Drink V 65,176.4,4.57,France,4.5,2407
+Energy Drink D 73,270.5,9.63,USA,14.5,2868
+Energy Drink L 55,285.4,2.37,USA,18.1,3415
+Energy Drink E 62,95.3,6.32,UK,7.8,2701
+Energy Drink M 61,105.0,9.85,UK,44.5,921
+Energy Drink J 76,134.4,5.87,South Korea,35.7,1549
+Energy Drink U 17,268.5,5.69,South Korea,9.8,2943
+Energy Drink D 75,175.9,6.88,Germany,1.6,895
+Energy Drink U 61,151.0,1.14,Canada,14.3,1936
+Energy Drink Q 99,277.0,7.71,South Korea,41.4,543
+Energy Drink T 39,218.8,1.98,France,38.2,867
+Energy Drink A 25,282.9,4.31,Japan,49.1,796
+Energy Drink N 20,71.0,1.29,UK,20.9,3693
+Energy Drink S 27,128.7,9.6,South Korea,15.3,2114
+Energy Drink A 3,146.7,2.98,USA,40.1,3064
+Energy Drink L 65,212.4,9.71,Germany,30.9,3881
+Energy Drink H 100,192.6,5.75,France,3.5,3226
+Energy Drink R 21,101.4,2.5,Japan,20.5,975
+Energy Drink Q 34,105.5,8.54,Canada,10.7,3403
+Energy Drink M 10,268.8,3.78,South Korea,28.5,1075
+Energy Drink S 19,96.7,9.18,Germany,23.9,3445
+Energy Drink Y 23,66.5,2.3,USA,6.5,3350
+Energy Drink A 15,256.9,6.57,Germany,36.9,3782
+Energy Drink D 74,137.9,2.1,Japan,28.1,2169
+Energy Drink Q 23,168.5,3.54,Japan,12.2,256
+Energy Drink U 53,280.7,7.92,UK,10.5,829
+Energy Drink W 39,133.5,3.43,Japan,41.5,914
+Energy Drink X 19,184.1,8.39,Japan,4.0,2433
+Energy Drink K 61,224.4,7.31,Germany,35.8,1659
+Energy Drink K 21,141.9,1.48,USA,40.6,1018
+Energy Drink L 44,152.0,6.78,Canada,39.6,1851
+Energy Drink X 55,298.3,2.45,Germany,26.5,105
+Energy Drink L 33,99.8,9.13,UK,18.6,58
+Energy Drink K 10,183.0,5.96,Canada,12.5,3521
+Energy Drink V 50,135.2,1.86,Japan,1.8,3244
+Energy Drink S 24,130.0,9.21,Germany,16.3,2223
+Energy Drink G 82,218.6,3.56,France,39.1,2369
+Energy Drink D 83,107.1,3.19,UK,17.6,1812
+Energy Drink X 46,149.3,1.01,Germany,16.0,701
+Energy Drink J 61,187.4,4.3,South Korea,7.4,3500
+Energy Drink L 95,102.1,5.57,France,43.5,2264
+Energy Drink W 89,201.7,6.94,France,47.7,481
+Energy Drink Q 86,291.6,6.61,USA,20.5,1392
+Energy Drink F 41,91.3,9.3,South Korea,19.1,1915
+Energy Drink F 88,125.9,6.18,Canada,13.6,3224
+Energy Drink Q 38,223.1,6.42,Japan,7.2,2969
+Energy Drink H 14,67.5,6.93,Canada,27.0,1168
+Energy Drink F 12,58.1,5.37,France,40.2,3367
+Energy Drink Q 27,204.1,1.83,France,27.3,362
+Energy Drink R 2,75.1,7.14,South Korea,15.3,2933
+Energy Drink S 59,117.5,5.77,South Korea,11.7,966
+Energy Drink Q 96,62.7,1.77,Germany,15.3,2975
+Energy Drink Z 98,252.9,8.94,France,27.6,2256
+Energy Drink Q 95,242.3,8.89,South Korea,48.4,787
+Energy Drink I 22,190.7,7.44,Germany,14.6,1944
+Energy Drink Q 98,167.0,7.98,USA,2.2,3967
+Energy Drink R 96,265.3,6.33,UK,32.1,1920
+Energy Drink P 66,260.0,9.36,Germany,26.1,2164
+Energy Drink U 12,184.3,2.29,USA,35.2,3985
+Energy Drink X 91,81.8,1.72,Germany,0.5,2866
+Energy Drink H 10,163.1,5.31,France,29.2,2846
+Energy Drink J 99,135.6,9.84,Germany,10.3,1
+Energy Drink J 69,116.2,9.25,Germany,33.5,2949
+Energy Drink V 2,163.1,7.06,Japan,42.2,753
+Energy Drink A 3,204.5,2.52,USA,22.0,1616
+Energy Drink L 20,256.1,4.57,France,0.7,3942
+Energy Drink D 29,145.8,4.29,France,2.4,1178
+Energy Drink Z 68,52.7,2.07,France,5.8,2699
+Energy Drink A 13,90.1,5.49,Japan,18.0,3423
+Energy Drink W 60,220.3,8.13,France,24.7,1197
+Energy Drink Y 87,279.4,5.28,Japan,11.6,1675
+Energy Drink I 41,253.4,4.85,Germany,20.6,493
+Energy Drink O 52,147.1,8.48,France,39.3,2229
+Energy Drink J 68,202.5,6.89,South Korea,35.9,2827
+Energy Drink H 42,97.8,6.2,USA,31.7,773
+Energy Drink C 58,130.1,7.65,Canada,48.1,1767
+Energy Drink R 91,67.4,5.44,South Korea,6.8,3676
+Energy Drink T 18,69.7,8.38,France,18.2,595
+Energy Drink S 32,156.8,7.7,South Korea,22.7,280
+Energy Drink A 16,297.3,1.95,USA,39.5,1438
+Energy Drink A 57,125.0,1.21,Germany,24.5,83
+Energy Drink K 81,169.8,7.25,USA,18.3,3454
+Energy Drink B 42,298.4,9.56,USA,21.6,3420
+Energy Drink M 21,109.8,3.13,Canada,8.3,1860
+Energy Drink D 35,85.6,7.81,UK,25.7,2984
+Energy Drink M 39,209.1,7.21,Canada,45.9,2480
+Energy Drink X 83,60.4,2.86,South Korea,10.8,1503
+Energy Drink K 30,86.7,8.91,Japan,33.7,2309
+Energy Drink I 18,206.3,6.29,Japan,33.8,2893
+Energy Drink B 46,169.2,3.34,Germany,27.9,515
+Energy Drink R 22,72.6,8.14,Germany,31.6,157
+Energy Drink W 12,148.1,4.07,USA,9.2,1763
+Energy Drink S 2,232.2,2.56,Germany,15.6,1802
+Energy Drink G 52,291.5,6.0,Japan,2.3,3596
+Energy Drink E 92,265.1,9.56,USA,16.3,2311
+Energy Drink Y 52,157.1,5.06,South Korea,11.4,73
+Energy Drink I 84,87.2,8.47,Japan,33.8,149
+Energy Drink B 66,225.8,4.79,Japan,48.4,2759
+Energy Drink L 43,127.6,1.82,UK,40.9,1424
+Energy Drink V 17,112.1,9.41,Canada,38.9,2171
+Energy Drink Z 51,235.1,1.41,Germany,18.6,2994
+Energy Drink I 92,123.9,1.85,South Korea,33.9,1464
+Energy Drink S 64,270.4,9.82,South Korea,14.7,216
+Energy Drink R 4,160.0,7.54,South Korea,16.5,278
+Energy Drink X 70,281.0,4.08,UK,18.6,1326
+Energy Drink M 39,213.2,6.47,Canada,32.1,2823
+Energy Drink D 26,237.5,4.05,South Korea,45.6,458
+Energy Drink O 91,171.7,6.5,UK,46.5,3241
+Energy Drink R 99,207.3,2.8,Germany,50.0,3921
+Energy Drink Y 51,164.0,5.52,Germany,15.2,342
+Energy Drink S 44,211.8,6.66,USA,20.5,604
+Energy Drink P 17,126.0,9.55,Canada,22.0,2810
+Energy Drink U 5,294.2,3.43,USA,45.6,3399
+Energy Drink U 87,270.7,2.82,Japan,33.4,3793
+Energy Drink B 36,171.3,5.5,Canada,18.0,2671
+Energy Drink K 13,109.3,3.72,Canada,10.6,2211
+Energy Drink V 45,199.1,7.82,UK,27.8,168
+Energy Drink C 96,116.6,5.4,Germany,29.1,780
+Energy Drink Q 47,157.3,3.27,France,13.9,2420
+Energy Drink D 80,169.0,6.47,France,46.0,3359
+Energy Drink T 13,281.6,7.17,USA,23.4,197
+Energy Drink H 28,255.5,8.53,Germany,0.1,2314
+Energy Drink H 96,121.0,5.95,Canada,49.5,2401
+Energy Drink Z 25,108.7,4.64,UK,39.8,2634
+Energy Drink U 68,245.3,2.7,France,6.9,3897
+Energy Drink F 84,263.5,5.63,Canada,41.8,3204
+Energy Drink R 78,230.0,5.27,Japan,2.8,1180
+Energy Drink B 3,249.1,5.37,South Korea,22.3,1480
+Energy Drink F 81,236.4,6.95,USA,49.5,88
+Energy Drink T 93,190.7,2.06,South Korea,0.7,1332
+Energy Drink A 3,101.3,3.79,Germany,23.4,3642
+Energy Drink L 42,130.9,8.9,Germany,35.4,3593
+Energy Drink B 6,212.6,5.33,France,40.9,3450
+Energy Drink P 90,80.9,8.08,USA,26.2,2859
+Energy Drink J 41,151.4,2.25,Canada,28.4,545
+Energy Drink Y 40,208.7,7.04,Germany,9.0,3334
+Energy Drink O 92,80.5,8.87,UK,26.3,798
+Energy Drink N 82,131.6,3.82,South Korea,26.0,1924
+Energy Drink H 16,132.5,3.32,South Korea,5.1,850
+Energy Drink W 16,238.7,5.5,UK,13.2,3698
+Energy Drink W 88,286.8,5.36,Japan,19.6,1269
+Energy Drink Y 40,132.5,8.8,Germany,38.2,2204
+Energy Drink Z 63,83.7,6.02,Canada,0.7,769
+Energy Drink T 96,203.8,9.76,France,29.5,3341
+Energy Drink N 64,215.3,4.83,France,14.6,588
+Energy Drink M 12,173.8,8.62,South Korea,43.2,1897
+Energy Drink A 98,166.9,3.94,Canada,20.8,552
+Energy Drink L 20,61.8,5.84,Japan,11.8,2405
+Energy Drink Z 2,245.5,1.72,UK,23.3,2947
+Energy Drink L 50,165.6,7.87,South Korea,41.5,2293
+Energy Drink B 64,280.4,5.52,USA,35.1,219
+Energy Drink B 54,63.0,6.79,Germany,8.2,554
+Energy Drink Y 44,84.2,5.36,France,43.7,1550
+Energy Drink V 83,198.5,6.54,France,13.9,1830
+Energy Drink M 14,199.6,4.73,Canada,18.9,2862
+Energy Drink L 57,285.5,8.83,UK,4.3,2946
+Energy Drink U 25,133.8,8.78,UK,42.2,2098
+Energy Drink U 69,106.0,8.13,Japan,3.6,1413
+Energy Drink Y 11,107.8,2.04,Japan,34.5,3271
+Energy Drink X 77,228.5,6.58,UK,22.1,880
+Energy Drink Y 31,177.2,8.6,South Korea,43.1,3891
+Energy Drink Z 44,98.0,4.6,South Korea,19.1,3458
+Energy Drink P 26,245.8,9.64,Canada,32.5,1530
+Energy Drink L 82,55.6,1.03,Canada,10.4,1753
+Energy Drink X 10,229.2,5.93,Canada,12.0,1646
+Energy Drink M 49,133.8,5.36,South Korea,25.2,42
+Energy Drink X 98,114.4,8.25,USA,31.9,32
+Energy Drink M 67,291.3,8.4,Japan,19.0,3785
+Energy Drink E 3,279.9,7.26,UK,4.4,2543
+Energy Drink S 64,84.5,9.67,France,41.6,3672
+Energy Drink M 93,117.1,3.31,USA,20.7,1997
+Energy Drink T 48,196.8,8.31,France,10.5,2387
+Energy Drink C 80,137.0,8.82,UK,27.9,2557
+Energy Drink R 22,197.2,5.26,USA,2.5,1893
+Energy Drink R 40,159.4,7.91,Canada,0.4,382
+Energy Drink S 47,176.0,7.65,France,23.7,2645
+Energy Drink E 17,298.4,5.69,South Korea,23.3,3548
+Energy Drink E 49,280.1,3.25,France,27.1,1805
+Energy Drink E 14,192.2,6.81,USA,24.5,1121
+Energy Drink X 83,112.8,2.2,Germany,40.9,2681
+Energy Drink O 46,291.8,2.17,South Korea,31.7,2159
+Energy Drink Q 68,250.1,1.91,France,5.5,130
+Energy Drink J 23,289.0,1.3,France,4.6,2266
+Energy Drink O 88,268.9,4.19,USA,38.2,1410
+Energy Drink L 74,137.0,1.47,Canada,44.5,371
+Energy Drink Y 89,257.3,9.71,USA,27.3,116
+Energy Drink Z 92,262.3,7.75,USA,48.2,3566
+Energy Drink X 85,114.2,3.38,France,35.1,508
+Energy Drink U 95,237.3,4.61,UK,21.4,2914
+Energy Drink R 48,164.4,5.75,Canada,34.8,86
+Energy Drink K 64,181.0,1.48,France,20.4,839
+Energy Drink O 89,94.2,8.27,Canada,14.4,2388
+Energy Drink V 29,201.1,2.08,France,7.6,2103
+Energy Drink R 2,118.9,2.83,USA,17.6,3770
+Energy Drink E 69,79.4,7.32,Canada,44.3,3986
+Energy Drink N 25,167.4,2.1,UK,49.6,1309
+Energy Drink Z 37,281.0,5.87,France,21.2,1991
+Energy Drink L 44,233.5,4.44,Japan,3.0,2987
+Energy Drink I 57,149.0,7.51,UK,36.2,1680
+Energy Drink E 70,192.9,1.24,South Korea,42.6,1450
+Energy Drink D 51,192.1,6.76,Japan,9.5,2247
+Energy Drink M 21,195.3,4.29,France,34.1,1679
+Energy Drink A 70,80.9,3.28,Germany,43.2,1148
+Energy Drink X 4,284.5,4.26,South Korea,0.7,2875
+Energy Drink S 64,205.0,8.97,Japan,35.8,3539
+Energy Drink H 91,163.4,9.02,UK,17.3,360
+Energy Drink E 40,59.6,8.08,UK,2.1,3556
+Energy Drink D 27,148.5,4.82,UK,38.8,1842
+Energy Drink Y 66,200.0,9.8,Japan,28.4,2602
+Energy Drink Y 7,91.7,4.66,USA,41.5,2105
+Energy Drink X 94,90.6,1.28,Japan,9.5,3862
+Energy Drink Q 8,58.1,4.83,Germany,49.3,1648
+Energy Drink Z 35,131.9,2.9,South Korea,30.2,922
+Energy Drink G 13,261.3,6.64,Japan,3.8,1912
+Energy Drink J 19,151.0,2.41,UK,34.8,2076
+Energy Drink D 1,173.8,1.63,France,17.3,687
+Energy Drink U 16,159.2,4.57,Germany,1.6,2132
+Energy Drink E 99,138.0,7.19,Japan,13.7,1171
+Energy Drink M 26,286.5,7.3,France,19.4,2719
+Energy Drink B 34,120.4,8.98,Japan,2.8,311
+Energy Drink U 84,276.8,3.79,France,40.4,2084
+Energy Drink T 55,236.2,7.62,Germany,13.6,339
+Energy Drink E 59,150.5,8.04,USA,13.0,819
+Energy Drink E 1,99.9,8.95,Japan,30.0,365
+Energy Drink L 15,232.8,9.17,Germany,3.0,1264
+Energy Drink P 15,192.7,1.73,South Korea,44.8,886
+Energy Drink Q 83,241.7,6.68,Canada,48.8,415
+Energy Drink Q 70,69.5,5.22,France,19.3,2836
+Energy Drink P 87,222.0,3.37,Japan,48.0,1581
+Energy Drink V 2,290.0,1.03,Germany,39.5,1686
+Energy Drink G 90,68.9,8.19,Japan,28.0,1428
+Energy Drink M 90,187.4,7.66,UK,29.7,1362
+Energy Drink T 45,92.3,7.08,Japan,40.0,2707
+Energy Drink O 40,254.4,5.02,South Korea,33.5,3796
+Energy Drink L 83,124.0,7.01,UK,38.2,3839
+Energy Drink G 16,110.2,6.62,France,16.7,260
+Energy Drink V 39,60.8,4.68,Japan,2.4,1695
+Energy Drink W 19,187.5,8.44,Japan,18.2,681
+Energy Drink N 26,120.1,1.96,France,47.5,2839
+Energy Drink L 41,214.6,5.84,Canada,48.4,1870
+Energy Drink A 17,291.6,4.29,Japan,20.5,3598
+Energy Drink A 91,242.2,8.88,France,27.3,3613
+Energy Drink L 47,201.4,7.87,Japan,23.4,2889
+Energy Drink B 65,101.9,5.68,Japan,3.6,1054
+Energy Drink N 85,74.1,7.9,Canada,41.5,3180
+Energy Drink B 28,83.9,2.82,USA,3.8,3857
+Energy Drink O 76,198.8,8.61,UK,24.4,1872
+Energy Drink F 42,285.3,3.37,USA,32.6,696
+Energy Drink E 34,109.8,9.62,Germany,11.0,1605
+Energy Drink V 47,158.0,9.78,Japan,39.4,326
+Energy Drink F 26,116.3,5.67,Germany,30.5,959
+Energy Drink O 28,131.7,9.27,South Korea,33.2,2725
+Energy Drink O 32,190.4,5.68,Germany,34.4,2044
+Energy Drink X 47,53.5,8.54,Germany,35.4,1850
+Energy Drink A 97,150.1,2.7,UK,35.5,1537
+Energy Drink I 39,67.2,1.24,Germany,41.1,767
+Energy Drink A 96,226.5,8.57,UK,48.8,1594
+Energy Drink A 38,160.2,8.66,Germany,14.8,2799
+Energy Drink P 34,135.0,4.86,Germany,34.8,3962
+Energy Drink J 87,262.2,2.73,Canada,0.4,1994
+Energy Drink C 37,152.3,8.4,USA,2.2,328
+Energy Drink R 23,292.3,5.28,UK,37.6,449
+Energy Drink U 100,169.2,9.93,UK,6.7,2236
+Energy Drink V 44,95.4,7.78,France,11.8,2971
+Energy Drink Z 33,158.3,8.96,Canada,39.5,1552
+Energy Drink N 76,179.9,6.94,UK,18.1,743
+Energy Drink X 48,60.1,3.42,USA,18.2,31
+Energy Drink Y 81,249.5,7.94,France,44.1,764
+Energy Drink Q 61,266.8,7.28,South Korea,17.7,3665
+Energy Drink A 38,198.1,8.06,France,29.9,1179
+Energy Drink P 91,111.1,1.48,Japan,30.2,3675
+Energy Drink A 80,53.7,2.93,UK,18.7,2512
+Energy Drink P 17,123.6,5.46,Canada,31.0,3483
+Energy Drink I 86,227.2,5.8,South Korea,16.5,1026
+Energy Drink H 66,73.2,1.87,Japan,8.0,1691
+Energy Drink E 48,296.5,3.84,USA,46.4,1160
+Energy Drink F 54,127.0,2.23,USA,44.4,2091
+Energy Drink H 74,210.0,2.56,Canada,18.4,2188
+Energy Drink X 89,214.8,6.14,Canada,27.5,3202
+Energy Drink V 67,228.2,9.16,Canada,32.6,71
+Energy Drink V 89,227.1,5.65,UK,14.3,3056
+Energy Drink S 30,195.0,3.78,Canada,0.8,1468
+Energy Drink X 31,154.3,9.93,USA,18.1,953
+Energy Drink F 99,248.6,6.05,Japan,6.8,3585
+Energy Drink U 85,87.1,4.34,Japan,9.1,191
+Energy Drink G 56,269.0,1.15,Japan,25.5,2055
+Energy Drink R 30,252.7,8.52,Japan,42.1,2591
+Energy Drink U 45,224.5,4.57,South Korea,8.8,1967
+Energy Drink L 21,254.7,5.46,UK,14.4,2474
+Energy Drink W 20,277.9,5.45,Germany,24.0,1898
+Energy Drink W 24,50.1,9.06,South Korea,15.5,2342
+Energy Drink I 62,202.0,9.54,South Korea,9.1,2540
+Energy Drink H 11,235.8,1.89,Japan,33.9,316
+Energy Drink T 92,229.7,9.97,Japan,40.7,2761
+Energy Drink L 4,179.5,2.01,France,28.1,2586
+Energy Drink D 34,52.6,4.39,South Korea,24.7,1368
+Energy Drink A 44,114.7,2.67,France,5.8,3476
+Energy Drink K 96,52.9,7.41,UK,24.3,1325
+Energy Drink C 9,200.7,1.2,South Korea,33.2,2794
+Energy Drink N 98,153.0,7.22,Germany,45.0,3763
+Energy Drink T 68,231.2,2.0,UK,19.8,516
+Energy Drink X 23,241.8,3.76,USA,9.1,640
+Energy Drink Z 37,276.8,6.88,France,8.2,2276
+Energy Drink K 52,72.6,9.76,Japan,31.2,2416
+Energy Drink F 33,245.6,7.81,UK,36.2,1280
+Energy Drink M 96,241.8,9.62,UK,25.7,3976
+Energy Drink G 39,62.0,2.51,UK,1.0,1118
+Energy Drink Q 78,162.9,4.34,UK,28.3,206
+Energy Drink Z 61,222.5,5.12,Canada,42.5,3811
+Energy Drink O 68,111.3,4.54,South Korea,9.9,1329
+Energy Drink A 10,141.6,6.32,Canada,26.4,172
+Energy Drink X 58,268.9,7.14,South Korea,46.3,2722
+Energy Drink D 41,66.6,4.48,USA,7.6,2741
+Energy Drink Z 37,208.4,1.67,UK,12.1,1593
+Energy Drink N 17,119.6,1.24,Canada,49.1,2724
+Energy Drink T 21,182.0,8.57,Canada,49.9,1055
+Energy Drink C 5,51.2,7.0,USA,42.6,3791
+Energy Drink D 51,250.3,5.0,South Korea,47.8,2976
+Energy Drink X 82,118.8,6.82,South Korea,38.2,3373
+Energy Drink C 55,194.4,2.61,UK,48.5,2444
+Energy Drink E 33,77.7,2.1,Canada,43.4,1739
+Energy Drink R 74,150.6,1.07,UK,21.8,331
+Energy Drink F 93,58.3,6.33,Japan,49.7,1131
+Energy Drink Q 87,260.7,2.73,Japan,29.7,1592
+Energy Drink T 27,169.2,5.34,USA,6.7,3694
+Energy Drink Z 64,196.2,3.12,Japan,27.7,2312
+Energy Drink K 3,102.0,8.61,France,31.1,2952
+Energy Drink E 71,120.0,1.74,France,33.7,1683
+Energy Drink V 8,116.1,4.94,France,21.1,1996
+Energy Drink Y 13,242.2,6.81,South Korea,31.6,2506
+Energy Drink Y 100,87.8,8.23,UK,28.0,3567
+Energy Drink B 73,95.0,7.69,Germany,34.5,3293
+Energy Drink T 67,278.2,1.61,Germany,24.7,1588
+Energy Drink F 29,84.8,5.61,UK,36.9,2386
+Energy Drink O 73,165.2,8.25,Germany,2.7,456
+Energy Drink T 34,176.5,3.09,USA,31.8,1526
+Energy Drink S 32,269.6,6.66,France,35.3,675
+Energy Drink A 26,170.6,3.86,UK,35.4,861
+Energy Drink I 94,140.9,8.1,USA,7.7,634
+Energy Drink G 37,256.3,3.25,France,23.8,1672
+Energy Drink Q 59,217.9,6.76,UK,35.4,2459
+Energy Drink X 80,250.3,4.58,UK,12.4,2375
+Energy Drink Y 86,188.5,2.36,Japan,45.2,998
+Energy Drink O 21,79.8,8.42,Japan,4.7,3666
+Energy Drink N 42,166.9,2.43,France,1.3,2668
+Energy Drink Q 66,121.6,9.57,USA,2.7,1161
+Energy Drink Q 61,270.3,2.59,UK,21.0,2821
+Energy Drink I 41,258.3,5.17,UK,2.7,3843
+Energy Drink L 59,263.7,2.55,South Korea,49.6,3888
+Energy Drink D 81,251.2,1.94,UK,31.7,372
+Energy Drink K 65,243.9,9.16,South Korea,47.7,2927
+Energy Drink M 94,249.7,7.08,Canada,33.7,956
+Energy Drink L 66,83.2,3.04,Japan,41.7,3822
+Energy Drink I 91,71.5,7.06,South Korea,16.5,3723
+Energy Drink P 45,284.6,1.51,UK,32.8,2906
+Energy Drink G 64,125.8,5.08,UK,49.6,1284
+Energy Drink H 14,281.2,2.79,Japan,42.2,3370
+Energy Drink B 29,75.2,4.82,USA,33.5,3982
+Energy Drink Y 16,78.6,7.47,South Korea,15.0,1484
+Energy Drink H 90,204.6,4.93,South Korea,42.4,2580
+Energy Drink H 30,231.0,6.35,Canada,19.2,373
+Energy Drink J 56,102.3,4.12,Japan,44.4,2561
+Energy Drink L 14,147.2,5.8,Canada,33.4,3090
+Energy Drink D 21,211.1,8.85,France,16.2,814
+Energy Drink M 97,255.3,7.2,Japan,47.0,2547
+Energy Drink L 83,120.9,9.23,South Korea,8.7,1551
+Energy Drink D 90,140.7,1.88,USA,35.5,6
+Energy Drink C 91,299.0,2.06,Germany,4.2,2163
+Energy Drink P 49,99.0,5.59,Germany,19.7,3345
+Energy Drink Q 16,223.0,1.55,UK,16.9,93
+Energy Drink F 9,158.2,3.03,UK,47.0,2438
+Energy Drink M 8,224.5,7.91,USA,23.8,3927
+Energy Drink M 83,215.3,9.99,France,24.6,1467
+Energy Drink T 97,294.9,5.22,Canada,15.5,3988
+Energy Drink J 12,269.7,9.88,UK,41.9,2432
+Energy Drink S 20,269.1,9.35,Japan,7.5,3624
+Energy Drink O 72,107.2,5.4,France,22.0,1247
+Energy Drink O 28,99.9,2.12,Japan,45.4,785
+Energy Drink A 67,285.9,5.26,Japan,30.2,1277
+Energy Drink S 89,210.4,7.04,USA,37.8,2356
+Energy Drink H 42,85.4,8.69,South Korea,12.3,1082
+Energy Drink D 90,180.3,7.47,UK,18.8,36
+Energy Drink O 39,173.3,8.38,Japan,2.6,2034
+Energy Drink B 39,80.3,5.6,Canada,46.8,2175
+Energy Drink F 75,201.6,1.91,UK,42.3,3419
+Energy Drink A 83,57.0,7.8,South Korea,28.2,1819
+Energy Drink Q 66,189.9,4.01,France,14.6,3020
+Energy Drink W 80,174.4,7.65,USA,10.3,1149
+Energy Drink U 54,251.5,6.82,Japan,48.0,3250
+Energy Drink M 55,245.4,3.94,UK,49.4,3192
+Energy Drink T 36,59.3,9.69,USA,0.9,2083
+Energy Drink Z 86,100.1,6.43,Canada,17.3,2426
+Energy Drink J 98,75.0,7.8,South Korea,14.6,2968
+Energy Drink O 6,99.5,6.28,Canada,15.6,2974
+Energy Drink J 38,91.0,4.58,Germany,1.3,438
+Energy Drink T 55,269.7,6.17,France,30.8,2788
+Energy Drink S 57,151.3,3.78,UK,17.3,932
+Energy Drink L 71,51.8,4.79,USA,17.4,3628
+Energy Drink X 80,220.8,3.73,South Korea,32.1,546
+Energy Drink O 79,165.4,7.83,Japan,44.1,1223
+Energy Drink T 64,209.5,4.57,USA,33.1,1141
+Energy Drink N 19,147.6,4.04,UK,49.9,3471
+Energy Drink N 75,105.9,8.13,Germany,16.6,2728
+Energy Drink E 27,255.8,3.02,USA,43.3,1062
+Energy Drink P 6,71.9,5.93,USA,8.0,3783
+Energy Drink Y 18,57.6,9.67,USA,40.8,789
+Energy Drink L 9,210.1,2.16,Germany,18.8,3294
+Energy Drink M 76,108.6,2.07,Germany,22.3,1703
+Energy Drink F 30,88.7,5.82,Japan,43.6,3586
+Energy Drink P 1,212.5,5.66,South Korea,25.3,3130
+Energy Drink O 39,127.9,3.43,Japan,17.7,3299
+Energy Drink B 90,186.2,5.02,France,5.5,3304
+Energy Drink A 27,175.3,2.34,UK,46.7,3730
+Energy Drink U 4,175.3,9.78,South Korea,33.9,394
+Energy Drink Y 10,91.4,2.59,France,15.3,3648
+Energy Drink V 59,95.8,9.78,France,18.1,1885
+Energy Drink A 67,297.8,8.89,Canada,29.0,2896
+Energy Drink W 18,193.3,2.28,Japan,6.2,520
+Energy Drink U 39,206.8,6.48,Canada,1.8,1970
+Energy Drink R 65,119.5,9.73,France,0.1,783
+Energy Drink Z 56,99.8,7.81,UK,49.1,3028
+Energy Drink W 20,175.5,8.32,South Korea,2.5,1649
+Energy Drink K 91,296.9,2.57,USA,35.7,2393
+Energy Drink Z 50,299.0,6.06,South Korea,46.5,72
+Energy Drink X 18,279.7,1.67,UK,11.6,3536
+Energy Drink E 3,52.7,9.84,Germany,31.3,496
+Energy Drink G 19,131.4,9.39,South Korea,44.8,1702
+Energy Drink Y 2,141.6,5.95,UK,34.1,583
+Energy Drink V 87,89.8,3.18,France,37.5,3084
+Energy Drink N 77,95.7,8.48,Germany,2.7,2704
+Energy Drink X 79,226.5,6.64,South Korea,9.5,3673
+Energy Drink Q 7,194.8,3.72,USA,5.0,2915
+Energy Drink R 11,154.3,5.73,UK,34.3,385
+Energy Drink J 29,139.7,1.79,South Korea,3.1,1029
+Energy Drink T 66,128.4,8.59,Germany,14.0,3965
+Energy Drink Z 48,168.1,3.17,France,5.8,1411
+Energy Drink T 66,235.2,6.0,Germany,40.4,2560
+Energy Drink V 55,247.7,6.0,USA,40.9,3100
+Energy Drink F 98,290.6,6.93,USA,31.0,2073
+Energy Drink U 62,120.9,9.32,France,45.5,812
+Energy Drink E 48,198.6,5.54,USA,29.4,96
+Energy Drink F 90,126.9,3.14,Japan,8.0,340
+Energy Drink E 59,152.6,1.03,Canada,32.0,2899
+Energy Drink D 98,214.3,6.01,Germany,20.4,892
+Energy Drink Q 90,265.5,6.83,Germany,19.9,1015
+Energy Drink P 31,155.7,6.56,USA,16.9,928
+Energy Drink Y 7,117.8,8.35,Canada,7.7,665
+Energy Drink J 68,114.0,4.74,Japan,42.0,1266
+Energy Drink S 15,167.7,5.85,USA,15.3,2598
+Energy Drink R 6,57.0,9.7,South Korea,17.3,1940
+Energy Drink L 45,94.4,4.03,Canada,47.9,13
+Energy Drink L 83,99.5,4.37,Canada,43.6,1319
+Energy Drink Y 9,237.9,8.5,France,0.4,80
+Energy Drink Y 39,102.9,2.73,Canada,11.0,3939
+Energy Drink Q 45,205.7,5.3,France,18.1,2929
+Energy Drink L 90,264.1,3.35,Canada,32.4,348
+Energy Drink F 6,263.9,9.14,Japan,27.4,1333
+Energy Drink D 74,158.7,7.58,France,4.2,2124
+Energy Drink I 49,81.5,1.84,UK,37.4,477
