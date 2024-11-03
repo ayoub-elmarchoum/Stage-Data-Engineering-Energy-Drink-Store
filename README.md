@@ -1,15 +1,15 @@
-# Stage-Data-Engineering-Energy-Drink-Store
+# Data-Engineering-Project-energy drinks  -Store
 In this project, I created an __entire data architecture__ for a made-up energy drinks Retail  shop that will enable shop managers to make decisions based on their data. 
 This project will simulate the entire process that data-driven companies do to make data-based decisions.
 
 __The project will include Web Scraping, processing and transforming data, loading and designing a Database and a Data Warehouse, and finally, analysis and descision making.__
 
 ## Project Architecture
-![document] 
+![document](Project Architecture.jpg)
 
 
 ## Part 1 - Web Scraping
-In this part I web scraped whisky product data from EnergyDrinks website.
+In this part I web scraped whisky product data from EnergyDrinks.
 
 Run this to apply the code:
 
@@ -59,7 +59,7 @@ python generate_store_data.py
 
 - Current Schema:
 
-![current_schema](https://user-images.githubusercontent.com/65648983/200842768-8f03b391-cea9-44bf-9296-26abadefccf8.png)
+![current_schema](images for github\currentshema.png)
 
 
 - Run this to design the data
@@ -69,6 +69,8 @@ python normalize_data.py
 
 - Finished Schema:
 
+![Finished Schema](images for github\Finished Schema.jpg)
+
 3. Load the Data to MySQL
 ```
 Python load_data.py
@@ -77,6 +79,7 @@ Python load_data.py
 ## End Result
 All the Data is now stored in MySQL.
 
+![endSchema](images for github\endSchema.jpg)
 
 
 
@@ -110,6 +113,8 @@ generate_fact_table.sql
 triggers.sql
 ```
 ### Finished Data Warehouse Schema:
+
+![dwh_ecom](images for github\dwh_ecom.jpg)
 
 **********************************************************************************************************************************
 **********************************************************************************************************************************
@@ -166,12 +171,12 @@ probabilities of 0.2031% and 0.1855%, respectively. Lastly, Energy Drink T hasa 
 
 3. Question 3 — Are there any interesting patterns as to when customers like to buy whiskey? If so what are they?
 
-![Q3](transactions_vs_month.png)
-![Q3](energy_drink_sales_by_day.png)
+![Q3](Part 4 - Data Analysis\transactions_vs_month.png)
+![Q3](Part 4 - Data Analysis\energy_drink_sales_by_day.png)
 4. Q4 — Are we growing as a company in terms of profits or not?
-![Q4](Cummulative Profit.png)
+![Q4](Part 4 - Data Analysis\Cumulative_Profit.png)
 
 
 5. Q5 — From which counties do most of the customers come from
-![Q5](top_countries_by_customers.png)
+![Q5](Part 4 - Data Analysis\top_countries_by_customers.png)
 
