@@ -5,7 +5,7 @@ This project will simulate the entire process that data-driven companies do to m
 __The project will include Web Scraping, processing and transforming data, loading and designing a Database and a Data Warehouse, and finally, analysis and descision making.__
 
 ## Project Architecture
-![document](Project Architecture.jpg)
+![document](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Project%20Architecture.jpg)
 
 
 ## Part 1 - Web Scraping
