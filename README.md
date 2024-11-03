@@ -9,7 +9,7 @@ __The project will include Web Scraping, processing and transforming data, loadi
 
 
 ## Part 1 - Web Scraping
-In this part I web scraped whisky product data from https://www.EnergyDrinks.com/.
+In this part I web scraped whisky product data from EnergyDrinks website.
 
 Run this to apply the code:
 
