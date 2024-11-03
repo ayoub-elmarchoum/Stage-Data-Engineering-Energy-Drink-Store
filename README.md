@@ -36,7 +36,7 @@ Energy Drink F     |           57        |  148.9    | Germany |    10.4
 
 ```
 
-2. Exported CSV files of each type of Energy Drink :
+2. Exported CSV files of each type of Energy Drink
 
 
 
@@ -59,7 +59,7 @@ python generate_store_data.py
 
 - Current Schema:
 
-![current_schema](images for github\currentshema.png)
+![current_schema](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/images%20for%20github/Current%20Schema.svg)
 
 
 - Run this to design the data
@@ -69,7 +69,7 @@ python normalize_data.py
 
 - Finished Schema:
 
-![Finished Schema](images for github\Finished Schema.jpg)
+![Finished Schema](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/images%20for%20github/Finished%20Schema.jpg)
 
 3. Load the Data to MySQL
 ```
@@ -79,7 +79,7 @@ Python load_data.py
 ## End Result
 All the Data is now stored in MySQL.
 
-![endSchema](images for github\endSchema.jpg)
+![endSchema](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/images%20for%20github/endSchema.jpg)
 
 
 
@@ -114,7 +114,7 @@ triggers.sql
 ```
 ### Finished Data Warehouse Schema:
 
-![dwh_ecom](images for github\dwh_ecom.jpg)
+![dwh_ecom](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/images%20for%20github/dwh_ecom.jpg)
 
 **********************************************************************************************************************************
 **********************************************************************************************************************************
@@ -131,8 +131,8 @@ python analyze_data.py
 ### End Result  Data Analysis
 
 1. Q1 — Which types of energy drinks produce the most profit?
-top_5_most_profitable_products.png
 
+![Q1](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Part%204%20-%20Data%20Analysis/top_5_most_profitable_products.png)
 2. Q2 — Which types of whisky people usually buy?
 result:
 Product                         Probablity to Buy
@@ -171,12 +171,12 @@ probabilities of 0.2031% and 0.1855%, respectively. Lastly, Energy Drink T hasa 
 
 3. Question 3 — Are there any interesting patterns as to when customers like to buy whiskey? If so what are they?
 
-![Q3](Part 4 - Data Analysis\transactions_vs_month.png)
-![Q3](Part 4 - Data Analysis\energy_drink_sales_by_day.png)
+![Q3](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Part%204%20-%20Data%20Analysis/transactions_vs_month.png)
+![Q3](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Part%204%20-%20Data%20Analysis/energy_drink_sales_by_day.png)
 4. Q4 — Are we growing as a company in terms of profits or not?
-![Q4](Part 4 - Data Analysis\Cumulative_Profit.png)
+![Q4](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Part%204%20-%20Data%20Analysis/Cumulative_Profit.png)
 
 
 5. Q5 — From which counties do most of the customers come from
-![Q5](Part 4 - Data Analysis\top_countries_by_customers.png)
+![Q5](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Part%204%20-%20Data%20Analysis/top_countries_by_customers.png)
 
