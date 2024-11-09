@@ -17,7 +17,7 @@ Run this to apply the code:
 python Scrape_data.py
 
 ```
-```
+
 
 
 ## End Result
@@ -113,7 +113,9 @@ generate_fact_table.sql
 triggers.sql
 ```
 ### Finished Data Warehouse Schema:
+![dwh_ecom1](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/images%20for%20github/datawarehouse_ecom.jpg)
 
+in mysql : 
 ![dwh_ecom](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/images%20for%20github/dwh_ecom.jpg)
 
 **********************************************************************************************************************************
@@ -135,6 +137,7 @@ python analyze_data.py
 ![Q1](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Part%204%20-%20Data%20Analysis/top_5_most_profitable_products.png)
 2. Q2 — Which types of whisky people usually buy?
 result:
+```
 Product                         Probablity to Buy
 0   Energy Drink X 46             0.002385
 1   Energy Drink L 14             0.002031
@@ -165,7 +168,7 @@ For instance, Energy Drink X has a 0.2385% chance of being purchased by a random
 indicating strong popularity. Similarly, Energy Drink L and D follow with 
 probabilities of 0.2031% and 0.1855%, respectively. Lastly, Energy Drink T hasa 0.1766% chance,
  suggesting it remains a viable option but is less favored compared to the others.
-'''
+```
 
 
 
