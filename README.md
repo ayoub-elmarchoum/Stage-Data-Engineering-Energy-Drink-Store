@@ -135,7 +135,7 @@ python analyze_data.py
 1. Q1 — Which types of energy drinks produce the most profit?
 
 ![Q1](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Part%204%20-%20Data%20Analysis/top_5_most_profitable_products.png)
-2. Q2 — Which types of whisky people usually buy?
+2. Q2 — Which types of Energy Drink people usually buy?
 result:
 ```
 Product                         Probablity to Buy
@@ -172,7 +172,7 @@ probabilities of 0.2031% and 0.1855%, respectively. Lastly, Energy Drink T hasa 
 
 
 
-3. Question 3 — Are there any interesting patterns as to when customers like to buy whiskey? If so what are they?
+3. Question 3 — Are there any interesting patterns as to when customers like to buy  Energy Drink ? If so what are they?
 
 ![Q3](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Part%204%20-%20Data%20Analysis/transactions_vs_month.png)
 ![Q3](https://github.com/ayoub-elmarchoum/Stage-Data-Engineering-Energy-Drink-Store/blob/main/Part%204%20-%20Data%20Analysis/energy_drink_sales_by_day.png)
