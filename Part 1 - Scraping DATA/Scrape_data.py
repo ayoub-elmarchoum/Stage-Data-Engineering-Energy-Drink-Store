@@ -221,14 +221,4 @@ payment_df = payment_df.merge(product_df[['product_id', 'Price_USD']], on='produ
 
 
 
-# Adding the Alcohol_price column to the table
-query = """
-SELECT p1.*, p2.Price_USD as price
-FROM payment_df p1
-INNER JOIN product_df p2
-ON p1.product_id = p2.product_id
-"""
 
-payment_df = sql(query)
-payment_df.to_csv('payment_df.csv', index=False)
-print("Saved 'payment_df.csv' with payment transactions.")

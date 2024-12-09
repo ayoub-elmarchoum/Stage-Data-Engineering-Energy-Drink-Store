@@ -10,17 +10,17 @@ employee_df = pd.read_csv('employee_df.csv')
 payment_df = pd.read_csv('payment_df.csv')
 
 '''
-1. Connecting Python to MySQL
+1. Connecting Python to postgres
 '''
 
-connection = pymysql.connect(host ='localhost',port=int(3306),user='root',passwd='')
+connection = pymysql.connect(host ='localhost',port=int(5432),user='postgres',passwd='Ayoub1234@')
 print("connection good")
 
 # Creating a cursor object
 cursor = connection.cursor()
 
 '''
-2. Creating a new Schema
+2. Creating a new Schema 
 '''
 
 # Create a new schema called whiskey_shop
